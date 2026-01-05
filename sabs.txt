@@ -70,3 +70,4 @@ vmess://eyJuZXQiOiJ0Y3AiLCJwcyI6IiVGMCU5RiU4NyVBOSVGMCU5RiU4NyVBQSU0MHdndWFyZHZw
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ@94.131.104.147:443#Telegram%3A%20%40v2node ### 1767609865542
 vless://7b148add-4438-426e-a583-50f11e7bd0e4@91.107.244.15:443?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#Telegram%3A%20%40v2node ### 1767609865542
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJC#Telegram%3A%20%40v2node</code></blockquote> ### 1767609865542
+vless://8619e4c1-0984-4dce-83e3-419e2d7f5079@yt-noads.sbrf-cdn342.ru:4241?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=-8Dc8Dm5YzxVvllu8W5Uc7N9rq27_A3McxYXArNyJQs&sid=0a381e1fa219#%F0%9F%87%B7%F0%9F%87%BA@wguardvpn ### 1767610167671
