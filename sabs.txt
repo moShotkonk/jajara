@@ -45,3 +45,4 @@ vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@5.10.214.158:2096?path=%2F%3Fed%3D2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#Telegram%3A%20%40v2node ### 1767607725283
 vless://4d7a559b-6379-41a7-9e51-41ef759846aa@146.103.124.128:443?path=%2F%3Fed%3D2048%2F&amp;security=tls&amp;encryption=none&amp;type=httpupgrade&amp;sni=nl1.nfnpx.online#Telegram%3A%20%40v2node ### 1767607725283
 vless://7c3c4b64-dcc0-4cdb-b52b-c2f321cd7311@betty.ns.cloudflare.com:443?path=%2Ftyipizws&amp;security=tls&amp;encryption=none&amp;host=639028216785109112.fit-amsjl.info&amp;type=ws&amp;sni=639028216785109112.fit-amsjl.info#Telegram%3A%20%40v2node</code></blockquote> ### 1767607725283
+vless://f9a07fed-364e-42f2-ac3f-18708ccd0024@www.visa.com.sg:8443?encryption=none&amp;security=tls&amp;sni=surena-persian-gulf.user695b5214d5444.workers.dev&amp;fp=random&amp;type=ws&amp;path=%2F%3Fed%3D2560#@configfarsi ### 1767607766076
