@@ -172,3 +172,4 @@ vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@181.214.231.180:443?mode=stream-one
 vless://7ffc4438-1f30-4476-8d22-7073e2d4fbd3@deadseectelegram.blackandwhiteshop.ir:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=VPNV2RAYXZ.slimyoutaavers.ir&amp;type=xhttp#%F0%9F%AA%B7%F0%9F%AA%B73 ### 1767723474883
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@181.214.231.8:443?mode=stream-one&amp;path=%2Fstatue&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=statue.lnmarketplace.net&amp;fp=firefox&amp;type=xhttp&amp;sni=statue.lnmarketplace.net#%F0%9F%AA%B7%F0%9F%AA%B78 ### 1767723474883
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MmYzYTgzZjE1NTZjMGUz@57.129.129.247:29757#%F0%9F%AA%B7%F0%9F%AA%B79 ### 1767723474883
+vless://283bf28a-e58a-4e23-bf21-e6e72875bfe5@farx.hashtag.cinemaaliiiiii.top:4371?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%7C%E2%80%A2%40confegraigan ### 1767723667513
