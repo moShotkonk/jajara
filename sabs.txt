@@ -540,3 +540,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZjljYjlhZWYzMTdmMDk2@147.135.77.6:11201?#%F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOTZkNmI0MmUzMDU5NWRj@15.204.28.84:11201?#%F0%9F%87%BA%F0%9F%87%B8%5Bwww.v2nodes.com%5D%20ss-US-12476395 ### 1767825147394
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2Y4ZDg3MGMwY2EwNGJj@147.135.78.88:11201?#%F0%9F%87%BA%F0%9F%87%B8%5Bwww.v2nodes.com%5D%20ss-US-12452397 ### 1767825147394
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.98:8880?encryption=none&security=none&sni=%2F%3F---%40Azarbayjab1_Net---%40Azarbayjab1_Net---%40azarbayjab1_Net---%40azarbayjab1_Net---%40Azarbayjab1_Net&fp=chrome&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%5Bwww.v2nodes.com%5D%20vless-US-12501948 ### 1767825147394
+vless://104898cf-6157-4d88-a925-19a8356b7ff8@z2.zincfast5.ir:20411?type=tcp&encryption=none&path=%2F&host=anten.ir&headerType=http&security=none#Telegram%20Channel%20%3A%20LAKPOSHTWAR ### 1767826732158
