@@ -323,3 +323,7 @@ vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?path=%2F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTA2MGE4ZGUzNDY3MTc0@57.128.190.212:10013#Telegram%3A%20%40v2node ### 1767869707161
 vless://18b38135-f9f4-4ceb-a81b-d30466483133@am.speeditest.ir:81?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#V2WRAY%F0%93%84%82%F0%93%86%83 ### 1767870807612
 vless://18b38135-f9f4-4ceb-a81b-d30466483133@am.speeditest.ir:81?security=none&amp;encryption=none&amp;host=excoino.com&amp;headerType=http&amp;type=tcp#V2WRAY%F0%93%84%82%F0%93%86%83 ### 1767870821796
+vless://4cd5c417-f35b-4ceb-9cdd-fa5060a3069c@real-z4.sdcards1.ir:8586?security=reality&encryption=none&pbk=58yfyRJyku8oddKvCIBHz0K8LrTWKr3qTe-DMUcrWEg&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=ea0e387f2b260e0d#ParsVpn ### 1767870833606
+vless://4cd5c417-f35b-4ceb-9cdd-fa5060a3069c@real-z5.sdcards1.ir:8586?security=reality&encryption=none&pbk=58yfyRJyku8oddKvCIBHz0K8LrTWKr3qTe-DMUcrWEg&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=ea0e387f2b260e0d#ParsVpn ### 1767870833606
+vless://4cd5c417-f35b-4ceb-9cdd-fa5060a3069c@real-z4.sdcards1.ir:6026?security=&encryption=none&host=www.stackoverflow.com&headerType=http&type=tcp#ParsVpn ### 1767870833606
+vless://4cd5c417-f35b-4ceb-9cdd-fa5060a3069c@real-z4.sdcards1.ir:6026?security=&encryption=none&host=time.ir&headerType=http&type=tcp#ParsVpn ### 1767870833606
