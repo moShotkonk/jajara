@@ -54,3 +54,4 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.107:38388#NetAccount</code> ### 1768828063964
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.75:38388#NetAccount</code> ### 1768828063964
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@95.174.71.98:2377/?plugin=simple-obfs%3Bobfs%3Dtls%3Bobfs-host%3De7b7ab7%3A102816#NetAccount</code> ### 1768828063964
+vless://a21aca43-aaae-4e4a-a64f-ff1afc285eb6@ee1vip.vnet215.xyz:24003?security=none&amp;encryption=none&amp;host=zara.com&amp;headerType=http&amp;type=tcp#NetAccount</code> ### 1768829303068
