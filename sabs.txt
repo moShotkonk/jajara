@@ -105,3 +105,4 @@ vless://a6aeb7d9-007c-42bd-a0ff-6fea9acff4f9@chatgpt.com:443?path=%2F&amp;securi
 vless://3f6e4c47-0d59-4e64-b307-973418b5765a@chatgpt.com:8443?path=%2F&security=tls&encryption=none&host=cdn.aryadownload.xyz&fp=chrome&type=ws&sni=cdn.aryadownload.xyz#NetAccount ### 1768855881884
 vless://be355b49-6632-4d54-8c98-0e228874cbbe@chatgpt.com:2096?path=%2F&security=tls&encryption=none&host=cdn.aryadownload.xyz&fp=chrome&type=ws&sni=cdn.aryadownload.xyz#NetAccount ### 1768855881884
 vless://a6aeb7d9-007c-42bd-a0ff-6fea9acff4f9@chatgpt.com:443?path=%2F&security=tls&encryption=none&host=cdn.aryadownload.xyz&fp=chrome&type=ws#NetAccount` ### 1768855881884
+vless://72d71a79-8412-4f22-8320-e2b78075d95e@188.0.247.218:8989?path=%2F&security=none&encryption=none&type=ws#NetAcccount ### 1768856570073
