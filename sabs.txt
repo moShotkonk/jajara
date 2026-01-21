@@ -345,3 +345,4 @@ vless://184edbef-d8c0-4732-bf1f-f2cc1c18e932@194.56.148.186:169?security=none&en
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEdllDRVlTU0E1dzhmYTBaWTgtLWs4bVdBRXJiMnVEZg%3D%3D@138.124.118.94:8080#NetAccount ### 1769013489709
 vless://0142a151-e647-416b-aedd-afd06c66015e@45.142.189.13:8081?encryption=none&type=tcp&security=none#NetAccount ### 1769013489709
 vless://bf3303bd-17ee-4508-bf01-14c378802e61@chatgpt.com:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=cdn-uk.fxcdn.ir#NetAccount</code> ### 1769013619256
+vless://e258977b-e413-4718-a3af-02d75492c349@chatgpt.com:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=x-hk1.xaniusnippets.qzz.io&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=x-hk1.xaniusnippets.qzz.io#NetAccount</code> ### 1769014344550
