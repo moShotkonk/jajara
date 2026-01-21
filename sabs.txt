@@ -502,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#NetAccount ### 1769037157698
 vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.153.2:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=ziyong.boringdad.netlib.re#NetAccount ### 1769037157698
 vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.153.2:443?path=%2F&security=tls&encryption=none&insecure=0&host=ziyong.boringdad.netlib.re&fp=chrome&type=ws&allowInsecure=0&sni=ziyong.boringdad.netlib.re#NetAccount ### 1769037157698
+vless://12345678-1234-1234-1234-123456789123@162.159.152.4:2096?path=%2Fsnippets&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=vless.hubp.de&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=vless.hubp.de#NetAccount</code> ### 1769037271625
