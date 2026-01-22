@@ -460,3 +460,4 @@ vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=s
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@143.20.213.40:8443?encryption=none&security=tls&sni=sni.111000.de5.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.de5.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%E7%BE%8E%E5%9B%BD_0108182034 ### 1769114311644
 vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@104.16.147.32:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=l.ayovo.netlib.re&type=ws&allowInsecure=0&sni=l.ayovo.netlib.re#%40ServerTel%20%F0%9F%8C%B9%F0%9F%91%91 ### 1769114334198
 vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@104.16.147.32:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=l.ayovo.netlib.re&type=ws&sni=l.ayovo.netlib.re#Vip+%E2%AD%90 ### 1769114452617
+vless://628d9f2a-fe10-426f-94cc-097a3bf8a555@m1.arshiaspeed.shop:2086?security=none&encryption=none&headerType=none&type=tcp#vmessorg ### 1769114515135
