@@ -512,3 +512,7 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@8.6.112.0:443?path=%2F&security=tls
 vless://0c25a14e-d029-4af7-9db5-cc341db40867@chatgpt.com:443?encryption=none&amp;security=tls&amp;type=ws&amp;host=gainsboro.qzz.io&amp;path=%2F57.129.47.14%3D8443&amp;sni=gainsboro.qzz.io#NetAccount</code> ### 1769039534330
 vless://0c25a14e-d029-4af7-9db5-cc341db40867@chatgpt.com:443?encryption=none&amp;security=tls&amp;sni=gainsboro.qzz.io&amp;type=ws&amp;host=gainsboro.qzz.io&amp;path=%2F91.132.160.151%3D443#NetAccount</code> ### 1769039875887
 vless://0c25a14e-d029-4af7-9db5-cc341db40867@chatgpt.com:443?encryption=none&security=tls&sni=gainsboro.qzz.io&type=ws&host=gainsboro.qzz.io&path=%2F172.86.68.95%3D2053#NetAccount ### 1769040771420
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@8.6.112.0:443?path=%2F&security=tls&encryption=none&host=dev.qsaas.dev&type=ws&sni=dev.qsaas.dev#%40Volt2Ray ### 1769040929281
+vless://a5f130ee-c537-48fe-aaf2-d7c1c17d0b96@8.6.112.0:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=sinesukhte.ecoping1.net&fp=chrome&type=ws&allowInsecure=0&sni=sinesukhte.ecoping1.net#%40Volt2Ray ### 1769040929281
+vless://7e056fe0-bda1-4eb3-b0b2-4eca253c9d75@ip.ali.lat:2053?type=ws&path=%2Fws123&host=iran.ali.lat&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=iran.ali.lat#%40Volt2Ray ### 1769040929281
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@8.6.112.0:443?encryption=none&security=tls&sni=dev.qsaas.dev&insecure=0&allowInsecure=0&type=ws&host=dev.qsaas.dev&path=%2F#%40Volt2Ray ### 1769040929281
