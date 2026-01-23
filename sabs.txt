@@ -467,3 +467,6 @@ vless://3498a813-4682-791e-c331-4ffe42be9105@dl1.aparat-content.iwantfun.ir:4450
 vless://41384a34-af16-4bf9-aca5-e808f1e723ae@ip2-fast.tyryqyserver.ir:80?path=%2F%3Fed%3D2052&amp;security=&amp;encryption=none&amp;host=norbertfn1.global.ssl.fastly.net&amp;type=ws#BESTIIVPNBOT ### 1769157568958
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@192.0.54.158:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.de5.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.de5.net#BESTIIVPNBOT ### 1769157568958
 vless://66cc52de-6985-4c89-8900-4372590d32bf@us2.bestforcast.com:7845?security=&amp;encryption=none&amp;type=ws#BESTIIVPNBOT ### 1769157568958
+vless://41384a34-af16-4bf9-aca5-e808f1e723ae@ip2-fast.tyryqyserver.ir:80?path=%2F%3Fed%3D2052&security=&encryption=none&host=norbertfn1.global.ssl.fastly.net&type=ws#BESTIIVPNBOT ### 1769157686763
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@192.0.54.158:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.de5.net#BESTIIVPNBOT ### 1769157686763
+vless://66cc52de-6985-4c89-8900-4372590d32bf@us2.bestforcast.com:7845?security=&encryption=none&type=ws#BESTIIVPNBOT ### 1769157686763
