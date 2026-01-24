@@ -342,3 +342,4 @@ vless://307a283d-8f3c-4ef6-ab6a-6a57f064e7ba@s31629.asancall.cloud:8443?path=%2F
 vless://8755801f-8eab-43d5-9bc6-d740c5fe12ee@p1.mvp2023.top:943?security=none&encryption=none&headerType=http&type=tcp#BESTIIVPNBOT ### 1769234551232
 vless://9eedc58e-47e4-44e1-8200-91f89f3bce41@t61617.skytunnel.ir:8800?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#BESTIIVPNBOT ### 1769234551232
 vless://1c2cb6e4-1594-4ba1-8b2b-ac26d0eadc00@chatgpt.com:443?path=%2Fvideo&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=www.alitehran.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.alitehran.ir#BESTIIVPNBOT ### 1769234551232
+vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#%E2%92%8B%E2%A5%BD%20%40FNETPRO%20%E2%A5%BC%20%F0%9F%87%B3%F0%9F%87%B1 ### 1769234592804
