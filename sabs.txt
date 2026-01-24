@@ -393,3 +393,4 @@ vless://e3ad047d-9f7c-48a2-9cca-67a72fa6d9ec@87.239.252.186:443?security=reality
 vless://57Ebyf5pwRThNYOILp4QjR@171.22.183.30:443?type=xhttp&security=reality&pbk=WMata9ZQHSSloDct5hrKIQl0H_ZBsGskNB3ZJgh2bgc&fp=chrome&sni=m.vk.ru&sid=3b4cda6d43506cf8&spx=%2F#🇳🇱A-NL-vless ### 1769257156362
 vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@91.108.245.93:2584?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40v2rayghavii%20%C2%AB%C2%AB%20%DA%AF%D9%BE%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF ### 1769257426611
 vless://7a55b2ba-f03e-4473-843a-15f9e5e097a2@ivar.ivarshop.ir:44521?security=none&encryption=none&headerType=http&type=tcp#%40freevpn404%20V2ray%202%20%2824%20jan%29 ### 1769258065470
+vless://05599d3e-a0e7-4919-ac3b-32fd6cca27b8@ir.carefreemob2.com:6055?security=none&encryption=none&headerType=none&type=tcp#%40freevpn404%20V2ray%203%20%2824%20jan%29 ### 1769258165774
