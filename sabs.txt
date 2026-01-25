@@ -310,3 +310,4 @@ vless://0044dfce-62ac-4734-919a-fcbf79e9ec12@mkh.v2plus.ovh:443?path=%2F&securit
 vless://e28e7f77-262a-44f4-b8ea-addf20a0b874@185.228.236.237:80?path=%2Fpreply&security=none&encryption=none&host=nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir&type=ws#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3 ### 1769365408106
 vless://dfb10506-3ee8-414c-c2f4-9d1bb75bf363@SpeedTest.neT:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=Wwwfffffii.Global.ssl.fastly.neT.&amp;type=ws#NetAccount</code> ### 1769366000853
 vless://dfb10506-3ee8-414c-c2f4-9d1bb75bf363@SpeedTest.neT:80?path=%2F&security=none&encryption=none&host=Wwwfffffii.Global.ssl.fastly.neT.&type=ws#NetAccount ### 1769366006590
+vless://b5585686-fb26-4534-8f84-71ac40a3f462@FaStly2.YaShArMoBiLe.cOm:8880?path=%2F%3Fed&amp;security=none&amp;encryption=none&amp;host=moslem3.yasharteam.com&amp;type=ws#%5B%F0%9F%87%B3%F0%9F%87%B1%5Dt.me%2FFnetpro</code> ### 1769366045995
