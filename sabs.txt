@@ -1,4 +1,3 @@
-vless://31f3978b-2190-43be-a5ec-c95bb15222ca@freak3.infospeedtest.com:16520?security=reality&encryption=none&pbk=-5e53l-_LDS-8t3jvxaL2rjWLlfzFCu2B5BycO2f904&headerType=none&fp=chrome&spx=%2F9rzegbzj5dg3UfV&type=tcp&sni=yahoo.com&sid=3729db2a87a744b4#@Phoenix_Configs ### 1769306308023
 vless://0d6716db-7e72-4a88-8eb5-2124011d6a5a@95.85.232.131:10182?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=Excoino.com#NetAccount</code> ### 1769306945246
 vless://41477c12-82d0-4809-935d-137bd448d823@89.40.117.189:40938?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#NetAccount</code> ### 1769306945246
 vless://1e4bebee-30b8-4195-a10f-c48dbf4f8b36@95.211.45.250:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=www.samsung.com&amp;fp=chrome&amp;pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&amp;type=tcp&amp;headerType=none#NetAccount</code> ### 1769306945246
@@ -301,3 +300,4 @@ vless://2d82a30d-35dc-4080-9814-33ba1f53b7eb@208.103.161.62:8880?path=%2FArfilte
 vless://1e1b9a1f-47cd-4cb2-a0dc-103a09e253ba@nl.iccgame.site:3000?security=none&amp;encryption=none&amp;host=chess.com&amp;headerType=http&amp;type=tcp#NetAccount</code> ### 1769363838260
 vless://0044dfce-62ac-4734-919a-fcbf79e9ec12@mkh.v2plus.ovh:443?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=siria2.mrpixanos.ir#NetAccount</code> ### 1769363838260
 vless://e28e7f77-262a-44f4-b8ea-addf20a0b874@185.228.236.237:80?path=%2Fpreply&amp;security=none&amp;encryption=none&amp;host=nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir&amp;type=ws#NetAccount</code> ### 1769363838260
+vless://893fed59-18a7-4d1c-ba63-5352ca2cee7a@151.101.195.8:80?security=none&allowInsecure=0&encryption=none&type=ws&host=cbi.ir&path=/ArtistsBiography?ed%3D2560#⚡Telegram ### 1769364045800
