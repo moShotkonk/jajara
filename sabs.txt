@@ -302,3 +302,5 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.193:443?security=tls&enc
 vless://1e1b9a1f-47cd-4cb2-a0dc-103a09e253ba@nl.iccgame.site:3000?encryption=none&type=tcp&headerType=http&host=chess.com&security=none#NetAccount ### 1769364638416
 vless://0044dfce-62ac-4734-919a-fcbf79e9ec12@mkh.v2plus.ovh:443?encryption=none&type=ws&path=/&security=tls&sni=siria2.mrpixanos.ir&alpn=h3,h2,http/1.1#NetAccount ### 1769364638416
 vless://40dbfba3-43df-4186-be1e-388e604ddca1@arashnetofficial.sbs:443?path=%2F&security=none&encryption=none&host=arashnetofficial.sbs&type=ws#Test-09w1xs0p ### 1769364661030
+vless://dfb10506-3ee8-414c-c2f4-9d1bb75bf363@fast1.p31download.com:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=Alliiiiiii.Global.ssl.Fastly.neT&amp;type=ws#NetAccount</code> ### 1769364668966
+vless://dfb10506-3ee8-414c-c2f4-9d1bb75bf363@fast1.p31download.com:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=Webar.Global.sSl.fastly.neT.&amp;type=ws#NetAccount</code> ### 1769364668966
