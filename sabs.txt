@@ -296,3 +296,4 @@ vless://76aa0ce6-04df-4b40-9642-a9bdb3efc38d@italy.aparat-movies-download.ir:425
 vless://6df3cc5d-a9e5-4117-8ddc-bedbe44a6f14@site.systemgamingirani.ir:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=host.my-iranparspack.ir#%D9%85%D9%86%D8%B7%D9%82%D9%87%20%D8%A7%DB%8C ### 1769333311975
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#%40filembad ### 1769333311975
 vless://fbe0d38f-5d9c-4d4e-9dbd-8f96584989e0@fair.iranis.art:8088?path=%2F&security=none&encryption=none&type=ws#%40fox_vpntuneel%2081 ### 1769333311975
+vless://6474b840-0fe8-4649-8477-0f60a1b3f962@application-de-gateway.gocdn.ir:85?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%40FNETPRO</code></blockquote> ### 1769333538361
