@@ -478,3 +478,7 @@ vless://e65da911-ce94-46b8-b6bd-e2dd4d8f4751@104.17.74.206:443/?type=ws&amp;encr
 vless://95a9d042-8efb-4d8d-9bf3-cbd787338a2e@dm.gomarts.space:80?mode=auto&path=%2F&security=none&encryption=none&host=speedup.global.ssl.fastly.net&type=xhttp#NetAccount ### 1769439198967
 vless://8778645c-141e-4694-bb70-a6531c4d8579@ipbaz.mehrmusic.info:8443?path=%2Fmexer&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=vbox.mehrmusic.info&fp=chrome&type=ws&allowInsecure=0&sni=vbox.mehrmusic.info#NetAccount ### 1769439198967
 vless://ad60044f-1e05-4714-b805-e13f908b6589@151.101.67.8:80?mode=auto&path=%2F&security=none&encryption=none&host=r8x-net.global.ssl.fastly.net&type=xhttp#NetAccount ### 1769439198967
+vless://424a29f7-77d5-4671-827b-0750e71e11a7@199.34.228.54:2052?encryption=none&security=none&type=xhttp&host=fl.salamnafas.com&path=%2F&mode=auto#NetAccount ### 1769439392661
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.81.84:5076?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp&headerType=none#NetAccount ### 1769439392661
+trojan://869e9086806483ca4744a4cb0f3d6e16@203.198.122.227:443?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp&headerType=none#NetAccount ### 1769439392661
+vless://1a912670-4d72-48a8-a345-9060d5fb4459@ir2.webira.net:19204?security=none&type=tcp&headerType=http&path=%2F&host=divarcdn.com#NetAccount ### 1769439392661
