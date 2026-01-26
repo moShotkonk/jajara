@@ -622,3 +622,4 @@ vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@cdn.sjdpictures.ir:443?path=%2F45.7
 vless://46e87c98-b8f7-4950-979a-28bfe27c8684@v3.mesterking8786.cfd:45646?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#NetAccount ### 1769459662820
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#NetAccount ### 1769459662820
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#NetAccount ### 1769459662820
+vless://424a29f7-77d5-4671-827b-0750e71e11a7@199.34.228.54:2052?mode=auto&path=%2F&security=none&encryption=none&host=fl.salamnafas.com&type=xhttp#%F0%9F%8C%9F%20%7C%20%40airdrop2033 ### 1769459749773
