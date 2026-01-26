@@ -645,3 +645,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8
 vless://ad60044f-1e05-4714-b805-e13f908b6589@151.101.25.242:80?mode=auto&path=%2F&security=none&encryption=none&host=r8x-net.global.ssl.fastly.net&type=xhttp#%40fox_vpntuneel%2071 ### 1769460152063
 vless://578a70d9-760a-4dc7-b926-882dc3a413ff@st8.pmme5.top:28443?security=&encryption=none&host=cafebazaar.ir&headerType=http&type=tcp#%40filembad ### 1769460152063
 vless://95a2c0cf-ae8e-4250-bb28-114cf23f7387@ip.newmehdi3.blog:8880?path=%2FArfilter%3Fed%3D80&security=&encryption=none&host=usdir.arfilter3.blog&type=httpupgrade#%40filembad ### 1769460152063
+vless://e8073e90-8d4d-4be7-f9b1-c36be7e689af@151.101.128.223:80?encryption=none&amp;host=Mahsazxshop.org&amp;mode=auto&amp;path=%2F&amp;security=none&amp;type=xhttp#NetAccount</code> ### 1769460237390
+vless://19f529fe-9fed-40c2-a41d-491575a9a1c5@sps.blackhoster.com:8080?encryption=none&amp;host=dave.thisisservercrash.com&amp;mode=auto&amp;security=none&amp;type=xhttp#NetAccount</code> ### 1769460237390
+vless://4daa04ab-9dd5-4387-af38-afb5fdfc1ef2@151.101.194.228:80?encryption=none&amp;host=trxiliservice.global.ssl.fastly.net&amp;mode=auto&amp;path=%2Fdownloader&amp;security=none&amp;type=xhttp#NetAccount</code> ### 1769460237390
