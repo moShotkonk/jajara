@@ -443,3 +443,4 @@ vless://1f0f89f6-08c8-6472-b849-691b963362ea@104.17.71.206:2083?path=%2F&securit
 vless://ffcfecc9-6713-4b14-886c-d18003909e06@172.64.152.23:443?mode=gun&security=tls&encryption=none&type=grpc&sni=WwQdTfWs0.HaTmAnBiYaInJaHa.cOm#%40filembad ### 1769430808845
 vless://32c257a1-f18c-42c7-860d-9cb0ead8b07c@cdn.sjdpictures.ir:443?path=%2F146.56.99.255%3D56789&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#%40filembad ### 1769430808845
 trojan://humanity@c.panelniazi.sbs:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%40filembad ### 1769430808845
+vless://gz1rmJbeS9HjeUff/FGpCcq2c3enCOJdOkMTi5HXGze949kyzIqw2E9BLv1JalTFUBWmsxtjeQERAbXs/M2Ouqzs8g2iMBzRQESvR+PwWZQ4a0omf4bNB+R9s9rkSNOFC8Gu8rz0JOKAU2P8bDJEP+xtFsahK0tq6YRTcqNZ0mR976vAIKzt5QYUX0wVnkQ/XNtypGQNFwsOXB70yjrxqe+dck9ZcGy6vrpQq0P5VyG/3GCIiEntPoYceiQdCHMNT3/hVOpqz2yVDKrVHx2UmQ=={} ### 1769431236620
