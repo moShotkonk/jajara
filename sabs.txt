@@ -616,3 +616,4 @@ vless://32c257a1-f18c-42c7-860d-9cb0ead8b07c@cdn.sjdpictures.ir:443?encryption=n
 vless://ad60044f-1e05-4714-b805-e13f908b6589@151.101.67.8:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=r8x-net.global.ssl.fastly.net&amp;type=xhttp#NetAccount` ### 1769457933681
 vless://1d6a4595-2568-4262-a3fc-99270ef3f51f@151.101.66.219:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;host=cdndigikala.com&amp;type=xhttp#NetAccount</code> ### 1769457933681
 vless://0f1b6d8d-3f8c-4713-b32d-c94947083485@172.64.152.23:443?path=%2F43.218.77.16%3D1443&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=apexbhao1.qzz.io&amp;type=ws&amp;allowInsecure=0&amp;sni=apexbhao1.qzz.io#NetAccount` ### 1769457933681
+vless://1d6a4595-2568-4262-a3fc-99270ef3f51f@151.101.66.219:80?mode=auto&path=%2F&security=none&encryption=none&host=cdndigikala.com&type=xhttp#Telegram%3A%20%20%40CroSs_Guildd ### 1769458133155
