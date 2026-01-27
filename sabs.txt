@@ -1,5 +1,3 @@
-vless://ea1dc99b-4adc-4485-852e-f21483bf8beb@188.114.98.0:443?path=%2F138.2.48.109%3A26412&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#NetAccount ### 1769450211627
-vless://54832bef-b2a3-406d-a2e2-f03f45c08450@london.63455-3jisjkskeb.need4speed.com.tr:7035?path=%2FXRAYVPNHTTPUPGRADE%3Fed%3D2560&security=none&encryption=none&host=filimo.com&type=ws#NetAccount ### 1769450211627
 vless://ff4edd17-5a4b-41d4-e178-2dd60149b7f1@172.238.111.21:11332?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#%F0%9F%86%94Telegram%20%3A%20%40planB_net ### 1769450269988
 vless://1b9d8449-479f-40a0-a326-1a5ea3481c42@172.64.152.23:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ch1.sooot.ir&amp;fp=chrome&amp;type=ws&amp;sni=ch1.sooot.ir#%F0%9F%86%94Telegram%20%3A%20%40planB_net ### 1769450269988
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjAzMmQ5OTNkZmVjMzE4@141.95.104.145:11201#%F0%9F%86%94Telegram%20%3A%20%40planB_net ### 1769450269988
