@@ -715,3 +715,4 @@ vless://35011ab1-abb4-482c-b6f7-69d205733e88@172.64.145.38:8443?path=%2F%3Fed%3D
 vless://c5fd3de2-3891-40b5-9670-771dc1d35b86@45.159.148.22:1421?security=none&amp;encryption=none&amp;host=parsabr.com&amp;headerType=http&amp;type=tcp#%40NetZone_ir ### 1769624194580
 vless://c5fd3de2-3891-40b5-9670-771dc1d35b86@45.159.148.156:1421?security=none&amp;encryption=none&amp;host=parsabr.com&amp;headerType=http&amp;type=tcp#%40NetZone_ir ### 1769624260516
 vless://b1a9c885-e53b-4b19-b4c7-b259cba543e7@ipo.mastermarly.ir:443?path=%2Fpath&security=tls&encryption=none&host=nur-xn.mastermarly.ir&type=ws&sni=nur-xn.mastermarly.ir#%5B%F0%9F%87%A9%F0%9F%87%AA%5Dt.me%2FFnetpro ### 1769624264032
+vless://c5fd3de2-3891-40b5-9670-771dc1d35b86@45.159.148.18:1421?security=none&amp;encryption=none&amp;host=parsabr.com&amp;headerType=http&amp;type=tcp#%40NetZone_ir ### 1769624398270
