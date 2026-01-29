@@ -484,3 +484,5 @@ vless://nasnet@digitalocean.com:8443?mode=auto&path=%2Fnasnet%2Fcdn&security=tls
 trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#@InfoTech_VK ### 1769684968429
 trojan://telegram-id-privatevpns@13.37.53.79:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@InfoTech_VK ### 1769684968429
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.53.79:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#@InfoTech_VK ### 1769684968429
+vless://7c4321ac-689c-4556-be0a-d46011c86898@Srv1.veromc.com:8443?security=&amp;encryption=none&amp;host=gsap.ir&amp;headerType=http&amp;type=tcp#%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20%40CroSs_Guildd ### 1769685063748
+vless://56d2bfa3-fc38-4419-b8f5-0b5b09d2fa98@sv5n.tsteamzd.top:10005?security=none&amp;encryption=none&amp;host=isna.ir&amp;headerType=http&amp;type=tcp#%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20%40CroSs_Guildd</blockquote> ### 1769685063748
