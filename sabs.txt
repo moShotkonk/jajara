@@ -551,3 +551,5 @@ vless://9c42819a-67a6-4742-9c6d-64900ba62160@us-2.bot-iphone.ru:8443?security=re
 vless://6618b577-b801-4f0c-811a-ac83c70639dc@niimb.aparat-movies-download.ir:42555?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Best%20Proxy%20%7C%20%40Bestproxy_24 ### 1769721199446
 vless://d475379e-0f01-41f0-adfd-1738a7e753aa@sv1n.tsteamzd.top:10001?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#%40config_vasl%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%D8%B5%D9%84 ### 1769721278620
 vless://80d367e0-7050-4aae-af43-7c9f43e6a834@amir.ancvp.ancvpp.shop:110?security=none&encryption=none&headerType=none&type=tcp#@Hddify ### 1769721278620
+vless://d475379e-0f01-41f0-adfd-1738a7e753aa@sv1n.tsteamzd.top:10001?security=none&amp;encryption=none&amp;host=cafeariel.ir&amp;headerType=http&amp;type=tcp#%40config_vasl%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%D8%B5%D9%84 ### 1769721356916
+vless://80d367e0-7050-4aae-af43-7c9f43e6a834@amir.ancvp.ancvpp.shop:110?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Hddify{} ### 1769721356916
