@@ -324,3 +324,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#%4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#%40v2_mod_shop%20%F0%9F%87%AC%F0%9F%87%A7</code></blockquote><strong> ### 1769778316676
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.134:443#Telegram%3A%20%20%40CroSs_Guildd%20%20%F0%9F%87%AB%F0%9F%87%B7 ### 1769779092747
 vless://554dff86-44d8-4bfe-aa57-625d658742a9@TUNNEL4.TORPROSPEED.IR:217?security=none&encryption=none&headerType=http&type=tcp#%40Vpn_Sky%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1 ### 1769779372454
+vless://0ccf2d30-dd55-4637-967e-d69cdfe989d7@iran.farzadhz.website:53462?path=%2F&security=none&encryption=none&type=ws#proxynet4 ### 1769779569946
