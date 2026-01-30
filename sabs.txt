@@ -324,3 +324,4 @@ vless://c7bf59c2-da10-450d-f15f-ddfbed1a6570@asia1.novahomedesigntips.com:17200?
 vless://fdeecee7-dbed-47f6-bea2-cb0073b5e435@cl6-ndl.privetnet.ru:7443?path=%2Fvless&security=none&encryption=none&type=ws#%40shop_mkill ### 1769759724293
 vless://c7bf59c2-da10-450d-f15f-ddfbed1a6570@asia1.novahomedesigntips.com:17200?security=none&encryption=none&type=ws#%40shop_mkill ### 1769759724293
 vless://396c904b-4b62-4334-b793-ee25fc0c61cc@188.114.96.3:443?path=%2FeyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&amp;type=ws&amp;allowInsecure=0&amp;sni=pages.dev#%40Proxynet4 ### 1769760976454
+vless://80d367e0-7050-4aae-af43-7c9f43e6a834@amir.ancvp.ancvpp.shop:110?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40proxynet4 ### 1769761011742
