@@ -364,3 +364,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDkwMDA5ZmE1MDIzY2Zh@148.113.143.102:11201#
 trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&amp;security=tls&amp;host=singbox.lu567890.us.kg&amp;fp=chrome&amp;type=ws&amp;sni=singbox.lu567890.us.kg#netshekan99 ### 1769845078352
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.140:443#netshekan99 ### 1769845078352
 vless://4e5c6735-d657-4f9c-931d-52504f31aae8@fox3.wizard2shop.org:2083?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=finii.wizard2shop.com&amp;fp=360&amp;type=ws&amp;sni=finii.wizard2shop.com#netshekan99</code></blockquote> ### 1769845078352
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&amp;security=tls&amp;host=www.calmlunch.com&amp;type=ws&amp;sni=www.calmlunch.com#netshekan99</code></blockquote> ### 1769845233879
