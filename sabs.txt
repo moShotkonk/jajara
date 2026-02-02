@@ -249,3 +249,4 @@ vless://979b6822-d65a-400d-89f8-30391903ac20@chatgpt.com:443?path=%2Fws&security
 vless://296651fe-0259-4614-a4e7-e48b9dcb62f3@am.vark.cloud:2052?security=none&encryption=none&headerType=http&type=tcp#NetAccount ### 1770038052028
 vless://f1097fdb-e664-42b9-82a0-a5e38f7f43e0@172.105.29.241:8031?security=reality&encryption=none&pbk=QHg_sq-uc2VPgb4qOTORPT2WFwnsEBmAdmFfywhBhVs&headerType=none&fp=chrome&type=tcp&sni=stackoverflow.com&sid=0ae86db71378173b#NetAccount ### 1770038052028
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#NetAccount ### 1770038052028
+vless://331be9d1-a801-4758-9317-48a0848f4fd4@qy.nimhub.ir:443?path=%2F%3Fed%3D2095&security=tls&encryption=none&host=nimhubnet1.nvclud.ir&fp=chrome&type=ws&sni=nimhubnet1.nvclud.ir#%40filembad ### 1770038059095
