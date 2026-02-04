@@ -233,4 +233,4 @@ vless://e5bb092c-2b3c-053c-2bf2-e674bd333ad3@188.114.98.0:443?encryption=none&am
 vless://nasnet@162.19.10.94:443?encryption=none&amp;flow=xtls-rprx-vision&amp;type=tcp&amp;headerType=none&amp;security=tls&amp;sni=nasnet-162191094-direct.sharghdaily.co#Telegram:@config_proxy{} ### 1770226823158
 vmess://eyJwb3J0IjogIjIwMjAiLCAicGF0aCI6ICIvIiwgImFkZCI6ICJjaXAuZXJ0ZWJhdGdvb3N0YXIuaXIiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJwcyI6ICJUZWxlZ3JhbTpAY29uZmlnX3Byb3h5IPCflKUiLCAiaWQiOiAiMDc2OTI4ZjktOGRmOC00YTcxLTllMWMtYzc1NjU4ZmUzMTQwIiwgInR5cGUiOiAiaHR0cCIsICJob3N0IjogIiJ9 ### 1770226827288
 vless://5e2eb458-2dd4-4f94-86ab-e68776f0a75f@France2.netblocksir.ir:6556?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=speedtest.net#Telegram:@config_proxy{} ### 1770226832782
-vless://5e2eb458-2dd4-4f94-86ab-e68776f0a75f@Spain.netblocksir.ir:6556?security=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#Telegram:@config_proxy ### 1770226836722
+vless://5e2eb458-2dd4-4f94-86ab-e68776f0a75f@Spain.netblocksir.ir:6556?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=speedtest.net#Telegram:@config_proxy{} ### 1770226838284
