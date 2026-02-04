@@ -414,3 +414,4 @@ vless://e923cdf9-fc21-4100-8c01-a385a9e8f1b3@172.67.204.84:2086?security=none&ty
 vless://142e062f-475e-4484-8bd6-8386b246f366@199.232.198.133:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=vpngaming.ir&amp;type=ws&amp;sni=www.speedrun.com#@Hope_Net-join-us-on-Telegram{} ### 1770244783055
 vless://0c0870b0-a253-4861-84b6-e6ce6777e97c@85.133.197.237:9829?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=pro30afzar.com{} ### 1770246372725
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080 ### 1770246377434
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080{} ### 1770246381866
