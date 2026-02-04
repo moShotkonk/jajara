@@ -319,3 +319,4 @@ vless://98d677be-b14b-4c14-a96b-4a39a3be645a@cfcdn.zopli.ir:443?path=%2FeyJqdW5r
 vless://0662fab0-a92f-441d-b7c2-a599983b7178@dl1.doostihaa.cam:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=dl1.doostihaa.cam&amp;path=/product&amp;sni=dl1.doostihaa.cam&amp;fp=random&amp;alpn=http/1.1#Telegram:@config_proxy{} ### 1770235943647
 vless://0fe6aa1e-bcfc-4119-a1bb-4682f2148271@ir.radvin1.ir:11890?security=&amp;encryption=none&amp;host=divarcdn.com&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770235948309
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.222.78:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Telegram:@config_proxy ### 1770235961797
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.126:8880?type=grpc&mode=gun&security=none#Telegram:@config_proxy ### 1770235970264
