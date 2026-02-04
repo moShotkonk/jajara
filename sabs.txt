@@ -54,3 +54,4 @@ vless://ec19f26f-b638-4883-bfab-c5a67fadd8ed@167.82.23.253:80?security=none&allo
 vless://05b544a4-d479-4ba4-8208-950bd4411453@45.89.105.56:80?path=%2Fvless%2F&amp;security=&amp;encryption=none&amp;type=ws#Telegram:@config_proxy{} ### 1770201131203
 vless://53039f5b-2906-481c-bc58-05600f6d6814@bv.roz-app.com:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;type=grpc&amp;allowInsecure=1&amp;sni=un.roz-app.com#Telegram:@config_proxy{} ### 1770201135459
 vless://0a960a1b-e01b-4ff9-a9d3-5891391093fe@v2shop-tr2.bing-net.com:3039?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770201140383
+vless://c30da8f2-29f1-4bb6-8cbb-1d23331f7033@ip2-fast.tyryqyserver.ir:80?path=%2F%3Fed%3D2052&amp;security=none&amp;encryption=none&amp;host=norbertde1.global.ssl.fastly.net&amp;type=ws#Telegram:@config_proxy{} ### 1770201144383
