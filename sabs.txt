@@ -81,3 +81,4 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?encryption=none&s
 vless://517dde57-5ff3-4b3d-8f47-fe0332313061@de1.clubban.ir:443?security=&amp;encryption=none&amp;host=rb24.ir&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770204520820
 vless://c30da8f2-29f1-4bb6-8cbb-1d23331f7033@ip2-fast.tyryqyserver.ir:80?path=%2F%3Fed%3D2052&security=&encryption=none&host=norbertde1.global.ssl.fastly.net&type=ws#Telegram:@config_proxy ### 1770204526342
 vless://c30da8f2-29f1-4bb6-8cbb-1d23331f7033@ip2-cloud.tyryqyserver.ir:2052?path=%2F%3Fed%3D2053&amp;security=&amp;encryption=none&amp;host=norbert-cloud-de.ocean-pro.top&amp;type=ws#Telegram:@config_proxy{} ### 1770204529755
+vless://c30da8f2-29f1-4bb6-8cbb-1d23331f7033@ip3-fast.tyryqyserver.ir:80?path=%2F%3Fed%3D2052&amp;security=&amp;encryption=none&amp;host=norbertde1.global.ssl.fastly.net&amp;type=ws#Telegram:@config_proxy{} ### 1770204535455
