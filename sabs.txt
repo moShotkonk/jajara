@@ -401,3 +401,4 @@ vless://081b4532-255d-4481-9484-b75ceab21b0d@140.248.159.164:80?encryption=none&
 vless://081b4532-255d-4481-9484-b75ceab21b0d@fa.faraz360.ir:9829?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=pro30afzar.com&amp;path=/&amp;security=none#Telegram:@config_proxy{} ### 1770332908008
 vless://081b4532-255d-4481-9484-b75ceab21b0d@ma.mezrabcode.ir:9830?encryption=none&type=tcp&headerType=http&host=pro30afzar.com&path=/&security=none#Telegram:@config_proxy ### 1770332912784
 vless://081b4532-255d-4481-9484-b75ceab21b0d@Pinterest.com:80?encryption=none&amp;type=ws&amp;host=dojman.global.ssl.fastly.net&amp;path=/containers/fi&amp;security=none#Telegram:@config_proxy{} ### 1770332921817
+vless://081b4532-255d-4481-9484-b75ceab21b0d@ku.mezrabcode.ir:9831?encryption=none&type=tcp&headerType=http&host=pro30afzar.com&path=/&security=none#Telegram:@config_proxy ### 1770332926038
