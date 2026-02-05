@@ -314,3 +314,4 @@ vless://6416708c-eaa5-4ec5-b652-a2db2feab875@78.159.131.76:443/?type=tcp&encrypt
 vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.13.104.154:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=travel.yandex.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=f85b0cdd7d20c84c#Telegram:@config_proxy ### 1770305981696
 vless://cbd0bb00-295e-448f-b07f-47164e8e8196@185.146.173.143:8080?security=وnone&type=ws&host=unl%69mit%65ddev-vpn.unl%69mit%65ddev.Community.&path=%2F%54eleg%72am%3A%40Unl%69mit%65dDev-%54eleg%72am%3A%40Unl%69mit%65dDev#@Hope_Net-join-us-on-Telegram ### 1770305985581
 vless://fbfe3a78-4131-41c2-8906-42ce52090686@104.21.69.44:8080?security=none&amp;sni=Its-me.Vipnufilter.Online.&amp;type=ws#@Hope_Net-join-us-on-Telegram{} ### 1770305990423
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.26.3.75:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770305994436
