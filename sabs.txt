@@ -278,3 +278,4 @@ vless://c3418654-0b2a-4308-95a5-867b102cb4f0@cpp1.azangooo.ir:2053?security=tls&
 vless://36213657-e751-478b-a5d7-547eef892af9@dojman.global.ssl.fastly.net:443?path=%2Fcontainers%2Ffi&amp;security=tls&amp;alpn=http%2F1.1&amp;encrypt…#Telegram:@config_proxy{} ### 1770302872124
 vless://4763fe93-80db-4b99-9539-e5101b424223@85.133.237.216:443?security=none&amp;type=tcp&amp;encryption=none#Telegram:@config_proxy{} ### 1770302876563
 vless://ad475ad1-e80f-4e63-89e6-4120a3387377@45.83.143.28:443?security=reality&amp;type=tcp&amp;sni=teamdocs.su&amp;fp=chrome&amp;flow=xtls-rprx-vision&amp;sid=c87aa6d3d9be1df0&amp;pbk=WfEk0nBnQWMGXLVnQuOuL6k_nMA8CFngSpUioIclo24&amp;encryption=none#Telegram:@config_proxy{} ### 1770302881652
+vless://b6b56434-d752-4f5f-a395-589e9bf32156@visa.com.sg:443?security=tls&sni=cm.6121999.qzz.io&type=ws&host=cm.6121999.qzz.io&path=%2F&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#Telegram:@config_proxy ### 1770302885299
