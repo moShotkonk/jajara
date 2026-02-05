@@ -374,3 +374,4 @@ vless://4e93d99e-7540-4f4d-884f-63a3c4a845dd@80.92.205.51:8443?security=reality&
 vless://76f4ad6e-6ec2-49b7-b3be-251ce32a5353@sv2.tsteam2b.top:2443?security=none&type=tcp&headerType=http&path=%2F&host=isna.ir#Telegram:@config_proxy ### 1770273987263
 vless://3aea5f27-bafd-4cef-bf43-4a68b0f65926@ns1.kernel-mirrors.org:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dlpkg.org#Telegram:@config_proxy ### 1770273993494
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.89.209:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770274015066
+vless://-----DIGIV2RAY----@188.114.97.2:2095?Telegram=@V2RayTz,@V2RayTz&path=/DigiconnecT?ed=1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#@Hope_Net-join-us-on-Telegram ### 1770274023411
