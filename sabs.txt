@@ -297,3 +297,4 @@ vless://c53041a9-fe39-474c-a61a-0a50513bc29a@glishway3.easyenglishway.ir:2053?mo
 vless://dd376e9e-7dae-4b8d-914b-4563bee76803@94.183.150.59:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#NetAccount</code> ### 1770308857441
 vless://2d25da30-8982-49dc-bfed-f121be6f7762@SpEeDtEsT.NeT:80?mode=auto&amp;path=%2FHajAmirVip%3F%3D2048&amp;security=none&amp;encryption=none&amp;host=fasthetz.global.ssl.fastly.net&amp;type=xhttp#NetAccount</code> ### 1770308857441
 vless://7d2f8db7-5a94-4721-a619-351cd77d2895@panel.vip3server.cam:2983?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#NetAccount</code> ### 1770308857441
+vless://c33275fd-a4fa-470d-90e4-55da39d849a8@104.26.6.35:80?path=%2F&security=none&encryption=none&host=de.tawana.cf.panbehpanel.ir&type=ws#%40V2ray1_Ng ### 1770309248723
