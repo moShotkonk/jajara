@@ -302,3 +302,4 @@ vless://a44e0875-210f-4941-9062-89b6361a14c6@91.84.102.30:443?security=reality&a
 vless://10204890-4bc5-404e-abb8-8161dd77d3d1@de.jp3.ir:6079?security=reality&encryption=none&pbk=Ak3gZa-Tu1UK7RFZiOddKd5vbYPwZMf3jmZ9aq5Wo04&headerType=none&fp=firefox&type=tcp&sni=www.pcmag.com#%40V2ray1_Ng ### 1770309259385
 vless://60736706-5a41-4626-bdcc-7589d321e30d@85.9.112.7:3447?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy ### 1770309267431
 vless://60736706-5a41-4626-bdcc-7589d321e30d@94.101.187.157:3445?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770309272411
+vless://f0af25ad-98f2-484a-b380-aa2ee3b6ffdc@Fans.mahoshid.ir:9560?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple{} ### 1770309301445
