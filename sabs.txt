@@ -370,3 +370,4 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@104.21.237.205:443?security=tls&amp
 vless://39a8bb72-db5b-467c-9fd7-b0adbbac0e04@46.225.22.43:28476?security=none&encryption=none&host=cloudflaer.com&headerType=http&type=tcp#Telegram:@config_proxy ### 1770277657821
 vless://07a1b1f0-d925-422e-b646-f82f3fbaf5f0@hidden.play98.ir:49787?type=tcp&amp;encryption=none&amp;security=none#Telegram:@config_proxy{} ### 1770280286365
 vless://1dfc9b45-dbdd-4fad-9a81-7f4d46170d73@62.50.146.14:9311?security=none&amp;type=ws&amp;path=%2F&amp;fp=chrome#Telegram:@config_proxy{} ### 1770280290906
+vless://5eb9b54d-3c4e-4588-97f7-e53fe3e92c90@172.64.152.23:80?security=none&amp;type=ws&amp;path=%2F%3Fed&amp;host=GLOrioUs-aRriVALHCRtzt96gb.sPORtlANd.cOMPAnY.#Telegram:@config_proxy{} ### 1770280294856
