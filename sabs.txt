@@ -382,3 +382,4 @@ vless://debbc902-6f6e-43f6-8f1b-f62e741e770b@dl4.venomspeeds.com:20390/?type=ws&
 vless://5b45c0f2-ec7d-420a-8485-5ef6e075743e@CLOUD198.TURKSERVER.IR:2096?flow=&type=ws&host=bsun-uk.ip-venzo.com&path=/ws&security=tls&sni=bsun-uk.ip-venzo.com&fp=chrome&allowInsecure=0#@codbazann ### 1770280339390
 vless://5b45c0f2-ec7d-420a-8485-5ef6e075743e@CLOUD198.TURKSERVER.IR:2096?flow=&amp;type=ws&amp;host=bsun-nl.ip-venzo.com&amp;path=/ws&amp;security=tls&amp;sni=bsun-nl.ip-venzo.com&amp;fp=chrome&amp;allowInsecure=0#@codbazann{} ### 1770280343906
 vless://5b45c0f2-ec7d-420a-8485-5ef6e075743e@ip2.iranvatanam.com:2095?flow=&amp;type=httpupgrade&amp;host=bsun-ukv2.amirconfigpaanelllll.com&amp;path=/?ed%3D2560&amp;security=none#@codbazann{} ### 1770280348070
+ss://d6637de9-6df6-4e14-b6c2-9f32df6d5c79@vipde2.persianhostnet.ir:9091?security=&amp;encryption=none&amp;host=filmnet.ir&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770280352793
