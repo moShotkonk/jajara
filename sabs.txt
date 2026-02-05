@@ -391,3 +391,4 @@ vless://89d4429d-a4fd-4bb8-9652-304bfb8bb85e@speedtest.net:80?encryption=none&se
 vless://89d4429d-a4fd-4bb8-9652-304bfb8bb85e@pypi.org:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=melowasheredebot.global.ssl.fastly.net&amp;path=%2F&amp;mode=auto#Telegram:@config_proxy{} ### 1770280381693
 vless://5b50ba5b-20cf-4b99-aed8-597f40fd80fb@srv9.tak30m.com:38509?security=none&amp;encryption=none&amp;host=divar.ir&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770280386103
 vless://03639697-0a0f-4201-8ee7-43d7a1fbf95e@51.161.64.214:9090?security=none&encryption=none&host=neshan.org&headerType=none&type=tcp#Telegram:@config_proxy ### 1770280391269
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.29:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#Telegram:@config_proxy ### 1770280396178
