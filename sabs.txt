@@ -390,3 +390,4 @@ vless://289f7608-8995-4165-9f3a-3612577190bb@chat.openai.com:443?path=%2Fws&secu
 vless://89d4429d-a4fd-4bb8-9652-304bfb8bb85e@speedtest.net:80?encryption=none&security=none&type=xhttp&host=melowasheredebot.global.ssl.fastly.net&path=%2F&mode=auto#Telegram:@config_proxy ### 1770280377814
 vless://89d4429d-a4fd-4bb8-9652-304bfb8bb85e@pypi.org:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=melowasheredebot.global.ssl.fastly.net&amp;path=%2F&amp;mode=auto#Telegram:@config_proxy{} ### 1770280381693
 vless://5b50ba5b-20cf-4b99-aed8-597f40fd80fb@srv9.tak30m.com:38509?security=none&amp;encryption=none&amp;host=divar.ir&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770280386103
+vless://03639697-0a0f-4201-8ee7-43d7a1fbf95e@51.161.64.214:9090?security=none&amp;encryption=none&amp;host=neshan.org&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770280390374
