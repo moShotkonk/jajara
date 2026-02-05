@@ -330,3 +330,4 @@ vless://61c0c62a-f580-44dc-bb1a-92e31bb3491c@94.183.163.130:8443?mode=auto&path=
 vless://fca17b97-6868-410f-9179-71979be2cea1@85.133.221.191:1433?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#ARGO_PNN_20{} ### 1770313184313
 vless://0ca31f4b-affb-7166-2a51-074bb1118c39@n.serverlink2.my:666?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#ARGO_PNN_25 ### 1770313192102
 vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@104.20.1.252:80?path=%2F%3Fed%23Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&amp;type=ws#ARGO_PNN_29{} ### 1770313195347
+vless://f11691d7-ada3-4a56-adee-d8b5dc22c2b8@ge03bot.yagami03.click:47561?security=&amp;encryption=none&amp;host=iranserver.com&amp;headerType=http&amp;type=tcp#ARGO_PNN_32{} ### 1770313200322
