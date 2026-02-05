@@ -391,3 +391,4 @@ vless://98d677be-b14b-4c14-a96b-4a39a3be645a@www.speedtest.net:443?path=%2FeyJqd
 vless://e2c3d035-9361-4770-a25e-8b58bb1f4e61@clconf1.norozhost.com:2001?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770326022467
 vless://23f8dd84-39a3-4036-9f8b-9c56672a8b59@93.185.165.50:55211?type=tcp&amp;security=reality&amp;pbk=5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ&amp;fp=chrome&amp;sni=yahoo.com&amp;sid=1885&amp;spx=%2F&amp;flow=xtls-rprx-vision#Telegram:@config_proxy{} ### 1770326028304
 vless://cd398cee-f76a-4145-b77b-5ff4c66c49b2@brand9.mainonline.link:8080?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple ### 1770326034585
+vless://703bdfdf-6480-4317-a643-8a4093296eb5@tg4.basevip4.best:2088?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple{} ### 1770326038952
