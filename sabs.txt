@@ -339,4 +339,4 @@ vless://25e3462a-5131-4a16-883c-82392f8a23e8@199.232.0.232:80?mode=auto&amp;path
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkODNkNDZiZmMzYzMwNGFi@57.129.58.21:11201#01Telgram%40unvisible_drops{} ### 1770316772213
 vless://efafa6ab-b2e1-4249-b25d-32d7d60299e5@212.108.98.174:28762?security=none&encryption=none&host=filimo.com&headerType=http&type=tcp#%40flyv2ray ### 1770316776771
 vless://15bd52b0-d09b-47cb-860f-aaa587d6d1fe@s01.makeawishnow.org:15033?security=none&encryption=none&headerType=none&type=tcp#%40flyv2ray ### 1770316781236
-vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@108.162.198.154:443?path=%2Ffp%3Dchrome&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=diprox.pages.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=DiprOX.pages.DEV#Telegram:@config_proxy{} ### 1770316785383
+vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@108.162.198.154:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=diprox.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#Telegram:@config_proxy ### 1770316787238
