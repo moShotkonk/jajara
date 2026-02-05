@@ -391,3 +391,4 @@ vless://f66a18d0-5c72-4c72-997a-cd2ea43a06b3@104.17.147.22:8880?security=none&ty
 vless://48af400b-c13f-4945-96f5-636c2bb1880f@m1.ahwaz14.ir:38611?security=none&amp;encryption=none&amp;host=Kifpool.me&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770329163816
 vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?encryption=none&amp;security=tls&amp;sni=pqh30v1.carwashipdir.shop&amp;fp=chrome&amp;type=grpc&amp;mode=gun#Telegram:@config_proxy{} ### 1770329172381
 vless://c3418654-0b2a-4308-95a5-867b102cb4f0@FR.maf-rehbos.ir:6663?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770329177369
+vless://99d620d4-8cb4-4129-a3e3-183939766124@en1.persianhostnet.ir:3122?security=&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy ### 1770329182234
