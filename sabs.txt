@@ -388,3 +388,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.93.239:80?security=none&amp;
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.67.161.104:2096?security=tls&sni=tnetplus.pages.dev&type=ws&host=tnetplus.pages.dev&path=%2F&fp=chrome#@Hope_Net-join-us-on-Telegram ### 1770329151147
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@45.205.0.56:2096?security=tls&amp;sni=De15.SiMaNsAnAt.Ir.&amp;type=ws&amp;host=De15.SiMaNsAnAt.Ir.#@Hope_Net-join-us-on-Telegram{} ### 1770329154819
 vless://f66a18d0-5c72-4c72-997a-cd2ea43a06b3@104.17.147.22:8880?security=none&type=ws&host=www.speedtest.net.上面有闪电.shop#@Hope_Net-join-us-on-Telegram ### 1770329159194
+vless://48af400b-c13f-4945-96f5-636c2bb1880f@m1.ahwaz14.ir:38611?security=none&amp;encryption=none&amp;host=Kifpool.me&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770329163816
