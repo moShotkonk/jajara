@@ -373,3 +373,4 @@ vless://1dfc9b45-dbdd-4fad-9a81-7f4d46170d73@62.50.146.14:9311?security=none&amp
 vless://5eb9b54d-3c4e-4588-97f7-e53fe3e92c90@172.64.152.23:80?security=none&type=ws&path=%2F%3Fed&host=GLOrioUs-aRriVALHCRtzt96gb.sPORtlANd.cOMPAnY.#Telegram:@config_proxy ### 1770280295407
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@206.237.120.143:443?security=tls&type=ws&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=chrome&encryption=none#Telegram:@config_proxy ### 1770280299415
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.224.5:2096?path=%2F&security=tls&encryption=none&insecure=1&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=1&sni=ca.adobe-connect.top#%F0%9F%8C%8A%205%20%40unvisible_drops ### 1770280303891
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.134:443#%F0%9F%8C%8A%202%20%40unvisible_drops{} ### 1770280309028
