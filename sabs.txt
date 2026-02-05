@@ -340,3 +340,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkODNkNDZiZmMzYzMwNGFi@57.129.58.21:11201#01T
 vless://efafa6ab-b2e1-4249-b25d-32d7d60299e5@212.108.98.174:28762?security=none&encryption=none&host=filimo.com&headerType=http&type=tcp#%40flyv2ray ### 1770316776771
 vless://15bd52b0-d09b-47cb-860f-aaa587d6d1fe@s01.makeawishnow.org:15033?security=none&encryption=none&headerType=none&type=tcp#%40flyv2ray ### 1770316781236
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@108.162.198.154:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=diprox.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#Telegram:@config_proxy ### 1770316787238
+vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@v1.dabache.top:443?path=%2Fassetsfp%3Dchrome&security=tls&encryption=none&insecure=0&host=DiprOX.pages.DEV&fp=chrome&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#Telegram:@config_proxy ### 1770316790782
