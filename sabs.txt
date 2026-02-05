@@ -381,3 +381,4 @@ vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@v1.dabache.top:443?path=%2Fassetsfp
 vless://83197ef1-9f62-4c20-9402-91a14ef5aa8a@57049acf22649c9f570jhgacf22649c9f.wang5ling.ir:7772?encryption=none&type=tcp&headerType=none&host=zula.ir#Telegram:@config_proxy ### 1770326066641
 vless://e804e80a-e413-436e-8e3c-8cce9ef657b9@at.asbndx.com:443?security=reality&amp;type=tcp&amp;sni=at.asbndx.com&amp;fp=chrome&amp;flow=xtls-rprx-vision&amp;sid=2f4dacf62222e15f&amp;pbk=hfJagZHzXLZaHqiyy59ZwnPFytw9WUMu1RGh29o3aVE&amp;encryption=none#Telegram:@config_proxy{} ### 1770326080086
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.32:443?security=tls&sni=kkh.ylks.link&type=ws&path=%2Fblue#@Hope_Net-join-us-on-Telegram ### 1770329130203
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.222.168:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770329134226
