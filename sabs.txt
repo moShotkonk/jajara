@@ -306,3 +306,4 @@ vless://f0af25ad-98f2-484a-b380-aa2ee3b6ffdc@Fans.mahoshid.ir:9560?security=none
 vless://5bcc6a86-ff0c-4505-9e1d-4f96b6d0a2c9@Northireland.arascosmetics.ir:1005?security=reality&encryption=none&pbk=aEyXUqZ4doy7Qse745h5IKGo31Jc2YEK3QOVaOuPPns&headerType=none&fp=chrome&type=tcp&sni=docker.com&sid=4f2087146c1f587a#Telegram:@config_proxy ### 1770309308790
 vless://5309ac5b-03c4-4bb9-90a9-862916e7fbe0@tnl3.lalash.my:58753?security=&encryption=none&host=tgju.org&headerType=http&type=tcp#Telegram:@config_proxy ### 1770309313574
 vless://3d3db701-d5a3-4094-b50f-421b1fe21e52@azinsite.amir777.sbs:2010?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770309317286
+vless://965dc7b4-ee8b-44c5-a6f3-b621a9e90b39@vip-de.myatris.com:1005?security=&amp;encryption=none&amp;host=aparat.com&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770309326678
