@@ -368,3 +368,4 @@ vless://cb760ee3-de13-11ee-95c9-00505603e70d@51.68.220.178:80?path=%2Fwebsocket&
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@190.93.244.21:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1770277639696
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@104.21.237.205:443?security=tls&amp;sni=sandWorm.PaGES.DEv&amp;type=ws&amp;host=sANDWOrm.pAGEs.DeV&amp;path=/07n1q4ys4Pwba7qM&amp;fp=chrome&amp;alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram{} ### 1770277644462
 vless://39a8bb72-db5b-467c-9fd7-b0adbbac0e04@46.225.22.43:28476?security=none&encryption=none&host=cloudflaer.com&headerType=http&type=tcp#Telegram:@config_proxy ### 1770277657821
+vless://07a1b1f0-d925-422e-b646-f82f3fbaf5f0@hidden.play98.ir:49787?type=tcp&amp;encryption=none&amp;security=none#Telegram:@config_proxy{} ### 1770280286365
