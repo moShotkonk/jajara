@@ -418,3 +418,4 @@ vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?path=%2F--Telegram
 vless://ea08dbbd-a652-434f-b3aa-8f03cf6e6e48@lithso.izumii.ir:8880?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770415584936
 vless://ea08dbbd-a652-434f-b3aa-8f03cf6e6e48@rably-m.izumii.ir:2098?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Telegram:@config_proxy ### 1770415590916
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.69.34:8080/?type=ws&amp;encryption=none&amp;flow=&amp;host=cdn-allxnb6gaceuorg.l4o117en.workers.dev&amp;path=%252...#Telegram:@config_proxy{} ### 1770415593772
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@69.84.182.189:80/?type=ws&amp;encryption=none&amp;flow=&amp;path=%2F#Telegram:@config_proxy{} ### 1770415598072
