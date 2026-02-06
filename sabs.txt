@@ -457,3 +457,4 @@ vless://641c6538-185a-44c0-b3b7-32c5bf22dae7@mmdoxtunnel.viphosseinomn.top:2020?
 vless://16352455-c295-4cdd-b5f7-28b29c919389@94.237.81.80:35908?security=reality&encryption=none&pbk=pU_Qz5A2QWbZ0pGhSshgnmCSc_MM0PORAx1KkPsAg2Y&headerType=&fp=firefox&type=tcp&sni=www.aparat.com&sid=fce3c084cd#Telegram:@config_proxy ### 1770420946853
 vless://12282afc-f9b8-4372-a184-52b5f9ecaa60@srv2.gamewebdash.store:951/?type=tcp&amp;encryption=none&amp;security=none#UK-test{} ### 1770420951604
 vless://709d65ef-7ba5-4c98-99bc-594a42699c17@kelash.vip.mgodping12.xyz:443?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#%40vpnestan_fast100G{} ### 1770420955644
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.61.47.9:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%8E%96%40AliXTso&amp;security=tls&amp;encryption=none&amp;host=sni.111000.indevs.in&amp;type=ws&amp;sni=sni.111000.indevs.in#Telegram:@config_proxy{} ### 1770420974241
