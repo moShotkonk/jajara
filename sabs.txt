@@ -303,3 +303,4 @@ vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@vip3.kaixincloud.top:80?type=ws&sec
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIjgyLjE5OC4yNDYuOTciLCAicG9ydCI6ICIxODAiLCAidHlwZSI6ICJhdXRvIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInBzIjogIlRlbGVncmFtOkBjb25maWdfcHJveHkgXHVkODNkXHVkY2E2In0= ### 1770374015435
 vless://c94ce211-cfc9-435d-9b7c-59b437d22079@m.darksali.ir:8082?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#NetAccount</code> ### 1770375432634
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.91.194:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770377300907
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.4.58:443?encryption=none&amp;security=tls&amp;sni=edtunnel-csc.pages.dev&amp;type=ws&amp;host=edtunnel-csc.pages.dev&amp;path=/?ed=2048#@Hope_Net-join-us-on-Telegram{} ### 1770377304489
