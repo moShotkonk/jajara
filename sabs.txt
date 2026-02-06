@@ -338,3 +338,4 @@ vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?path=%2F--Telegram
 ss://d3d74273-3d92-4fcc-8739-cec0b7f675bd@188.114.98.0:443#Telegram:@config_proxy{} ### 1770403325689
 vless://4c642cae-1a6d-4e51-a1c3-fa5892437aa3@104.17.76.224:443?encryption=none&amp;security=tls&amp;sni=5465765525.ccfly.tech&amp;fp=chrome&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=5465765525.ccfly.tech&amp;path=%2F%3Fed%3D2048#Telegram:@config_proxy{} ### 1770403327943
 vless://b35b6aea-0f69-4091-a5bf-5d0d7272a3f5@S1.FASTSPEEDS.IR:2053?path=%2Fws&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;type=ws&amp;allowInsecure=1&amp;sni=aslan-nl.ip-venzo.com#Telegram:@config_proxy{} ### 1770403333442
+vless://81b33bb4-568e-4457-b1b2-f330c4ab1a62@www.multiplydose.com:8080?type=ws&amp;encryption=none&amp;path=%2F&amp;host=dildodod.decoreland.ir.&amp;security=none#Telegram:@config_proxy{} ### 1770403337392
