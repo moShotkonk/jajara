@@ -331,3 +331,4 @@ vless://6e44b298-a091-4433-af5e-c89afd438c98@ch-4.hwowst.ru:443?security=reality
 vless://0b2056cb-234b-4120-8835-d116b74a72ca@chatgpt.com:2087?path=%2F&security=tls&alpn=h2&encryption=none&host=netvitrin.tickyou.ir&fp=chrome&type=ws&sni=netvitrin.tickyou.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%2033%20%40Outline_ir ### 1770403283060
 vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?mode=gun&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;type=grpc&amp;sni=pqh30v5.carwashipdir.shop#%F0%9F%87%AE%F0%9F%87%B7%20IR%2034%20%40Outline_ir{} ### 1770403285654
 vless://c33275fd-a4fa-470d-90e4-55da39d849a8@tawananet.panbehpanel.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%2035%20%40Outline_ir ### 1770403290421
+vless://2beb4857-60f4-463e-9c22-7835ebe72031@mehrabo.vpnfredom.site:2086?type=tcp&amp;encryption=none&amp;security=none#Telegram:@config_proxy{} ### 1770403307867
