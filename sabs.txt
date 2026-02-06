@@ -299,3 +299,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.84.111.44:8443?encryption=none&a
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&amp;security=none&amp;type=ws&amp;path=%2F#Telegram:@config_proxy{} ### 1770386233999
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.215.34:443?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;insecure=1&amp;allowInsecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#Telegram:@config_proxy{} ### 1770386240933
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?encryption=none&amp;security=none&amp;type=grpc&amp;path=/XIXVPN?ed=2560#Telegram:@config_proxy{} ### 1770386245023
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.217.198.211:443#Telegram:@config_proxy{} ### 1770386250635
