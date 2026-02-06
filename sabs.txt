@@ -301,3 +301,4 @@ vless://d87670f9-408a-4029-924b-0f6fc12f8895@IP.xQNetWork.iR:2083?security=tls&t
 vless://a4d89b95-0e8a-454a-ab13-f89d22e045f8@3.66.87.119:46860?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe ### 1770379818574
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe{} ### 1770379822610
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe ### 1770379827156
+vless://c33275fd-a4fa-470d-90e4-55da39d849a8@134.199.244.164:80?path=%2F&security=none&encryption=none&host=free.panbehpanel.ir&type=ws#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe ### 1770379831666
