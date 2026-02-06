@@ -382,3 +382,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.65:443?security=tls&amp;s
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.143.82:443?security=tls&amp;sni=mmdv2.pages.dev&amp;type=ws&amp;host=mmdv2.pages.dev#@Hope_Net-join-us-on-Telegram{} ### 1770336272019
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.209.217:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770336276327
 vless://68da4304-05a7-4d0a-b983-8e2ea5080442@151.101.0.155:443?security=tls&amp;sni=www.elledecor.com&amp;type=ws&amp;host=farm.vpn.farm.vpnbdhdjwj.sbs&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770336280333
+vless://142e062f-475e-4484-8bd6-8386b246f366@199.232.194.133:443?security=tls&sni=www.speedrun.com&type=ws&host=vpngaming.ir&path=/#@Hope_Net-join-us-on-Telegram ### 1770336284429
