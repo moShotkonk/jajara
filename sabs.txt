@@ -282,3 +282,4 @@ vless://05214830-5d65-4ee1-a3d4-68f36cbea637@190.93.245.100:443?security=tls&sni
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.240.139:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1770389268710
 vless://af309ad2-c943-48ea-b570-2e51a2f079d9@185.146.173.152:2095?security=none&type=ws&host=NOxdB1.BisTaiR.orG&path=/DSDaswd22!11*fdfm55247.COM.#@Hope_Net-join-us-on-Telegram ### 1770389273305
 vless://53a4d2af-649a-41e0-a9df-4e9521461685@vip-80.f-sub.cfd:1517?security=none&amp;encryption=none&amp;host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&amp;headerType=http&amp;type=tcp#%40NETMelliAnti{} ### 1770389288325
+vless://4603e54d-b023-4947-83e7-70025416f306@212.111.84.187:51102?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=8f222b3475800821#%40NETMelliAnti ### 1770389383583
