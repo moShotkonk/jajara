@@ -297,3 +297,4 @@ vless://f67ba568-cfb8-4763-8c7b-bf367e01c442@ip.hamrahto.com:8443?security=tls&t
 vless://f67ba568-cfb8-4763-8c7b-bf367e01c442@s3-d8.hmvpa.ir:2082?security=none&type=ws&headerType=&path=%2Fapi%2Fstream%3Fed%3D2080&host=rus3-d8.hmvpa.ir#Telegram:@config_proxy ### 1770371222883
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@77.75.199.167:2096?security=tls&amp;sni=De13.SiMaNsAnAt.Ir.&amp;type=ws&amp;host=De13.SiMaNsAnAt.Ir.&amp;fp=chrome&amp;alpn=h2#@Hope_Net-join-us-on-Telegram{} ### 1770371231504
 vless://b1eb534c-d25c-4206-b198-5d35ff3ffdc0@104.17.206.5:443?security=tls&amp;sni=xn--mgbb1a0fdi.pinocchio1.ir.&amp;type=grpc&amp;fp=firefox&amp;alpn=http/1.1#@Hope_Net-join-us-on-Telegram{} ### 1770371238757
+vless://b1eb534c-d25c-4206-b198-5d35ff3ffdc0@104.17.206.5:443?security=tls&sni=xn--mgbb1a0fdi.pinocchio1.ir.&type=grpc&fp=firefox&alpn=http/1.1#@Hope_Net-join-us-on-Telegram ### 1770371239933
