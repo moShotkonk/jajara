@@ -390,3 +390,4 @@ vless://5203102c-be94-4a73-b165-f19ce3cc2474@45.130.125.160:8443?security=tls&al
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy ### 1770336313342
 vless://a44e0875-210f-4941-9062-89b6361a14c6@185.21.14.122:443?security=reality&encryption=none&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=8bcfe256cf216fd8#Telegram:@config_proxy ### 1770336317871
 vless://a863194f-50e1-4510-b6a5-9bbd91731e1a@library98.ir:54748?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770336323554
+vless://dd936ba9-81bc-445b-89d3-6d993745d56c@109.122.251.152:2020?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770336326526
