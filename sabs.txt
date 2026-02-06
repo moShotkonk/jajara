@@ -296,4 +296,4 @@ vless://93100196-7f5a-496e-9b74-2d02f134b2bb@95.164.123.66:8080/?path=%2Fupload&
 vless://27321d2d-1be0-4628-b45d-a24f95aba23a@Rose8.lhpuniversity.online:41488?security=none&allowInsecure=0&encryption=none&type=tcp&host=aparat.com&path=/&headerType=http#Telegram:@config_proxy ### 1770395608712
 vless://d943638e-f326-42ab-a8ca-a632f9757fe1@aster.xv98.ir:2012?security=reality&encryption=none&pbk=pFD_fuC8KdU9paq4BWmYQnoUrQjWsrQn-WkiLRzBYzo&headerType=none&fp=safari&type=tcp&sni=www.refersion.com&sid=78c94b02cc5aeb55#Telegram:@config_proxy ### 1770395613474
 vless://d943638e-f326-42ab-a8ca-a632f9757fe1@domino.gholamifpv.com:2056?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#Telegram:@config_proxy ### 1770395618238
-vless://d943638e-f326-42ab-a8ca-a632f9757fe1@178.215.238.193:2056?security=none&amp;encryption=none&amp;host=cloudflare.com&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770395622050
+vless://d943638e-f326-42ab-a8ca-a632f9757fe1@178.215.238.193:2056?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#Telegram:@config_proxy ### 1770395623146
