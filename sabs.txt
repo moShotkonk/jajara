@@ -432,3 +432,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.65.60.61:443?path=%2F%3Fed%3D25
 vless://ca98e534-78c7-412c-9fd7-fbc7e1df6372@cdntr27b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1083?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#Telegram:@config_proxy ### 1770417280020
 vless://eec3fb10-31ad-48e5-9565-64659bbdd4e9@185.146.173.69:8080?type=ws&amp;host=its-legendaryking.com-so.ir-whereareyoumylady.xn--9iqtb0z3kmg58ejur6wfbwf9muugk7rck30b0frbqkvk2bye0bm1a.mozdozari.bUzz.#@Hope_Net-join-us-on-Telegram{} ### 1770419122406
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@45.80.108.244:2096?security=tls&sni=GeR14.SimAnSaNat.iR.&type=ws&host=GeR14.SimAnSaNat.iR.&fp=chrome&alpn=h2#@Hope_Net-join-us-on-Telegram ### 1770419126419
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.42.78:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1770419134854
