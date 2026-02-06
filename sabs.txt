@@ -407,3 +407,4 @@ vless://7827a28b-9f7a-4463-be59-95030c736cef@45.130.125.63:443?encryption=mlkem7
 vless://40da0bcc-a1da-4464-8733-ed9b027fac40@45.157.116.84:37253?security=none&amp;encryption=none&amp;host=cloudflare.com&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770408704381
 vless://fc5e2e68-b416-49bb-a689-61032faf7fcf@172.64.152.23:8443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=backup.f-sub.cfd&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=backup.f-sub.cfd#%40NETMelliAnti{} ### 1770408708579
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.125:38388#Telegram:@config_proxy{} ### 1770408722615
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@vip3.kaixincloud.top:2053?security=tls&amp;type=ws&amp;path=%2Fdanfeng%3Fed%3D2560&amp;host=snippet.fgfw.ccwu.cc&amp;sni=snippet.fgfw.ccwu.cc&amp;fp=chrome&amp;encryption=none#Telegram:@config_proxy{} ### 1770408727824
