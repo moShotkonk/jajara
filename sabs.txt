@@ -302,3 +302,4 @@ vless://895f94cb-5567-4731-bc2c-2f89a54bafe4@ru61.tcpnet.fun:443?type=grpc&amp;s
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@vip3.kaixincloud.top:80?type=ws&security=none&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO&path=%2F%253Fed#Telegram:@config_proxy ### 1770374011612
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIjgyLjE5OC4yNDYuOTciLCAicG9ydCI6ICIxODAiLCAidHlwZSI6ICJhdXRvIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInBzIjogIlRlbGVncmFtOkBjb25maWdfcHJveHkgXHVkODNkXHVkY2E2In0= ### 1770374015435
 vless://c94ce211-cfc9-435d-9b7c-59b437d22079@m.darksali.ir:8082?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#NetAccount</code> ### 1770375432634
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.91.194:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770377300907
