@@ -308,4 +308,4 @@ vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@94.183.167.22:8596?security=&amp;en
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&amp;encryption=none&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fuck.rkn&amp;sid=01#%40internet_azad2+n3{} ### 1770392305387
 vless://519362df-a0a2-4183-8789-6c4c176527b3@sv2.farsdataagent2.top:51543?security=&amp;encryption=none&amp;host=P30afzar.com&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770392310401
 vless://c0056c64-eeac-487d-bbc2-6d2ab228e11f@IPA-AlphaOmega-ComPany.AlphaOmegaComPany-PoWerFull.Ir:80?path=%2Fwss9000%3Fed%3D2560&security=none&encryption=none&host=DE-ComPany-AlphaOmega-Team.AlphaOmegaComPany-PoWerFull.Ir.&type=httpu…#Telegram:@config_proxy ### 1770392318378
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=%2F&security=&encryption=none&type=ws#Telegram:@config_proxy ### 1770392325185
+vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#Telegram:@config_proxy{} ### 1770392329644
