@@ -370,3 +370,4 @@ vless://1ff443a0-b373-42cd-9d86-47c49be1f88e@ge03bot.joyboy03.shop:47561?securit
 vless://1ff443a0-b373-42cd-9d86-47c49be1f88e@fin02bot.joyboy03.shop:47562?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=iranserver.com#Telegram:@config_proxy{} ### 1770438613600
 vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80?security=none&amp;encryption=none&amp;host=dayous.global.ssl.fastly.net&amp;type=ws#Telegram:@config_proxy{} ### 1770438617251
 ss://YWVzLTEyOC1nY206N2RkYzdhNGItODQ0Ny00ZWQyLThlMWUtNzA2MWJhNmY5ZTk2@daxo.owwoedu.com:38319#Telegram:@config_proxy{} ### 1770438622608
+ss://YWVzLTI1Ni1nY206UitqTERBM3JoTTBEQ2xDcDRONlpWVU9VdVdIUWNTMURDaXFucHlTa3pCZz0@109.69.18.103:59868?type=tcp#Telegram:@config_proxy ### 1770438627694
