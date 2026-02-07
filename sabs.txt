@@ -373,3 +373,4 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?encryption=none&se
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.159.239:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1770465695170
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.121.101:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770465697661
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.30.170:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1770465701855
+vless://6ccb10e9-265c-46cb-8cde-4900fa8cc178@172.67.138.69:80?security=none&amp;type=ws&amp;host=itsme.bklink.ir#@Hope_Net-join-us-on-Telegram{} ### 1770465706246
