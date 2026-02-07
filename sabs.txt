@@ -349,3 +349,4 @@ vmess://eyJhZGQiOiAiMTUuMjM1Ljg1LjE1NiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.88.17:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#Telegram:@config_proxy ### 1770471657850
 vless://da89e5d8-5478-41a7-b707-ab60dae5b054@tunnel-br.vtuix.ir:4547?security=none&amp;type=tcp&amp;headerType=&amp;path=&amp;host=#Telegram:@config_proxy{} ### 1770471662913
 vless://da89e5d8-5478-41a7-b707-ab60dae5b054@tunnel-br.vtuix.ir:3421?security=none&type=tcp&headerType=http&path=%2F&host=aparat.com#Telegram:@config_proxy ### 1770471667880
+vless://10044750-2f69-4cd4-8be4-3ab16db1ced6@diddy.com:2096?security=tls&amp;sni=bed.modernstore3.ir&amp;allowInsecure=1&amp;fp=chrome&amp;type=tcp&amp;encryption=none#@IVXChannel%20-%20Diddy%20Party{} ### 1770471676598
