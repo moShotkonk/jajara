@@ -390,3 +390,4 @@ vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?flow=xtls-rprx-v
 vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@ikonthailand.com:80?security=&type=ws&host=dayous.global.ssl.fastly.net&encryption=none#@IVXChannel%20Unlimited%20Free ### 1770442750485
 vless://ba194ade935f46eaae27baf55714244a@178.130.46.56:8443?mode=auto&path=%2Fx&security=reality&encryption=none&pbk=tBpGeaXxD85IdKACd3gRPWSBwRvyoPP12bFLMmW-lxs&fp=random&type=xhttp&sni=apple.com&sid=aabbccdd#Telegram:@config_proxy ### 1770442754547
 vless://41956a47-8432-4a3f-b70d-a54fc7efd6b8@ais.co.th:2095?security=&amp;type=ws&amp;path=/?ed%3D2560&amp;host=0223.jq2ter91.workers.dev&amp;encryption=none#@IVXChannel%20Thailand{} ### 1770442763593
+vless://1dc8ba24-8a0d-40ff-8858-501e2f553ab1@85.9.207.253:54721?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#Telegram:@config_proxy{} ### 1770442773120
