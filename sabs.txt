@@ -326,3 +326,4 @@ vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?path=%2F&security
 vless://43e33561-e59e-482f-940e-aa231dd6d1ad@ir.beta4.lowfamila.site:3220?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple{} ### 1770473501649
 vless://120786c8-eeb0-4892-888f-980b43213f1b@78.157.49.82:710?security=none&encryption=none&host=igap.net&headerType=http&type=tcp#Telegram:@config_proxy ### 1770473507598
 vless://6d525bb7-2d04-4c1f-8c9e-3f2ae20b143a@89.47.198.134:8443?type=tcp&amp;path=%2F&amp;host=ponisha.ir&amp;headerType=http&amp;security=none#Telegram:@config_proxy{} ### 1770473510590
+vless://792adea77a684201b13f85084a00287e@45.151.62.132:8443?mode=auto&path=%2Fx&security=reality&encryption=none&pbk=pbvLeT8R8bA8isPIi1JNbSAz7zM3GFkTLkDinP8ilnU&fp=random&type=xhttp&sni=ya.ru&sid=aabbccdd#Telegram:@config_proxy ### 1770473515069
