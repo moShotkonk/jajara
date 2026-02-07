@@ -367,3 +367,4 @@ vless://93a20fae-54f4-4e25-93ef-995b3e52fc04@103.35.191.224:8443?security=realit
 vless://1ff443a0-b373-42cd-9d86-47c49be1f88e@finbot.zoro03.shop:47541?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=iranserver.com#Telegram:@config_proxy{} ### 1770438599486
 vless://1ff443a0-b373-42cd-9d86-47c49be1f88e@ge03bot.zoro03.shop:47560?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=iranserver.com#Telegram:@config_proxy{} ### 1770438604009
 vless://1ff443a0-b373-42cd-9d86-47c49be1f88e@ge03bot.joyboy03.shop:47561?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=iranserver.com#Telegram:@config_proxy{} ### 1770438608341
+vless://1ff443a0-b373-42cd-9d86-47c49be1f88e@fin02bot.joyboy03.shop:47562?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=iranserver.com#Telegram:@config_proxy{} ### 1770438613600
