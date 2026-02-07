@@ -372,3 +372,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.94.131:80?security=none&amp;
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.36:443?security=tls&amp;sni=kkh.ylks.link&amp;type=ws&amp;path=%2Fblue#@Hope_Net-join-us-on-Telegram{} ### 1770445873146
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.26.94:8880?security=none&amp;type=ws&amp;host=aryoovpn.commen-esoteric-0q.workers.dev&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770445876295
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.209.7:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770445880479
+vless://57df620f-96b1-4f2b-a6ff-043ce11b6995@austria.pryanik.net.ru:4443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;pbk=DLqBw8458S7vERpm_w4NMGz1kNp7b7uIjwCgStZERyo&amp;security=reality&amp;sid=&amp;sni=sun6-21.userapi.com&amp;type=tcp#Telegram:@config_proxy{} ### 1770445903461
