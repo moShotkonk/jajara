@@ -359,3 +359,4 @@ vless://6876d09b-42d9-47a2-b2a0-d4a8a0399fc3@speedtest.net:80?mode=auto&path=%2F
 vless://f91d249e-90e2-1625-9211-180e4d18f948@srv-f0.netmaster.cam:8443?security=&amp;encryption=none&amp;type=ws&amp;sni=1#Telegram:@config_proxy{} ### 1770451582623
 vless://845aae83-1d6e-41dc-8828-aae05a55c033@172.104.249.116:2053?security=none&amp;encryption=none&amp;host=divar.ir&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770451586442
 vless://845aae83-1d6e-41dc-8828-aae05a55c033@172.104.249.116:2053?security=&amp;encryption=none&amp;host=divar.ir&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770451591204
+vless://cc0fc856-dec5-4372-8ede-c5c7d4f147fb@83.228.230.48:2056?security=none&amp;encryption=none&amp;host=cloudflare.com&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770451595448
