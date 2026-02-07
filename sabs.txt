@@ -355,3 +355,4 @@ vless://685644a1-27c1-4e0d-8391-b8310a4f7c8b@108.162.198.154:443?path=%2F%3Fed%3
 vless://e830796e-5dc0-4786-f64b-c4706682b7a1@5.57.38.168:443?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ARGO_VPNN_44{} ### 1770489884845
 vless://dbb8cb8a-875f-411d-b8b8-0cbe57b6fc59@81.12.91.177:443?security=reality&encryption=none&pbk=U6FRH-QtDwZPWgVlOnm3TTcknf2uZMB4j4IZJoi8ezM&headerType=none&fp=firefox&spx=%2Fexample&type=tcp&sni=git-scm.com&sid=e081d94bd1f9bd56#ARGO_VPNN_48 ### 1770489891809
 vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80?path=%2F&security=&encryption=none&host=dayous.global.ssl.fastly.net&type=ws#ARGO_VPNN_49 ### 1770489896443
+vless://109c384d-6544-412a-b08d-aaa0bf5f77cd@relay-ir.deltatms.site:8082?security=&amp;encryption=none&amp;host=dorna-music.ir&amp;headerType=http&amp;type=tcp#ARGO_VPNN_51{} ### 1770489900565
