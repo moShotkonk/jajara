@@ -348,3 +348,4 @@ vless://071435dc-6ab9-4502-8441-ed4a4b609092@z1.n1server.org:443/?type=grpc&encr
 vless://9cae7b92-c1b0-487f-b5e8-63b6bc7243da@78.157.37.219:8018?security=none&amp;encryption=none&amp;host=skyroom.online%2Cgharar.ir%2Cigap.net&amp;headerType=http&amp;type=tcp#%40NETMelliAnti{} ### 1770449308098
 vless://dfbafad6-a441-4af5-ab41-8e6c80cc72e8@193.151.153.106:46205?security=none&amp;encryption=none&amp;headerType=http&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com#%40mimitdl{} ### 1770449312304
 vless://9cae7b92-c1b0-487f-b5e8-63b6bc7243da@193.134.100.165:1133?security=none&amp;encryption=none&amp;host=skyroom.online%2Cgharar.ir%2Cigap.net&amp;headerType=http&amp;type=tcp#%40NETMelliAnti{} ### 1770449316509
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880/?type=grpc&encryption=none&flow=#422-NetFreedom0 ### 1770449320886
