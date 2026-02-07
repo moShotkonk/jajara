@@ -361,4 +361,5 @@ vmess://eyJhZGQiOiIxNDguMTEzLjE1My4xMDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hy
 vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@104.18.140.222:443?security=tls&amp;sni=toujiediansigema.5112233.xyz&amp;type=ws&amp;host=toujiediansigema.5112233.xyz&amp;path=TG@juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97#@Hope_Net-join-us-on-Telegram{} ### 1770487539145
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.168.200:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770487543401
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.153.27:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770487548070
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.92.48:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1770487552381
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.92.48:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770487552086
+vless://162ae8ff-0122-45f7-9e74-576bd90db552@188.114.96.3:8080?security=none&type=ws&host=Www.google.com.gameapkmode.info.&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram ### 1770487556787
