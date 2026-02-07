@@ -342,4 +342,4 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQyNSBUZWxlZ3JhbTogQHdpa2lf
 vless://dbb8cb8a-875f-411d-b8b8-0cbe57b6fc59@81.12.91.189:443?security=reality&encryption=none&pbk=U6FRH-QtDwZPWgVlOnm3TTcknf2uZMB4j4IZJoi8ezM&headerType=none&fp=firefox&spx=%2Fexample&type=tcp&sni=git-scm.com&sid=e081d94bd1f9bd56#%40internet_azad2+mci ### 1770482142771
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@ipbaz.ping-box.com:443?security=tls&type=ws&path=%2F&host=dev.twistsparrow.xyz&sni=dev.twistsparrow.xyz&fp=chrome&encryption=none#Telegram:@config_proxy ### 1770484174557
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@154.92.9.218:2096?security=tls&amp;sni=GeR6.SimAnSaNat.iR.&amp;type=ws&amp;host=GeR6.SimAnSaNat.iR.&amp;fp=chrome&amp;alpn=h2#@Hope_Net-join-us-on-Telegram{} ### 1770484178377
-vless://f32a99e8-05dd-478a-82c0-7688848121bd@104.16.61.8:8080?security=none&amp;type=ws&amp;host=mkhy.daozhang.link&amp;path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram{} ### 1770484184262
+vless://f32a99e8-05dd-478a-82c0-7688848121bd@104.16.61.8:8080?security=none&type=ws&host=mkhy.daozhang.link&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram ### 1770484186342
