@@ -386,3 +386,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiVGVsZWdyYW06QGNvbmZpZ19wcm94eSDwn5SlIiwgImFkZCI6
 vless://a7a76aa4-ba1b-4041-84c7-eabae15cbd8b@fm.parogamers.com:2086?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770464180897
 vless://671c0340-77dc-402f-8bc1-60558bc46540@de-05.anotherboring.top:443?security=reality&amp;encryption=none&amp;pbk=ilirquLZWLZKAKHq6A80AT-ixdR4Nho6vmOfSPF3iS4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=de-05.anotherboring.top&amp;sid=9d21bea37f7da010#Telegram:@config_proxy{} ### 1770464216317
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&amp;security=none&amp;type=ws&amp;host=telegram+id%3A+@v2rayseven&amp;path=%2Fhttp#Telegram:@config_proxy{} ### 1770464222668
+vless://4bd71281-3503-4bf8-be27-89585752e92b@91.107.129.23:4444?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#Telegram:@config_proxy ### 1770464227464
