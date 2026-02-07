@@ -370,3 +370,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.130.77:80?security=none&amp;
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.125:443?security=tls&amp;sni=kkh.ylks.link&amp;type=ws&amp;path=/blue#@Hope_Net-join-us-on-Telegram{} ### 1770462423158
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.228.135.5:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%8E%96%40YamYamProxy&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#Telegram:@config_proxy ### 1770462437750
 vless://e765eb5b-8442-40e3-9532-857ba5ececa7@ipbaz.ping-box.com:443?encryption=none&amp;security=tls&amp;sni=vbox.ping-box.com&amp;insecure=1&amp;type=grpc&amp;mode=gun#Telegram:@config_proxy{} ### 1770462442134
+vless://2bfe58f7-da1d-45df-ab43-7c665b20ee29@nnnmghju.taipei102.indevs.in:80?encryption=none&type=ws&host=nnnmghju.taipei102.indevs.in&path=/391sfnZ2bBhmKb8nOkg&security=none#Telegram:@config_proxy ### 1770462531485
