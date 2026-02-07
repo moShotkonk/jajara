@@ -328,3 +328,4 @@ vless://7588e459-0d02-13ca-79bd-3a39b034baf8@s4.jockshenasi.ir:2096?path=telegra
 vless://3fd81f4f-9cca-49f7-8db3-e6c63ff1b611@safe.zdshop.ir:2053?security=tls&amp;encryption=none&amp;host=frns-2.certhost.ir&amp;type=ws&amp;sni=frns-2.certhost.ir#Telegram:@config_proxy{} ### 1770478779938
 vless://3fd81f4f-9cca-49f7-8db3-e6c63ff1b611@base.zdshop.ir:2086?path=%2F%3Fed%3D2086&amp;security=none&amp;encryption=none&amp;host=new-enns.kiwijuice.ir&amp;type=ws#Telegram:@config_proxy{} ### 1770478784098
 vless://3fd81f4f-9cca-49f7-8db3-e6c63ff1b611@shield.zdshop.ir:2053?security=tls&amp;encryption=none&amp;host=itns-2.blackpapers.ir&amp;type=ws&amp;sni=itns-2.blackpapers.ir#Telegram:@config_proxy{} ### 1770478788353
+vless://c79e0298-46a8-4037-a8ad-1b5d815030fc@M6.FASTSPEEDS.IR:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=host8.eldenringshop.ir#Telegram:@config_proxy{} ### 1770478793638
