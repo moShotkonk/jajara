@@ -357,3 +357,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.62.70:80?security=none&amp;t
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.110.11:80?type=ws&amp;host=us3.rtacg.com&amp;path=%2F#@Hope_Net-join-us-on-Telegram{} ### 1770451566144
 vless://6876d09b-42d9-47a2-b2a0-d4a8a0399fc3@speedtest.net:80?mode=auto&path=%2F&security=&encryption=none&host=hanaa.global.ssl.fastly.net&type=xhttp#Telegram:@config_proxy ### 1770451578403
 vless://f91d249e-90e2-1625-9211-180e4d18f948@srv-f0.netmaster.cam:8443?security=&amp;encryption=none&amp;type=ws&amp;sni=1#Telegram:@config_proxy{} ### 1770451582623
+vless://845aae83-1d6e-41dc-8828-aae05a55c033@172.104.249.116:2053?security=none&amp;encryption=none&amp;host=divar.ir&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770451586442
