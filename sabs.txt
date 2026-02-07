@@ -315,3 +315,4 @@ vless://592c51df-3b53-4ff6-849e-3e7bf4bad858@fip.lightningdns.ir:443?encryption=
 vless://592c51df-3b53-4ff6-849e-3e7bf4bad858@188.121.124.17:698?encryption=none&amp;security=none&amp;type=ws&amp;host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&amp;path=%2F-wst%3Fed%3D2048#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe{} ### 1770476928070
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989?#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe ### 1770476940573
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#%20{} ### 1770478720931
+vless://f85f60b1-2b96-49e9-8bde-b656d1516df0@ipbaz.ping-box.com:8443?path=mehrosaboran%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net&amp;fp=chrome&amp;type=ws&amp;sni=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net#Telegram:@config_proxy{} ### 1770478724025
