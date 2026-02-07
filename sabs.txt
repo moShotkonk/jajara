@@ -351,3 +351,4 @@ vless://9cae7b92-c1b0-487f-b5e8-63b6bc7243da@193.134.100.165:1133?security=none&
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880/?type=grpc&encryption=none&flow=#422-NetFreedom0 ### 1770449320886
 vless://25d77ac6-7794-4135-92df-9c8e11d611f6@fredii.ichimokutrader.org:2020?encryption=none&amp;security=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770449326178
 vless://9cae7b92-c1b0-487f-b5e8-63b6bc7243da@3.79.228.52:2013?security=tls&amp;type=ws&amp;headerType=&amp;path=%2F&amp;host=3.66.247.237&amp;sni=tgconnect.tgconsole.ir&amp;fp=#Telegram:@config_proxy{} ### 1770449329823
+vless://9cae7b92-c1b0-487f-b5e8-63b6bc7243da@3.96.82.226:2013?security=tls&amp;type=ws&amp;headerType=&amp;path=%2F&amp;host=3.97.154.156&amp;sni=tgconnect.tgconsole.ir&amp;fp=#Telegram:@config_proxy{} ### 1770449336037
