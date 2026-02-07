@@ -353,3 +353,4 @@ vless://e6ec1d89-17fc-4de7-af89-81cd51022526@pl.griffon-guard.com:443?security=r
 vless://f91d249e-90e2-1625-9211-180e4d18f948@srv-f0.netmaster.cam:8443?security=none&amp;encryption=none&amp;type=ws&amp;sni=1#%40flyv2ray{} ### 1770451651464
 vless://3c68a105-54a8-47e9-8a11-e6e633c48ff0@81.12.46.175:1218?type=tcp&encryption=none&security=none ### 1770453730922
 vless://e4f562c4-c14a-4266-adf6-0e7c2d143b9b@gr.v2online3.site:42904?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%40NETMelliAnti ### 1770453739222
+vless://893f8067-2e45-457d-99c6-4672ed4b7e76@169.40.0.46:443?security=reality&amp;encryption=none&amp;pbk=OPYcfw3V8xssP-X-54cB7T4sjkf1uSD4RFkW3MgZ_yU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=m.ok.ru&amp;sid=9d97ebbfb0d05431#%E2%98%AE%EF%B8%8F24%40unvisible_drops{} ### 1770453752211
