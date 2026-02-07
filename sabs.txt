@@ -343,3 +343,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.110.118:80?security=none&typ
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.114.27:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770480263378
 vless://id8114764549@109.172.87.92:443?security=reality&encryption=none&pbk=0A5HG2mLQuxhnmuc12J2VJiXKS8KlQrSN0gnm42kOUE&headerType=none&fp=chrome&spx=%2F0Fuu4AeB8XffLM2&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru&sid=d817#Telegram:@config_proxy ### 1770480277295
 vless://9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80?security=none&amp;allowInsecure=0&amp;encryption=none&amp;type=xhttp&amp;path=/&amp;mode=auto#Telegram:@config_proxy{} ### 1770480281922
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.224.5:2096/?type=ws&encryption=none&flow=&host=ca.adobe-connect.top&path=%2F&security=tls&sni=ca.adobe-connect.top&fp=chrome#Telegram:@config_proxy ### 1770480288904
