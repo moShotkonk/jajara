@@ -315,3 +315,4 @@ vless://c583e7f8-9807-43b6-dac7-ca7ae5623546@kh2.mahdi383ir.website:9090?securit
 vless://63902ed7-9f1b-431b-9690-27589a60b819@83.228.230.48:2056?security=&encryption=none&host=cloudflare.com&headerType=http&type=tcp#Telegram:@config_proxy ### 1770476865511
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40flyv2ray{} ### 1770476867482
 vless://b345a751-61fd-42c4-c7d8-c18cc117210f@cf.mahdi383ir.website:2082?path=%2Fmahdi_383ir&amp;security=none&amp;encryption=none&amp;host=kh2w7vurh3iplepp5zkyjtwclmwuvvp0iwgpvwy.mahdi383ir.website&amp;type=httpupgrade#%40flyv2ray{} ### 1770476872134
+vless://85930b19-411d-4ab9-9bbc-b13b0df57e29@57.128.251.195:443?security=reality&amp;encryption=none&amp;pbk=gQ2tcAzqhEURxYqPNxQC6IexJIOycyhqv4uR0My_0wg&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=www.digikala.com&amp;sid=93#Telegram:@config_proxy{} ### 1770476876333
