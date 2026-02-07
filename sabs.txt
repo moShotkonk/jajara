@@ -408,3 +408,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.201.6:80?security=none&amp;t
 vless://51d7e784-d531-4756-a887-cb60b3069aa3@94.183.172.151:4220?path=%2F&security=&encryption=none&host=blog.zanborak-shop.ir&type=ws#Telegram:@config_proxy ### 1770430454911
 vless://53a4d2af-649a-41e0-a9df-4e9521461685@c4.s-sub.org:8443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=backup.f-sub.cfd&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=backup.f-sub.cfd#Telegram:@config_proxy{} ### 1770430459266
 vless://236f63b4-3529-4e9d-be27-a7b49e84a4b8@apps.mobileemdad.top:9560?security=&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770430463782
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@141.101.114.165:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=www.getasa.ir&fp=chrome&type=ws&sni=www.getasa.ir#Telegram:@config_proxy ### 1770430468198
