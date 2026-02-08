@@ -401,4 +401,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@190.93.245.223:80?security=none&typ
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.238.50:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770576684122
 vless://d0a88160-6f61-4fb9-bf2f-9a763e1031c8@3.79.98.107:30449?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy ### 1770576699153
 vmess://eyJob3N0IjogIiIsICJhZGQiOiAiMjE3LjIxNy4yNTUuOTkiLCAibmV0IjogIndzIiwgInBvcnQiOiAiODQ0MyIsICJpZCI6ICI4MzA0OWJkYS04ZDUzLTQ0YmMtZjcxYy1mNmIwM2MxY2E0ODIiLCAidiI6ICIyIiwgInNjeSI6ICJhdXRvIiwgInBhdGgiOiAiLyIsICJwcyI6ICJUZWxlZ3JhbTpAY29uZmlnX3Byb3h5IPCflKUifQ=={} ### 1770576702514
-vless://f8157b85-ba98-436a-b868-e109947813fb@mci.farsnews.fun:80?security=none&allowInsecure=0&encryption=none&type=xhttp&path=/&mode=auto#Telegram:@config_proxy ### 1770578089440
+vless://f8157b85-ba98-436a-b868-e109947813fb@mci.farsnews.fun:80?security=none&amp;allowInsecure=0&amp;encryption=none&amp;type=xhttp&amp;path=/&amp;mode=auto#Telegram:@config_proxy{} ### 1770578092225
