@@ -299,3 +299,4 @@ vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@104.20.1.252:80?path=%2F%3Fed&amp;s
 vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@diddy.com:80?security=&amp;type=ws&amp;path=/?ed&amp;host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&amp;encryption=none#@IVXChannel{} ### 1770559953604
 vless://ef26fe1e-abb0-4b37-b45b-d999a91ebc46@M3.FASTSPEEDS.IR:2053?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=aslan-nl.ip-venzo.com#Telegram:@config_proxy{} ### 1770559958020
 vless://fa6a9ffb-3cd2-457a-8d26-b08bf112a22f@94.183.157.91:1516?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy ### 1770559962413
+vless://425d653e-1dfc-4827-9b98-9cbaca2c8a7b@grn.mobileemdad.top:45471?security=none&type=tcp&headerType=none&path=&host=#Telegram:@config_proxy ### 1770559966974
