@@ -415,3 +415,4 @@ vless://781a96ac-8d3a-489f-85e1-572dac346579@ule2.portal-guard.com:8443/?type=tc
 vless://e44c7a66-0d05-42bc-a37b-bfed2a4fbcc1@lt2.ultima.foundation:22230/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=apple.com&amp;fp=chrome&amp;security=reality&amp;pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&amp;sid=#%E2%98%BA%EF%B8%8F84%40unvisible_drops{} ### 1770578160310
 vless://e44c7a66-0d05-42bc-a37b-bfed2a4fbcc1@ru2.ultima.foundation:4443/?type=tcp&encryption=none&flow=#%E2%98%BA%EF%B8%8F88%40unvisible_drops ### 1770578165045
 vless://44b49cd8-9324-4f17-a58e-a4fb620a598f@cccccccccc.abcdefiran.ir:8080?security=none&amp;type=httpupgrade&amp;headerType=&amp;path=%2F%3Fed%3D2056&amp;host=ger44.dl11movis.ir#Telegram:@config_proxy{} ### 1770578173991
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.231:38388#Telegram:@config_proxy ### 1770578178259
