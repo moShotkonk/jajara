@@ -264,3 +264,4 @@ vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@Ns4.iran-mehrbu.ir:443?path=%2Famir
 vless://926b8fc8-cb95-4f65-816b-1a736c547966@SPEEDTEST.NET:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=tor2.global.ssl.fastly.net&type=xhttp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple ### 1770547274641
 vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40FarazV2ray{} ### 1770547281166
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#%F0%9F%87%A8%F0%9F%87%B4CO-0399-NetFreedom0 ### 1770547287834
+vless://958ba7a3-9418-4853-a3b1-a7126b3c869e@H1.FASTSPEEDS.IR:2083?mode=multi&amp;security=tls&amp;encryption=none&amp;authority=austrishkk.digishopcenter.iR&amp;type=grpc&amp;serviceName=Love&amp;sni=austrishkk.digishopcenter.iR#Telegram:@config_proxy{} ### 1770547301241
