@@ -263,3 +263,4 @@ vless://61de3779-bb29-4f91-a331-e0702ff78eee@tsv13.pgezz.fun:56006?encryption=no
 vless://13cd5e8d-e150-4ed7-bb1d-eb3fee38f0ea@93.126.19.40:54625?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=speedtest.net#Telegram:@config_proxy{} ### 1770532744502
 vless://6a17a495-c6b6-4991-9007-2a7415b14453@t12.euro2nova.com:8880?security=none&type=tcp&headerType=http&path=%2F&host=mci.ir#Telegram:@config_proxy ### 1770532748818
 vless://6a17a495-c6b6-4991-9007-2a7415b14453@vim.euro2nova.com:8880?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=aparat.com#Telegram:@config_proxy{} ### 1770532753528
+vless://2fe0db18-3ca5-a207-9678-dedeea60e1f3@f3.ri9.ir:2908?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770532763641
