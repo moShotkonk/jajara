@@ -277,3 +277,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.95.77:80?security=none&type=
 vless://7c7af2de-bb97-429f-ac3c-8ef849717491@172.66.40.175:443?security=tls&amp;sni=tr2.tradex2080.com&amp;type=tcp&amp;fp=chrome&amp;alpn=http/1.1#@Hope_Net-join-us-on-Telegram{} ### 1770522880573
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.153.220:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770522884909
 vless://ffb47b3a-bfef-4689-b6ac-0d62ce48f804@185.146.173.237:443?security=tls&amp;sni=xn--mgbql0dza.pinocchio1.ir.&amp;type=grpc&amp;fp=firefox&amp;alpn=http/1.1#@Hope_Net-join-us-on-Telegram{} ### 1770522889130
+vless://6eace9d3-26e5-4b9a-9f33-45db888e59ec@serverejonq.samanidempire.org:443?path=%2F1a4r565d&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=serverejonq.samanidempire.org&amp;type=ws&amp;allowInsecure=0#Telegram:@config_proxy{} ### 1770522893911
