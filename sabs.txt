@@ -228,3 +228,4 @@ vmess://eyJhZGQiOiJzZXJ2ZXJzLnh2b24uaW4iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hy
 vless://7954a88d-2e46-49e2-954b-c6a910fcffc1@ywwq.izumii.ir:2091?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp{} ### 1770541847461
 vless://094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa@nl-78w-c.southnetworks.cloud:80?path=%2FgetWorkerUpdates&security=none&encryption=none&type=ws ### 1770541852201
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.118:443?path=%2F%40vpnAndroid2%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=4b097c46.GRIzzlyvPN.PAgeS.dEV&fp=randomized&type=ws&sni=4b097c46.gRIzzLYvPn.paGes.DEv#@Hope_Net-join-us-on-Telegram ### 1770541948161
+vless://1dcf8b3a-8c9e-42fc-bb99-c8749604127c@104.17.53.246:2052?security=none&type=ws&host=www.speedtest.net.zula.com.aparat.com.seyyedmt.bloG.#@Hope_Net-join-us-on-Telegram ### 1770541952556
