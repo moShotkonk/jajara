@@ -348,3 +348,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@142.93.136.199:443?path=%2F%3Fed%3D
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.68.122.213:443?path=%2F%3Fed%3D2560%26Telegram%40AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#Telegram:@config_proxy ### 1770505763811
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#@KAFING_2 ### 1770509334133
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#%D8%B3%D8%B1%D9%88%D8%B1%20%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%AF%D8%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20snologypersian%40%E2%9C%85%EF%B8%8F{} ### 1770509342438
+vless://ef3761cf-a11b-4719-bbaf-d2e374146812@172.67.209.221:2087?security=tls&sni=blog.neper.xyz&type=ws&path=/&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram ### 1770509376335
