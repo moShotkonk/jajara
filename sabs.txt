@@ -244,3 +244,4 @@ vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@fit.jojack.ru:443/?type=tcp&amp;enc
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.24.89:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770552136899
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.215.44:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770552143387
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.215.44:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1770552146660
+vless://8f824bde-5156-437d-b099-325704192218@198.41.202.5:2087?security=tls&sni=LiV2ry.lightning1.ir&type=ws&host=LiV2ry.lightning1.ir&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram ### 1770552151554
