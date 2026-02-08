@@ -389,3 +389,4 @@ vless://e3ef2b02-0387-4bb8-9566-1e59f7c2fc8c@ton2.amirkaj.ir:1338?security=none&
 vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@nodejs.org:80/?security=none&amp;type=ws&amp;path=%2F%3Fed&amp;host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&amp;encryption=none#Telegram:@config_proxy{} ### 1770574111346
 vless://77590e92-c831-4b87-bcf2-4ba118ef4ed0@87.107.82.189:2000?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770574115522
 vless://6fe32852-5f46-4090-8306-f5b419d6a469@imgur.com:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=hsdjhfdfbbf120.global.ssl.fastly.net&type=ws#%40NETMelliAnti ### 1770576609991
+vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@108.162.198.154:443?path=%2Ffp%3Dchrome&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=DiprOX.pages.DEV&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=DiprOX.pages.DEV#%40FarazV2ray{} ### 1770576614657
