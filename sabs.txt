@@ -426,3 +426,4 @@ vless://9d11161c-5123-47f6-ac2f-e439116b05e6@igvt.a1min.ir:2053?mode=auto&amp;pa
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.indevs.in&type=ws#Telegram:@config_proxy ### 1770582578540
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.178.224:8443?path=%2F%3Fed%3D2560%26Telegram%40AliXTso&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#Telegram:@config_proxy ### 1770582582280
 vless://9b05e77f-e81f-4d5b-a2dc-7463a154b241@M6.FASTSPEEDS.IR:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=arvan-fr2.ip-venzo.com#Telegram:@config_proxy{} ### 1770582587313
+vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?security=none&allowInsecure=0&encryption=none&type=ws&path=/vless/#Telegram:@config_proxy ### 1770582597104
