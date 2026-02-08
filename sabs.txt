@@ -341,3 +341,4 @@ ss://acdeb840-7828-4134-a71e-7fd27316e9c6@Home.kebbabbaz.top:6620?security=reali
 vless://519ee4b2-211c-4e51-8b44-3eb2c008fd43@5.75.205.170:2051?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770569045830
 vless://a19a7008-a0da-436c-bf2b-c205db458bd6@193.151.142.126:927?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770569049562
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.92.233:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#Telegram:@config_proxy{} ### 1770569054238
+vless://ea3d0e35-80ca-4856-9ab1-52d657361ea0@mci.farsnews.fun:80?encryption=none&amp;security=none&amp;type=xhttp&amp;host=tonellmelig5.global.ssl.fastly.net&amp;path=%2F&amp;mode=auto#Telegram:@config_proxy{} ### 1770569057783
