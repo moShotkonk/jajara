@@ -265,3 +265,4 @@ vless://926b8fc8-cb95-4f65-816b-1a736c547966@SPEEDTEST.NET:80?mode=auto&path=%2F
 vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40FarazV2ray{} ### 1770547281166
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#%F0%9F%87%A8%F0%9F%87%B4CO-0399-NetFreedom0 ### 1770547287834
 vless://958ba7a3-9418-4853-a3b1-a7126b3c869e@H1.FASTSPEEDS.IR:2083?mode=multi&amp;security=tls&amp;encryption=none&amp;authority=austrishkk.digishopcenter.iR&amp;type=grpc&amp;serviceName=Love&amp;sni=austrishkk.digishopcenter.iR#Telegram:@config_proxy{} ### 1770547301241
+vless://27c8851c-76bd-46bd-aae8-833c6d9d3fff@speedtest.net:80?encryption=none&type=xhttp&mode=auto&host=matin-highspeed-12821-name.global.ssl.fastly.net&path=/path&security=none#Telegram:@config_proxy ### 1770547304913
