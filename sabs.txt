@@ -247,3 +247,4 @@ vless://289f7608-8995-4165-9f3a-3612577190bb@creativecommons.org:443?path=%2Fws&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MmQyYjQ3MTgxYTMyZGU3@154.26.132.38:16922#Telegram:@config_proxy{} ### 1770528694793
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.117:443?security=tls&amp;sni=hkg.ylks.link&amp;type=ws&amp;path=/blue#@Hope_Net-join-us-on-Telegram{} ### 1770532670420
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.21.240:443?security=tls&sni=pPAl03.SaGAsa6909.WOrkErs.DEv&type=ws&host=ppAl03.saGasA6909.wOrkerS.DEv&path=%2F686qFEJz5Fq7zsMx%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram ### 1770532674561
+vless://b789a45d-e100-4e3a-9bec-8161a1910fac@185.146.173.50:8080?security=none&type=ws&host=blackoutV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.#@Hope_Net-join-us-on-Telegram ### 1770532678407
