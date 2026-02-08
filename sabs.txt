@@ -436,3 +436,4 @@ vless://dc893677-ef29-43c8-ae2a-4788c5712a23@ger4.azadrah.drpingi.shop:443?secur
 vless://195ec880-d140-4265-aec7-47d0429407ed@do.jadhap.ir:45595?security…#Telegram:@config_proxy{} ### 1770590287820
 vless://0696d558-118e-4613-8262-59fe272cac59@a11.api-tel.ir:2086?type=tcp&security=none#Telegram:@config_proxy ### 1770590294344
 vless://1dab4c0f-a723-4f8b-98cb-76eab77bfb22@a15.api-tel.ir:54697?type=tcp&amp;encryption=none&amp;path=%2F&amp;host=divarcdn.com&amp;headerType=http&amp;security=reality&amp;pbk=SE18-hr9HPPosy_BCLK4bh8fwNJdrJrNtkTBcsOqBGk&amp;fp=chrome&amp;sni=ea.com&amp;sid=d128bc&amp;spx=%2F#Telegram:@config_proxy{} ### 1770590298778
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.27.24.143:443?security=tls&amp;allowInsecure=0&amp;encryption=none&amp;type=ws&amp;host=sni.111000.indevs.in&amp;sni=sni.111000.indevs.in&amp;fp=chrome#Telegram:@config_proxy{} ### 1770590302837
