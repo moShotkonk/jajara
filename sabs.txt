@@ -231,3 +231,4 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.118:443?path=%2F%40vpnAnd
 vless://1dcf8b3a-8c9e-42fc-bb99-c8749604127c@104.17.53.246:2052?security=none&type=ws&host=www.speedtest.net.zula.com.aparat.com.seyyedmt.bloG.#@Hope_Net-join-us-on-Telegram ### 1770541952556
 vless://9f13152c-1c7e-4a42-ab73-32d6aa574b03@172.67.247.119:443?security=tls&amp;sni=xn--mgbndbh.pinocchio1.ir.&amp;type=grpc#@Hope_Net-join-us-on-Telegram{} ### 1770541958118
 vless://04d533ee-51ba-47cc-a703-6336470898ad@104.21.69.22:443?security=tls&sni=mhsang2c3.afsharidempire.uk&type=ws&host=mhsang2c3.afsharidempire.uk&path=/8Ku2BGY685PUNtppXQIC9t&fp=chrome&alpn=http/1.1#@Hope_Net-join-us-on-Telegram ### 1770541960844
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.154.237:80?type=ws&amp;host=kr1.175852.xyz&amp;path=/abcde#@Hope_Net-join-us-on-Telegram{} ### 1770541965067
