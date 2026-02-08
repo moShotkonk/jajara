@@ -434,3 +434,4 @@ vless://5fa2319e-44a0-4497-8005-110969e98dd1@5.75.205.170:10321?security=none&en
 vless://53dea1da-59d5-4ba9-9a6e-96b505cc38f6@5.75.205.170:678?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770588330916
 vless://8238e462-2dbf-42e2-b8db-b86e35d06c2e@5.75.205.170:2053?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770588335264
 vless://4f7bec62-b1e7-43d6-b1d4-9eb404596990@5.75.205.170:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770588339550
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v4.globalfymain.com:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=#Telegram:@config_proxy{} ### 1770588343206
