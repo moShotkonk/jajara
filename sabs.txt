@@ -270,3 +270,4 @@ vmess://eyJhZGQiOiAiaXJuZXQuZ3JlZW5ldHBsdXMuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIi
 vless://41ffc338-d50e-415b-a91b-af9882b9710b@Noron.GAfe-Marz.ir:8013?security=none&encryption=none&headerType=http&type=tcp#Telegram:@config_proxy ### 1770547314355
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.8.71:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#Telegram:@config_proxy{} ### 1770547325283
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.8.71:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#Telegram:@config_proxy ### 1770547327398
+vless://81d304dd-dfdd-4db3-9918-b1516dc3510d@162.159.135.232:2096?security=tls&amp;sni=S.fruitsstore.ir&amp;type=ws&amp;host=S.fruitsstore.ir&amp;path=/?ed=1024#@Hope_Net-join-us-on-Telegram{} ### 1770547329687
