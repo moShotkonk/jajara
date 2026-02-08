@@ -385,3 +385,4 @@ vless://30acd2d9-59fd-4464-b844-cf2d6360f2ea@lit.litiran.ir:2083?security=tls&en
 vless://06a2f75b-2ab3-4356-aa5e-18729e71c449@ip3.kakeroo.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=kalamsi666.global.ssl.fastly.net&amp;type=ws#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple{} ### 1770574093690
 vless://06a2f75b-2ab3-4356-aa5e-18729e71c449@ip3.kakeroo.ir:80?path=%2F&security=none&encryption=none&host=kalamsi666.global.ssl.fastly.net&type=ws#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple ### 1770574097004
 vless://50ef8966-f661-49f1-9217-a92d70a9bf60@new.vp.bloggershop.ir:25156?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple ### 1770574102515
+vless://e3ef2b02-0387-4bb8-9566-1e59f7c2fc8c@ton2.amirkaj.ir:1338?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770574106798
