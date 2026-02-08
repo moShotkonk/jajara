@@ -332,3 +332,4 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.9:443?encryption=none&se
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.9:443?encryption=none&amp;security=tls&amp;sni=dev.twistsparrow.xyz&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;path=%2F#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe{} ### 1770565414786
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.17:443?encryption=none&security=tls&sni=dev.twistsparrow.xyz&insecure=0&allowInsecure=0&type=ws&path=%2F#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe ### 1770565422771
 vless://4f9dba95-1415-4c2f-ba65-2d0285348ab9@104.25.43.248:443?security=tls&amp;sni=xn--mgb3dde08d.pinocchio1.ir.&amp;type=grpc#@Hope_Net-join-us-on-Telegram{} ### 1770565424920
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@130.250.137.196:2053?security=tls&amp;sni=juzibaipiao.5112233.xyz&amp;type=ws&amp;path=%2Ftelegram-%40v2ray_alpha%2F%3Fed#@Hope_Net-join-us-on-Telegram{} ### 1770565433657
