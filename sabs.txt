@@ -359,4 +359,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiVGVsZWdyYW06QGNvbmZpZ19wcm94eSDwn5SlIiwgImFkZCI6
 vless://812bafa1-2d7a-4a65-bfc3-91f484418fd9@91.234.147.72:6665?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770570684832
 vless://67f2d611-acad-4ee0-bcf8-b16553dc3f55@190.93.245.187:443?path=%2F&security=tls&encryption=none&host=FN.blackyourum.com&fp=chrome&type=ws&sni=FN.blackyourum.com#Telegram:@config_proxy ### 1770570688668
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZEZtSHJ3a1VjWkFXS016VkExMDJD@216.105.168.18:443/?outline=1&amp;prefix=%16%03%01%00%C2%A8%01%01#🇺🇸{} ### 1770573946226
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMzdUWFM2c1BQZlJMUmlROVNvbDUw@104.192.227.162:443/?outline=1&amp;prefix=%16%03%01%00%C2%A8%01%01#🇺🇸{} ### 1770573950782
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMzdUWFM2c1BQZlJMUmlROVNvbDUw@104.192.227.162:443/?outline=1&prefix=%16%03%01%00%C2%A8%01%01#🇺🇸 ### 1770573952111
