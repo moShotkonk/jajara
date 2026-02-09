@@ -274,3 +274,4 @@ vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.60:9831?security=&amp;en
 vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.236:9828?security=&amp;encryption=none&amp;host=pro30afzar.com&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770617622093
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.140:443#%F0%9F%87%AB%F0%9F%87%B7%40Father_vpn{} ### 1770623364446
 vless://f6aa39a5-1aa7-484d-ba53-fc3a7de9c2d1@104.19.170.20:443?security=tls&amp;sni=xn--mgbctcjq5l.pinocchio1.ir.&amp;type=grpc&amp;fp=firefox&amp;alpn=http/1.1#@Hope_Net-join-us-on-Telegram{} ### 1770623388861
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.103.15:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770623392860
