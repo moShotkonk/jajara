@@ -351,3 +351,4 @@ vless://a4ed2e0b-85d9-4a13-884c-eae6bb4f1800@france.alpacalounge.com:2096?securi
 vless://226c8b99-407a-4215-b00c-ff44b02b8b63@myanmar.visa.com:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=RAYaN106-9uIaCO-1.rayan-106.wOrKErs.DeV&sni=RAYaN106-9uIaCO-1.rayan-106.wOrKErs.DeV&fp=chrome&encryption=none#Telegram:@config_proxy ### 1770679783715
 vless://ef594e2f-1a55-468c-8a0f-b0887d06f6e5@91.99.127.122:4655?security=none&amp;type=tcp&amp;encryption=none#Telegram:@config_proxy{} ### 1770679787804
 vless://b69f3175-c86b-4d13-9b1a-8a6cf396876c@5.202.8.15:54539?type=tcp&amp;encryption=none&amp;security=none#Telegram:@config_proxy{} ### 1770679792700
+vless://9cf7e4ab-0da9-4213-d376-8f9d91668daf@chatgpt.com:443?mode=auto&amp;path=%2F&amp;security=tls&amp;encryption=none&amp;host=hajimamad.ladyy-collection.ir&amp;type=xhttp&amp;sni=hajimamad.ladyy-collection.ir#Telegram:@config_proxy{} ### 1770679796670
