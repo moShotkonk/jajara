@@ -294,3 +294,4 @@ vless://a9db840e-9568-42d6-aa71-c93a9ef16f81@ch.sv9.ir:7522?security=&amp;encryp
 vless://873a8e21-5fed-36a7-b251-734ebc97381c@s1.db-link.in:443?encryption=none&amp;security=tls&amp;sni=s6.oboob.cn&amp;alpn=h3%2Ch2&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=s6.oboob.cn&amp;path=%2Fdb1024c59ce5eab9#Telegram:@config_proxy{} ### 1770659159865
 vless://56ac1b8b-fc37-4208-8205-83555d1cc590@81.12.34.247:3650?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770659165040
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@v1.dabache.top:443?path=%2FTel-%40V2rayAlpha&security=tls&encryption=none&insecure=0&host=DiprOX.pages.DEV&fp=chrome&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#Telegram:@config_proxy ### 1770659169757
+vless://2e05a59d-e0ad-4f93-96c4-41afa62aed9b@104.21.63.234:80?security=none&type=ws&host=speedtest.net.xn--sgbm1d.pinocchio1.ir.#@Hope_Net-join-us-on-Telegram ### 1770659174086
