@@ -355,3 +355,4 @@ vless://9cf7e4ab-0da9-4213-d376-8f9d91668daf@chatgpt.com:443?mode=auto&amp;path=
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;type=ws&amp;allowInsecure=1&amp;sni=azizoarjmand.info&amp;fragment=10-20%2C10-20%2Ctlshello#Telegram:@config_proxy{} ### 1770679800276
 vless://5e4b538f-4c9c-4b16-b0e9-5357b2dfeaf9@x9c2v5b8n1m4.the-scary-deep-forest-of-my-mind.top:7166?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770679805397
 vless://b010e788-7e9f-48a0-97d9-b3250129eb15@n5m8q1w4e7r3.the-scary-deep-forest-of-my-mind.top:7225?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770679809724
+vless://5e4b538f-4c9c-4b16-b0e9-5357b2dfeaf9@5.160.35.240:7166?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770679814479
