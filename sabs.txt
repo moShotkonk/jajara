@@ -286,3 +286,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiVGVsZWdyYW06QGNvbmZpZ19wcm94eSDwn5SlIiwgImFkZCI6
 vless://b25ae9bd-a6ad-4cf1-854d-bcd77134659d@212.22.76.8:443?mode=packet-up&path=/muhasv&security=tls&alpn=h3&encryption=none&extra={"scMaxEachPostBytes":#Telegram:@config_proxy ### 1770659123358
 vless://92270115-969b-45cd-a72a-1cb52ed295b9@151.101.25.242:80?path=/&amp;encryption=none&amp;host=blazeus85your-name.global.ssl.fastly.net&amp;type=xhttp#Telegram:@config_proxy{} ### 1770659127660
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@dash.getasa.ir:443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=dash.getasa.ir&amp;fp=chrome&amp;type=ws&amp;sni=dash.getasa.ir#Telegram:@config_proxy{} ### 1770659132735
+vless://a7773885-5cfc-4463-9e21-2f15c4fb3ab2@aws57049acf22649c9f57horcj9j36.need12speed.ir:9098?encryption=none&type=tcp&headerType=none#Telegram:@config_proxy ### 1770659137883
