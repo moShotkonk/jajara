@@ -1,4 +1,3 @@
-vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@104.20.1.252:80?path=%2F%3Fed&amp;security=&amp;encryption=none&amp;host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&amp;type=ws#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy{} ### 1770559949821
 vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@diddy.com:80?security=&amp;type=ws&amp;path=/?ed&amp;host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&amp;encryption=none#@IVXChannel{} ### 1770559953604
 vless://ef26fe1e-abb0-4b37-b45b-d999a91ebc46@M3.FASTSPEEDS.IR:2053?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=aslan-nl.ip-venzo.com#Telegram:@config_proxy{} ### 1770559958020
 vless://fa6a9ffb-3cd2-457a-8d26-b08bf112a22f@94.183.157.91:1516?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy ### 1770559962413
@@ -319,3 +318,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.27.47:80?security=none&amp;t
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.118.233:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770617535825
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.17.179:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770617539382
 vless://4db5388a-02df-4db8-9be1-15b9a146f05e@192.200.160.12:2087?security=tls&amp;sni=homa.mattservers.ir&amp;type=ws&amp;host=homa.mattservers.ir&amp;fp=chrome&amp;alpn=h2#@Hope_Net-join-us-on-Telegram{} ### 1770617548672
+vless://69ed24f6-8161-45db-9224-c51293938a5c@141.101.113.189:443?security=tls&amp;sni=superservos.supportshoporg.com.&amp;type=grpc&amp;fp=firefox&amp;alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram{} ### 1770617552118
