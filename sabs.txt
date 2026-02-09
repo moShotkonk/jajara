@@ -284,3 +284,4 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?path=%2F&security=
 vless://d707eb38-f470-415c-9356-db28892c3dcf@H1.FASTSPEEDS.IR:2083?security=tls&amp;type=grpc&amp;headerType=&amp;serviceName=Love&amp;authority=itw.digishopcenter.ir&amp;mode=multi&amp;sni=itw.digishopcenter.ir&amp;fp=#Telegram:@config_proxy{} ### 1770652028793
 vless://ed257f67-6c93-4570-ad74-755328382e0b@s-de.anonify.site:34100?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#Telegram:@config_proxy{} ### 1770652030922
 vless://406d0357-ecd8-46ce-afa8-22b0e139348c@104.25.19.43:8080?type=ws&amp;host=join-to.vmessorg.Community.&amp;path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080#@Hope_Net-join-us-on-Telegram{} ### 1770652035241
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.71.11:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770652041448
