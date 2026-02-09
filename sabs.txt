@@ -301,3 +301,4 @@ vless://f1105df0-af8a-4a45-9c59-3f82dcb3d52f@curt233.bestxau.ir:2374?mode=gun&am
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@103.169.142.38:443?security=tls&sni=kkg.ylks.link&type=ws&path=/blue#@Hope_Net-join-us-on-Telegram ### 1770630725723
 vless://4a2c06b4-162a-4b57-941d-e8205ef9baff@104.17.147.22:8080?security=none&amp;type=ws&amp;host=SHHproxy--shhPROXY--SHHproxy.joinTELEGRAM.net.#@Hope_Net-join-us-on-Telegram{} ### 1770630729877
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.198.113:80?type=ws&host=kr1.175852.xyz&path=/abcde#@Hope_Net-join-us-on-Telegram ### 1770630733954
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.246.43:80?type=ws&amp;host=kr1.175852.xyz&amp;path=/abcde#@Hope_Net-join-us-on-Telegram{} ### 1770630739769
