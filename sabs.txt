@@ -333,3 +333,4 @@ vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@allsms.rozfa.com:443?path=/&securit
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.33.29:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770669827561
 vless://509132bc-0d4a-43bd-b951-df3058987bbb@ip1.neoservers.ir:8443?encryption=none&amp;security=tls&amp;sni=4mgCAd69VuNq7KzjNVDrkpVzvugByFBdg08tYcrY.ViPClUbIrAn.Ir.&amp;fp=chrome&amp;alpn=h3%2Ch2&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=4mgCAd69VuNq7KzjNVDrkpVzvugByFBdg08tYcrY.ViPClUbIrAn.Ir.&amp;path=%2F#Telegram:@config_proxy{} ### 1770669857557
 vless://7d680304-b026-48fd-d8bf-6aa209b424c5@18.184.226.36:19592?encryption=none&security=none&type=tcp&headerType=none#Telegram:@config_proxy ### 1770669861630
+vless://620e45f4-92f1-4be6-e118-3bc515509320@3.121.214.190:28279?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#Telegram:@config_proxy{} ### 1770669866378
