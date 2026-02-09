@@ -322,3 +322,4 @@ vless://2a89a714-3b5b-40c0-b60d-c5f98d271c14@www.speedtest.net:2087?path=@mehros
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.244.191:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1770675302466
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.87.7:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1770675306153
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.170.136:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1770675310314
+vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.47.147:443?security=tls&amp;sni=ZTV2RAY.pages.dev&amp;type=ws&amp;host=ZTV2RAY.pages.dev&amp;fp=chrome&amp;alpn=http/1.1#@Hope_Net-join-us-on-Telegram{} ### 1770675317033
