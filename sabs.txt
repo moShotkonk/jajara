@@ -333,3 +333,4 @@ vless://66b3cbba-e6ac-485a-9481-962a0415eab5@104.21.88.231:443?security=tls&amp;
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.205.53:443?security=tls&amp;sni=mmdv2.pages.dev&amp;type=ws&amp;host=mmdv2.pages.dev&amp;path=%40vpnAndroid2%2F%3Fed#@Hope_Net-join-us-on-Telegram{} ### 1770613182407
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.101.149:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770613188646
 vless://1149be91-5a4f-47de-995f-66f8d7d64498@102.177.176.49:2096?security=tls&sni=De15.SiMaNsAnAt.Ir.&type=ws&host=De15.SiMaNsAnAt.Ir.#@Hope_Net-join-us-on-Telegram ### 1770613193132
+vless://795d9765-d634-40c0-a045-3d49929cce10@198.41.215.201:80?security=none&amp;type=ws&amp;host=speedtest.net.xn--mgbz1cc.pinocchio1.ir.&amp;path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram{} ### 1770613197578
