@@ -424,3 +424,4 @@ vless://242a12b1-5954-4aab-bb24-8faa4e5fbffb@ikonthailand.com:80?security=&amp;t
 vless://6fe32852-5f46-4090-8306-f5b419d6a469@ikonthailand.com:80?security=&amp;type=ws&amp;path=/containers/fi&amp;host=kiram-to-harki-filter-kone.global.ssl.fastly.net&amp;encryption=none#@IVXChannel%20-%20Thailand{} ### 1770595573826
 vless://6fe32852-5f46-4090-8306-f5b419d6a469@ikonthailand.com:80?security=&amp;type=ws&amp;path=/containers/fi&amp;host=filterchi-zanet-jendas.global.ssl.fastly.net&amp;encryption=none#@IVXChannel{} ### 1770595578164
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.123.255.78:443?security=tls&amp;sni=kkg.ylks.link&amp;type=ws&amp;path=%2Fblue#@Hope_Net-join-us-on-Telegram{} ### 1770595582206
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.245:443?security=tls&sni=kkg.ylks.link&type=ws&path=%2Fblue#@Hope_Net-join-us-on-Telegram ### 1770595589935
