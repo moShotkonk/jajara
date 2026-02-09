@@ -292,3 +292,4 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=%2F&security=tl
 vless://73ccfebc-9b7f-4bb2-9685-2c92bca66947@de.v2turbo.com:1521?path=%2F&amp;security=&amp;encryption=none&amp;host=skyroom.online%2Cgharar.ir%2Cigap.net&amp;type=ws#Telegram:@config_proxy{} ### 1770637237993
 vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@45.130.125.160:443?encryption=none&amp;security=tls&amp;sni=craftedrpg.ir&amp;type=ws&amp;host=craftedrpg.ir&amp;path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40electvpn0{} ### 1770637246114
 vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@104.18.31.168:443?encryption=none&amp;security=tls&amp;sni=craftedrpg.ir&amp;type=ws&amp;host=craftedrpg.ir&amp;path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40electvpn0{} ### 1770637248885
+vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@1.kkcweb.ir:443?encryption=none&security=tls&sni=craftedrpg.ir&type=ws&host=craftedrpg.ir&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40electvpn0 ### 1770637253314
