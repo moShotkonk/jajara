@@ -367,3 +367,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.144.179.187:443?path=%2F%3Fed%3D2
 vless://2250b11c-1503-4dd4-b714-930a8efdeb1b@172.64.152.23:2053?encryption=none&security=tls&type=ws&headerType=none&host=datalix6.xr66.ir&sni=datalix6.xr66.ir#Telegram:@config_proxy ### 1770605239495
 vless://1bacbe3f-fa7b-493b-9187-fd3e23153980@88.209.249.38:2626?mode=auto&path=%2F%40bitnetvpn&security=&encryption=none&host=bitnetvpn.com&type=xhttp#Telegram:@config_proxy ### 1770605244394
 vless://30acd2d9-59fd-4464-b844-cf2d6360f2ea@lit.litiran.ir:2083?security=tls&amp;allowInsecure=0&amp;encryption=none&amp;type=ws&amp;host=videogame-br.kafeistanbul.shop&amp;sni=videogame-br.kafeistanbul.shop&amp;fp=chrome#Telegram:@config_proxy{} ### 1770605248371
+vless://7160c366-4a46-44b2-8562-602d208b0e4f@94.182.128.221:4567?type=tcp&amp;encryption=none&amp;path=%2F&amp;host=varzesh3.com&amp;headerType=http&amp;security=none#Telegram:@config_proxy{} ### 1770605252785
