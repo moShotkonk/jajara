@@ -1,5 +1,3 @@
-vless://06430296-e070-4048-ba38-3662c09e52bc@162.159.4.158:2087?security=tls&amp;sni=finland.hiytocloud.ir&amp;type=grpc&amp;alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram{} ### 1770605205362
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.243.100:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770605209776
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.145.128:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770605213670
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.110.52:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770605217932
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.156.189:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1770605224684
@@ -320,3 +318,4 @@ vless://cd39b47e-003e-4b5c-a386-1f22b318e299@sv22.v2bit.com:2087?path=%2F&securi
 vless://6b834683-242d-416e-b61b-2a002d492055@185.143.233.5:443?path=%2F%3Fed%3D443&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=anten.ir.wnticacenise1.irmahanmap.com&amp;fp=randomized&amp;type=ws&amp;allowInsecure=0&amp;sni=anten.ir#Telegram:@config_proxy{} ### 1770662791533
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.1.131:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#Telegram:@config_proxy ### 1770662795922
 vless://cd39b47e-003e-4b5c-a386-1f22b318e299@sv33.v2bit.com:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sadjkg32jhgjhasd.chgfa.site&amp;type=ws&amp;allowInsecure=1&amp;sni=sadjkg32jhgjhasd.chgfa.site#Telegram:@config_proxy{} ### 1770662804618
+vless://e59083aa-d933-4952-8cf0-eec74f718705@fr.locations-service.com:3032?encryption=none&security=reality&sni=refersion.com&fp=firefox&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&type=tcp&headerType=none#Telegram:@config_proxy ### 1770662809980
