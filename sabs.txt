@@ -295,3 +295,4 @@ vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@104.18.31.168:443?encryption=none&a
 vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@1.kkcweb.ir:443?encryption=none&security=tls&sni=craftedrpg.ir&type=ws&host=craftedrpg.ir&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40electvpn0 ### 1770637253314
 vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@ip.hamrahto.com:443?encryption=none&security=tls&sni=craftedrpg.ir&type=ws&host=craftedrpg.ir&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40electvpn0 ### 1770637257505
 vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@s5.fastspeeds.ir:443?encryption=none&amp;security=tls&amp;sni=craftedrpg.ir&amp;type=ws&amp;host=craftedrpg.ir&amp;path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40electvpn0{} ### 1770637261933
+vless://cf75b580-838c-48ed-a8a4-838ce7a3e374@sv55.v2bit.com:2087?security=tls&encryption=none&host=sadjkg32jhgjhasd.chgfa.site&type=ws&sni=sadjkg32jhgjhasd.chgfa.site#Telegram:@config_proxy ### 1770637266189
