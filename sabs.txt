@@ -329,3 +329,4 @@ vless://146cbea2-cb7d-49c5-83c7-2ddb65d19938@tunnyl.ru:8443?type=tcp&amp;encrypt
 vless://146cbea2-cb7d-49c5-83c7-2ddb65d19938@tunnyl.ru:8443?type=tcp&encryption=none&security=reality&pbk=JIEpMViq_q_8PBG4NYKXrSlaGeQMuahbAaa7Qrh3LX0&fp=ios&sni=google.com&sid=38cd424d5ba6441d&spx=%2F&flow=xtls-rprx-vision#Telegram:@config_proxy ### 1770672607706
 vless://3cadf249-13a2-413f-867a-a802964f914d@18.159.41.27:443?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy ### 1770672621134
 vless://907ccc0f-bd56-4726-a877-d72a02125b6c@3.75.88.218:443?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy ### 1770672624885
+vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@18.153.32.210:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770672629738
