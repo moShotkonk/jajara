@@ -292,3 +292,4 @@ vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@109.120.190.203:1488?encryption=non
 vless://f3b2341e-5a43-4f6c-8d6f-85cd5869fc04@185.215.228.86:28500?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770659150480
 vless://a9db840e-9568-42d6-aa71-c93a9ef16f81@ch.sv9.ir:7522?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770659158065
 vless://873a8e21-5fed-36a7-b251-734ebc97381c@s1.db-link.in:443?encryption=none&amp;security=tls&amp;sni=s6.oboob.cn&amp;alpn=h3%2Ch2&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=s6.oboob.cn&amp;path=%2Fdb1024c59ce5eab9#Telegram:@config_proxy{} ### 1770659159865
+vless://56ac1b8b-fc37-4208-8205-83555d1cc590@81.12.34.247:3650?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770659165040
