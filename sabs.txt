@@ -289,3 +289,4 @@ vless://f16bf19e-6966-44dd-819f-4e4e9dd321b0@diddy.com:2053?security=tls&amp;sni
 vless://f16bf19e-6966-44dd-819f-4e4e9dd321b0@diddy.com:2053?security=tls&amp;sni=chez-zzn.appleseraj.ir&amp;fp=chrome&amp;type=ws&amp;path=/?ed%3D2048&amp;host=chez-zzn.appleseraj.ir&amp;encryption=none#@IVXChannel%20Bomb%201{} ### 1770637225506
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.2:443?path=%2F&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=dev.twistsparrow.xyz#Telegram:@config_proxy ### 1770637229460
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=%2F&security=tls&encryption=none&insecure=1&host=dev.nestandneighbours.com&type=ws&allowInsecure=1&sni=dev.nestandneighbours.com#Telegram:@config_proxy ### 1770637233887
+vless://73ccfebc-9b7f-4bb2-9685-2c92bca66947@de.v2turbo.com:1521?path=%2F&amp;security=&amp;encryption=none&amp;host=skyroom.online%2Cgharar.ir%2Cigap.net&amp;type=ws#Telegram:@config_proxy{} ### 1770637237993
