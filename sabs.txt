@@ -334,3 +334,4 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.26.102:443?security=tls&sni
 vless://45eee3c9-ac41-43d5-a03f-b7b298a1d162@45.81.58.159:443?mode=auto&path=%2Fcloudapi&security=tls&encryption=none&alpn=h2&fp=chrome&type=xhttp&sni=dl.mobileemdad.top#Telegram:@config_proxy ### 1770729156681
 vless://0518cab2-799f-481f-b07b-bce0110407de@95.38.38.144:1112?security=none&amp;encryption=none&amp;host=uptvs.com&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770729161936
 vless://0518cab2-799f-481f-b07b-bce0110407de@95.38.38.144:1112?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#Telegram:@config_proxy ### 1770729165951
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?security=tls&amp;allowInsecure=0&amp;encryption=none&amp;type=ws&amp;host=hetz.x-smm.com&amp;path=/45.76.183.217%3D49292&amp;sni=hetz.x-smm.com&amp;fp=chrome#Telegram:@config_proxy{} ### 1770729170052
