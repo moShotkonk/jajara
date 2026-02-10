@@ -425,3 +425,4 @@ vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=%2F--Telegra
 vless://57fb5cb6-b547-4ee2-90a2-77bd609a29f6@46.38.143.212:3020?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy ### 1770755766626
 vless://85a33a63-4cd8-41fe-8e36-7495946f1e61@95.38.242.222:8443?security=none&amp;encryption=none&amp;host=tgju.org&amp;headerType=http&amp;type=tcp#%40NETMelliAnti{} ### 1770755771026
 vless://352f047c-3176-4271-9bc6-3f7d33ee03c7@riali22.carpet-carpet-carped.ir:2018?security=reality&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;sni=ub.com&amp;sid=83f404&amp;fp=firefox&amp;pbk=pY4Vwx68IazGJq4BPHFVAXzmQhOz9DmKjpNM2CSxehc&amp;headerType=none#Telegram:@config_proxy{} ### 1770755834523
+vless://05bf8722-42e1-4fd5-8db7-bc7ad9912b21@t2.cesar2.click:443?security=none&amp;encryption=no#Telegram:@config_proxy{} ### 1770755838961
