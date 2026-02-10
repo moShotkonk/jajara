@@ -328,4 +328,4 @@ vless://7b471aa5-9344-4567-96a9-82bec6427f85@3.79.115.193:443?security=&amp;encr
 vless://8c06ed2a-5b7c-4d8a-8d5b-c2a7fa4a2e65@104.248.242.98:41541?security=&encryption=none&headerType=&type=tcp#@InfoTech_VK ### 1770717902295
 vless://3cadf249-13a2-413f-867a-a802964f914d@3.75.247.161:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#@InfoTech_VK{} ### 1770717907397
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@cosmin.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#@InfoTech_VK ### 1770717914908
-vless://620e45f4-92f1-4be6-e118-3bc515509320@3.121.71.21:28279?security=&encryption=none&headerType=&type=tcp#@InfoTech_VK ### 1770717917953
+vless://620e45f4-92f1-4be6-e118-3bc515509320@3.121.71.21:28279?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#@InfoTech_VK{} ### 1770717919198
