@@ -342,3 +342,4 @@ vless://7396c077-f5cb-4808-84ca-92f268d79b3d@3.64.178.32:443?security=&amp;encry
 vmess://eyJ2IjogIjIiLCAicHMiOiAiVGVsZWdyYW06QGNvbmZpZ19wcm94eSDwn5SlIiwgImFkZCI6ICJ0dXJrMS5uZXQubmV0IiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJhdXRvIiwgImlkIjogIjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAidHIxLXNtYXJ0LmFkZWxwaW5nLmNvbS4iLCAidGxzIjogIiJ9{} ### 1770717963791
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?path=%2F%3Fed&amp;security=none&amp;encryption=none&amp;host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&amp;type=ws#Telegram:@config_proxy{} ### 1770717973538
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#Telegram:@config_proxy ### 1770717976333
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozN2VmNGYwMjlmMWFjMGFj@141.95.105.28:11201#Telegram:@config_proxy{} ### 1770717981934
