@@ -407,3 +407,4 @@ vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@151.101.25.242:80?encryption=none&a
 vless://88181007-9bb3-4e6c-826d-4400b191b8d7@135.125.174.103:37928?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#Telegram:@config_proxy{} ### 1770753250834
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.112.151:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1770753257926
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.154.207:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770753261127
+vless://89f8b5cd-f3d7-4562-c16e-69b436c2e063@172.67.219.112:2082?security=none&type=ws&host=nim.foxnim.xyz.&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram ### 1770753265397
