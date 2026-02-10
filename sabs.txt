@@ -333,3 +333,4 @@ vless://b52370db-a4af-43e3-9e4c-a7e7115fcecb@172.67.213.180:443?encryption=none&
 vless://3082f423-7e33-4c28-b6cc-1da5a40c54a3@3d.filesdownloader.ru:443?type=tcp&security=reality&pbk=21akVzin0efn9XtLugyUqN3jVT_5VarKy4cD-0nBcyM&fp=ios&sni=kinopoisk.ru&sid=fa71&spx=%2F&flow=xtls-rprx-vision#Telegram:@config_proxy ### 1770735403526
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.213:443?security=tls&amp;sni=kkg.ylks.link&amp;type=ws&amp;path=%2Fblue#@Hope_Net-join-us-on-Telegram{} ### 1770739407095
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.213:443?security=tls&sni=kkg.ylks.link&type=ws&path=%2Fblue#@Hope_Net-join-us-on-Telegram ### 1770739409737
+vless://ae8e1a57-75fc-4d8d-b186-bfa92e5473cf@104.24.1.90:2083?security=tls&amp;sni=isa.kasler.sbs&amp;type=grpc&amp;serviceName=Р#@Hope_Net-join-us-on-Telegram{} ### 1770739419870
