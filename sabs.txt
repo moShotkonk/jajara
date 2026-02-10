@@ -340,3 +340,4 @@ vless://4bb175e9-436c-4449-a5db-3ccbfcb28022@3.125.6.39:29044?security=&encrypti
 vless://7a5dc2d1-8560-47de-8df9-2a1c5f8fd3ec@3.123.24.207:16763?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#@InfoTech_VK{} ### 1770717957136
 vless://7396c077-f5cb-4808-84ca-92f268d79b3d@3.64.178.32:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#@InfoTech_VK{} ### 1770717960895
 vmess://eyJ2IjogIjIiLCAicHMiOiAiVGVsZWdyYW06QGNvbmZpZ19wcm94eSDwn5SlIiwgImFkZCI6ICJ0dXJrMS5uZXQubmV0IiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJhdXRvIiwgImlkIjogIjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAidHIxLXNtYXJ0LmFkZWxwaW5nLmNvbS4iLCAidGxzIjogIiJ9{} ### 1770717963791
+vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?path=%2F%3Fed&amp;security=none&amp;encryption=none&amp;host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&amp;type=ws#Telegram:@config_proxy{} ### 1770717973538
