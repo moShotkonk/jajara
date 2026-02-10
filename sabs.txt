@@ -348,3 +348,4 @@ vless://1e94155e-197c-443e-82e1-381eac475913@H3.FASTSPEEDS.IR:2053?path=%2Fws&se
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=#Telegram:@config_proxy ### 1770735341271
 vless://5aa02d95-185d-4205-9d5d-306440cce49f@ip3.kakeroo.ir:80?security=none&type=ws&headerType=&path=%2F&host=samary.global.ssl.fastly.net#Telegram:@config_proxy ### 1770735346580
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.182.2:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1770735363101
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.133.35.36:443?security=tls&amp;sni=kkg.ylks.link&amp;type=ws&amp;path=%2F#@Hope_Net-join-us-on-Telegram{} ### 1770735367478
