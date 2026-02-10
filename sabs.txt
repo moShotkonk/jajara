@@ -351,3 +351,4 @@ vless://a0891e86-ce1f-4e1b-e47c-84c890f1b130@18.185.94.14:443?security=&amp;encr
 vless://a0891e86-ce1f-4e1b-e47c-84c890f1b130@18.185.94.14:443?security=&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy ### 1770724783499
 vless://0154d742-3233-4c61-f81c-7407fcf28b87@3.70.253.134:443?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770724788054
 vless://0154d742-3233-4c61-f81c-7407fcf28b87@3.70.253.134:443?security=&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy ### 1770724792314
+vless://eea43b1a-4411-4ff7-f5b4-a860a81cad63@3.123.128.216:28706?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770724797751
