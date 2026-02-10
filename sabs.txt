@@ -495,3 +495,4 @@ vless://e765eb5b-8442-40e3-9532-857ba5ececa7@104.18.4.130:443/?type=grpc&encrypt
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.12:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=dev.twistsparrow.xyz&amp;type=ws&amp;allowInsecure=0&amp;sni=dev.twistsparrow.xyz#Telegram:@config_proxy{} ### 1770762758215
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.81.141.138:2096?security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.indevs.in#Telegram:@config_proxy{} ### 1770762762393
 vless://e374ad4d-2b5e-46fa-b105-3e0b1af1b51c@wolix.slsstudio.ir:46164/?type=tcp&amp;encryption=none&amp;path=%2F&amp;headerType=http&amp;security=none#amir_yari125%40techcorex{} ### 1770762766902
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.160.49:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770766314930
