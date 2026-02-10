@@ -444,3 +444,4 @@ vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=real
 vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@atawich.global.ssl.fastly.net:443?path=%2Fcontainers%2Ffi&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=atawich.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;sni=atawich.global.ssl.fastly.net{} ### 1770759414060
 vless://d453b11a-5988-4b9a-9aca-5cfb9b336946@104.17.147.22:443?path=%2FV9RZyjTD5QiH08HK8A2L9XMg&security=tls&encryption=none&host=usc.ketabv.ir&fp=chrome&type=ws&sni=usc.ketabv.ir ### 1770759418470
 vless://2130291f-50e9-43d4-d415-c85b34134d4f@193.242.125.18:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp{} ### 1770759423369
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080{} ### 1770759427057
