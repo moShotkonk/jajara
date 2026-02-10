@@ -325,3 +325,4 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXRVOC9mdkNWUGFxbUtrWFY2Ylg4djhVTEk0RmNoK0V
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08%3D@57.129.140.88:8388#%F0%9F%86%94%EF%B8%8F%40filtershekan_channel%F0%9F%87%A9%F0%9F%87%AA{} ### 1770724615313
 vless://1621caa6-2a23-4364-919b-1276ab6ca81a@no.tan3.ir:2053?mode=auto&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=ax.tan3.ir&amp;fp=chrome&amp;type=xhttp&amp;sni=ax.tan3.ir#Telegram:@config_proxy{} ### 1770724619929
 vless://1621caa6-2a23-4364-919b-1276ab6ca81a@no.tan3.ir:2053?mode=auto&security=tls&alpn=h2&encryption=none&host=ax.tan3.ir&fp=chrome&type=xhttp&sni=ax.tan3.ir#Telegram:@config_proxy ### 1770724624818
+vless://95ef4771-f4e2-45cb-c2b6-e91cc1eb097c@213.176.7.44:57820?path=%2F95ef4771-f4e2-45cb-c2b6-e91cc1eb097c&amp;security=none&amp;encryption=none&amp;type=ws#Telegram:@config_proxy{} ### 1770724626260
