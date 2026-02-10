@@ -338,3 +338,4 @@ vless://bddcb397-6f52-458e-9937-dfbf69db1e48@de3c.buzzon.shop:443?&amp;security=
 vless://bddcb397-6f52-458e-9937-dfbf69db1e48@de3c.buzzon.shop:443?&security=tls&fp=chrome&sni=de3c.buzzon.shop&type=ws&headerType=none&host=de3c.buzzon.shop&path=%2Fsy5RZsmo3iYVIROnda#Telegram:@config_proxy ### 1770724692828
 vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@nodejs.org:80?type=ws&amp;host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&amp;path=%2F%3Fed#Telegram:@config_proxy{} ### 1770724698086
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.197.81:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770724730137
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.208.132:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770724736166
