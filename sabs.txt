@@ -348,3 +348,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.165.42:80?security=none&type
 vless://41e8e4ab-5375-4ed4-a85d-078a018a0bfd@showip.mobileemdad.top:9560?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Telegram:@config_proxy ### 1770724770510
 vless://21064e1d-09e0-4979-ba5f-f8bde8b53a28@dl.aidin.site:4035?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#Telegram:@config_proxy ### 1770724774755
 vless://a0891e86-ce1f-4e1b-e47c-84c890f1b130@18.185.94.14:443?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770724779216
+vless://a0891e86-ce1f-4e1b-e47c-84c890f1b130@18.185.94.14:443?security=&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy ### 1770724783499
