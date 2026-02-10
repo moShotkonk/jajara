@@ -346,3 +346,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@208.103.161.183:2096?allowInsecure=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiVGVsZWdyYW06QGNvbmZpZ19wcm94eSDwn5SlIiwgImFkZCI6ICI5MS4xMDcuMTUyLjc3IiwgInBvcnQiOiA2NDUzNSwgImlkIjogImU4YTFmMDA0LTU2YWMtNGFhMS1hNWJmLWYxZGFmNzE3NmVkOCIsICJhaWQiOiAwLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIm5vbmUifQ== ### 1770735331642
 vless://1e94155e-197c-443e-82e1-381eac475913@H3.FASTSPEEDS.IR:2053?path=%2Fws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=aslan-nuis.ip-venzo.com#Telegram:@config_proxy ### 1770735337182
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=#Telegram:@config_proxy ### 1770735341271
+vless://5aa02d95-185d-4205-9d5d-306440cce49f@ip3.kakeroo.ir:80?security=none&type=ws&headerType=&path=%2F&host=samary.global.ssl.fastly.net#Telegram:@config_proxy ### 1770735346580
