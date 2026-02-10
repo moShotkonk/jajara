@@ -321,3 +321,4 @@ vless://eea43b1a-4411-4ff7-f5b4-a860a81cad63@3.123.128.216:28706?security=&encry
 vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.71.1.237:443?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770724803293
 vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.71.1.237:443?security=&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy ### 1770724806965
 vless://f5a58d0d-7e5e-4948-913b-e87d3f7dd6c5@104.19.54.50:443?security=tls&amp;sni=2A0Ns2-V2ray.digitalcity7.com&amp;type=ws&amp;host=2A0Ns2-V2ray.digitalcity7.com&amp;fp=chrome&amp;alpn=h2#@Hope_Net-join-us-on-Telegram{} ### 1770729102294
+vless://f5a58d0d-7e5e-4948-913b-e87d3f7dd6c5@104.19.54.50:443?security=tls&sni=2A0Ns2-V2ray.digitalcity7.com&type=ws&host=2A0Ns2-V2ray.digitalcity7.com&fp=chrome&alpn=h2#@Hope_Net-join-us-on-Telegram ### 1770729106740
