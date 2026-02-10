@@ -340,3 +340,4 @@ vless://07cd9dbe-21ac-4871-817d-c772687e4b7c@37.16.74.19:2053?security=reality&a
 vless://07cd9dbe-21ac-4871-817d-c772687e4b7c@37.16.74.19:2053?security=reality&encryption=none&pbk=WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ibm.com&sid=4a5b6c7d#Telegram:@config_proxy ### 1770739439752
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjdiYzBiNGZhZDMzZTQ2@148.113.138.47:48704#Telegram:@config_proxy{} ### 1770739452361
 vless://66120db8-209e-a826-47c1-df38a3230e47@srv-c0.netmaster.cam:8008?security=none&amp;encryption=none&amp;type=ws&amp;sni=1#%40NETMelliAnti{} ### 1770739473541
+vless://66120db8-209e-a826-47c1-df38a3230e47@srv-c0.netmaster.cam:8008?security=none&encryption=none&type=ws&sni=1#%40NETMelliAnti ### 1770739477708
