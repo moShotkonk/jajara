@@ -358,3 +358,4 @@ vless://d9917a89-14f6-4485-e8c5-1a2465a5996b@3.72.87.185:41676?security=none&amp
 vless://d9917a89-14f6-4485-e8c5-1a2465a5996b@3.72.87.185:41676?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple ### 1770743312709
 vless://f6494a5d-d3a6-4de1-9328-c7d0356297cd@de.mobileemdad.top:42542?security=none&amp;encryption=none&amp;host=de.mobileemdad.top&amp;headerType=http&amp;type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple{} ### 1770743317043
 vless://f6494a5d-d3a6-4de1-9328-c7d0356297cd@dashboard.mobileemdad.top:9560?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple{} ### 1770743323515
+vless://f6494a5d-d3a6-4de1-9328-c7d0356297cd@dashboard.mobileemdad.top:9560?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple ### 1770743326312
