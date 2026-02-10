@@ -352,3 +352,4 @@ vless://fe908bca-22f6-47c7-bc15-297ff4ed2b13@tiem.nimatiem.de:3333?security=none
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=dev.nestandneighbours.com&amp;fp=chrome&amp;type=ws&amp;sni=dev.nestandneighbours.com#Telegram:@config_proxy{} ### 1770743282377
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=%2F&security=tls&encryption=none&host=dev.nestandneighbours.com&fp=chrome&type=ws&sni=dev.nestandneighbours.com#Telegram:@config_proxy ### 1770743287359
 vless://12cbef4c-05f2-451d-9302-060965e0e16e@nimp.zerotechlabs-powerfull.ir:8013?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770743292112
+vless://12cbef4c-05f2-451d-9302-060965e0e16e@nimp.zerotechlabs-powerfull.ir:8013?security=none&encryption=none&headerType=http&type=tcp#Telegram:@config_proxy ### 1770743295964
