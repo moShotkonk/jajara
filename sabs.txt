@@ -339,3 +339,4 @@ vless://7d680304-b026-48fd-d8bf-6aa209b424c5@3.122.204.84:19592?security=&amp;en
 vless://4bb175e9-436c-4449-a5db-3ccbfcb28022@3.125.6.39:29044?security=&encryption=none&headerType=&type=tcp#@InfoTech_VK ### 1770717954185
 vless://7a5dc2d1-8560-47de-8df9-2a1c5f8fd3ec@3.123.24.207:16763?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#@InfoTech_VK{} ### 1770717957136
 vless://7396c077-f5cb-4808-84ca-92f268d79b3d@3.64.178.32:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#@InfoTech_VK{} ### 1770717960895
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVGVsZWdyYW06QGNvbmZpZ19wcm94eSDwn5SlIiwgImFkZCI6ICJ0dXJrMS5uZXQubmV0IiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJhdXRvIiwgImlkIjogIjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAidHIxLXNtYXJ0LmFkZWxwaW5nLmNvbS4iLCAidGxzIjogIiJ9{} ### 1770717963791
