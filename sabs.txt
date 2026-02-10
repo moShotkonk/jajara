@@ -327,3 +327,4 @@ vless://1621caa6-2a23-4364-919b-1276ab6ca81a@no.tan3.ir:2053?mode=auto&amp;secur
 vless://1621caa6-2a23-4364-919b-1276ab6ca81a@no.tan3.ir:2053?mode=auto&security=tls&alpn=h2&encryption=none&host=ax.tan3.ir&fp=chrome&type=xhttp&sni=ax.tan3.ir#Telegram:@config_proxy ### 1770724624818
 vless://95ef4771-f4e2-45cb-c2b6-e91cc1eb097c@213.176.7.44:57820?path=%2F95ef4771-f4e2-45cb-c2b6-e91cc1eb097c&amp;security=none&amp;encryption=none&amp;type=ws#Telegram:@config_proxy{} ### 1770724626260
 vless://95ef4771-f4e2-45cb-c2b6-e91cc1eb097c@213.176.7.44:57820?path=%2F95ef4771-f4e2-45cb-c2b6-e91cc1eb097c&security=none&encryption=none&type=ws#Telegram:@config_proxy ### 1770724630199
+vless://0b67ba74-239b-4301-a3ed-bca843226b64@v2shop-dubai1.bing-net.com:3038?security=none&amp;encryption=none&amp;host=www.varzesh3.com&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770724640575
