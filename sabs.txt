@@ -453,4 +453,4 @@ vless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=real
 vless://3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443?path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&encryption=none&host=o00o.snip.qzz.io&type=ws&sni=o00o.snip.qzz.io ### 1770759453828
 vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.14.104:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName={} ### 1770759457210
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=%2F%40vpnbaz-%40vpnbaz-%40vpnbaz-%40vpnbaz-%40vpnbaz-%40vpnbaz-%40vpnbaz&security=tls&encryption=none&alpn=http/1.1&host=web.abcallcenter.com&fp=chrome&type=ws&sni=web.abcallcenter.com ### 1770759462241
-vless://d453b11a-5988-4b9a-9aca-5cfb9b336946@104.17.147.22:443?path=%2FV9RZyjTD5QiH08HK8A2L9XMg&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=usc.ketabv.ir&amp;fp=chrome&amp;type=ws&amp;sni=usc.ketabv.ir{} ### 1770759466562
+vless://d453b11a-5988-4b9a-9aca-5cfb9b336946@104.17.147.22:443?path=%2FV9RZyjTD5QiH08HK8A2L9XMg&security=tls&encryption=none&alpn=http/1.1&host=usc.ketabv.ir&fp=chrome&type=ws&sni=usc.ketabv.ir ### 1770759467919
