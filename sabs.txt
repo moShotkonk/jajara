@@ -543,4 +543,4 @@ vless://1f6afb1e-36cf-4924-8144-d070f337e553@5.75.192.248:29373?security=none&am
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.27.24.143:443?security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.indevs.in&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.indevs.in#Telegram:@config_proxy{} ### 1770787709592
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.27.24.143:443?security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#Telegram:@config_proxy ### 1770787714919
 vless://04dd5782-5e3b-43b4-b36c-e2331574ef0c@72.56.92.27:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#Telegram:@config_proxy ### 1770787719714
-vless://0ad623ab-7fc8-4422-bd79-b65dd1cb78a2@5.75.192.248:14469?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770787724925
+vless://0ad623ab-7fc8-4422-bd79-b65dd1cb78a2@5.75.192.248:14469?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy ### 1770787725940
