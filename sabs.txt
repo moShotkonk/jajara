@@ -549,3 +549,4 @@ vless://830fb4e1-4593-4381-a1c6-e6f08700ae5d@belnn.appleseraj.ir:2053?security=t
 vless://830fb4e1-4593-4381-a1c6-e6f08700ae5d@poli.appleseraj.ir:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=duseldorf.mastermarly.ir&path=/?ed%3D2048&sni=duseldorf.mastermarly.ir&fp=chrome#Telegram:@config_proxy ### 1770839440193
 vless://830fb4e1-4593-4381-a1c6-e6f08700ae5d@ip3.kakeroo.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=samary.global.ssl.fastly.net&path=/#Telegram:@config_proxy ### 1770839443882
 vless://830fb4e1-4593-4381-a1c6-e6f08700ae5d@poli.appleseraj.ir:8443?security=tls&amp;allowInsecure=0&amp;encryption=none&amp;type=ws&amp;host=franyr.appleseraj.ir&amp;path=/?ed%3D2048&amp;sni=franyr.appleseraj.ir&amp;fp=chrome#Telegram:@config_proxy{} ### 1770839448455
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.254.58:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770839452576
