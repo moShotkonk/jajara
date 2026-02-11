@@ -544,3 +544,4 @@ vless://MahsaNG-vpn-74777300@104.17.71.206:8443?encryption=none&security=tls&sni
 vless://e559a909-fe6d-4019-be8d-ee79bfb21f00@royale.oblakovpn.org:443?security=reality&encryption=none&pbk=ZVfaZBEaPWlmb-Srxncu2WDACudPbm48S1V1Zy2ZcRw&headerType=none&fp=chrome&type=tcp&sni=d-assets.2gis.ru&sid=78523b486884cc4d#%40flyv2ray ### 1770832321482
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowQzZyTGQwZTFoWGgxQWhUZXZkQlNM@216.105.168.18:443/?outline=1&amp;prefix=%16%03%01%00%C2%A8%01%01#🇺🇸{} ### 1770835569909
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPZWdtOEIxWEljSzZDNDBvZ0R0RjUz@104.192.227.162:443/?outline=1&amp;prefix=%16%03%01%00%C2%A8%01%01#🇺🇸{} ### 1770835575852
+vless://278a8cd2-b7ac-4ff3-a820-8a9ef6e47638@2.144.6.8:30100?security=none&encryption=none&headerType=none&type=tcp#%40NETMelliAnti ### 1770835591194
