@@ -582,3 +582,4 @@ vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096?encryption=none&a
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096?encryption=none&amp;type=ws&amp;host=ca.adobe-connect.top&amp;security=tls&amp;fp=chrome&amp;sni=ca.adobe-connect.top#Telegram:@config_proxy{} ### 1770845478448
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&amp;type=ws&amp;path=/&amp;security=tls&amp;fp=chrome&amp;sni=master.red-cow.de&amp;alpn=h3,h2,http/1.1#Telegram:@config_proxy{} ### 1770845481554
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.62.62.91:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&fp=chrome&type=ws&path=%2F#Telegram:@config_proxy ### 1770845486161
+ss://0f7794ff-c024-4968-a6c7-6e44c7d188c7@193.9.49.212:2087?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;type=ws&amp;sni=vaaaaay.i-farm.ir#Telegram:@config_proxy{} ### 1770845495549
