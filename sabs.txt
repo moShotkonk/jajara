@@ -543,3 +543,4 @@ vless://a3873eb9-0c54-46c4-abbf-ae9f880d3619@162.19.228.119:443?path=%2Fssl&amp;
 vless://MahsaNG-vpn-74777300@104.17.71.206:8443?encryption=none&security=tls&sni=h9-7.digicala.online&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&host=h9-7.digicala.online&path=%2F%3FTELEGRAM--CoOoW&mode=stream-up#Telegram:@config_proxy ### 1770832314727
 vless://e559a909-fe6d-4019-be8d-ee79bfb21f00@royale.oblakovpn.org:443?security=reality&encryption=none&pbk=ZVfaZBEaPWlmb-Srxncu2WDACudPbm48S1V1Zy2ZcRw&headerType=none&fp=chrome&type=tcp&sni=d-assets.2gis.ru&sid=78523b486884cc4d#%40flyv2ray ### 1770832321482
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowQzZyTGQwZTFoWGgxQWhUZXZkQlNM@216.105.168.18:443/?outline=1&amp;prefix=%16%03%01%00%C2%A8%01%01#🇺🇸{} ### 1770835569909
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPZWdtOEIxWEljSzZDNDBvZ0R0RjUz@104.192.227.162:443/?outline=1&amp;prefix=%16%03%01%00%C2%A8%01%01#🇺🇸{} ### 1770835575852
