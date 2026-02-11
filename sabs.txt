@@ -570,3 +570,4 @@ vless://7d680304-b026-48fd-d8bf-6aa209b424c5@3.68.94.66:19592?security=&amp;encr
 vless://7d680304-b026-48fd-d8bf-6aa209b424c5@3.68.94.66:19592?security=&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy ### 1770806678077
 vless://9fd700f5-62a7-4762-9c64-5aa954c2681a@blog.techemg.ir:8080?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40NETMelliAnti{} ### 1770810085190
 vless://9fd700f5-62a7-4762-9c64-5aa954c2681a@blog.techemg.ir:8080?path=%2F&security=none&encryption=none&type=ws#%40NETMelliAnti ### 1770810088157
+vless://c986717b-1e05-4d12-9ffb-299fe50892d1@bestcf.030101.xyz:443?security=tls&amp;sni=cm.6121999.qzz.io&amp;type=ws&amp;host=cm.6121999.qzz.io&amp;path=%2F&amp;fragment=1%2C40-60%2C30-50%2Ctlshello&amp;encryption=none#Telegram:@config_proxy{} ### 1770810094603
