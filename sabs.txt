@@ -558,4 +558,5 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=%
 vless://78df3c92-4d9c-4c3e-babb-2366f6018fe0@api.musiciraniafc4.ir:80?path=%2F&security=&encryption=none&host=okpan333music.global.ssl.fastly.net&type=ws#ARGO_VPNN_52 ### 1770824931631
 vless://6867f208-1e50-48cb-9baf-e3ce539f90f5@deu435.unlocknet.org:443?security=reality&amp;encryption=none&amp;pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.metal.de#ARGO_VPNN_53{} ### 1770824934691
 vless://78df3c92-4d9c-4c3e-babb-2366f6018fe0@api.musiciraniafc4.ir:80?path=%2F&security=&encryption=none&host=okpan33music.global.ssl.fastly.net&type=ws#ARGO_VPNN_55 ### 1770824939105
-vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@base.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=&encryption=none&host=new-itns.blackpapers.ir&type=ws#ARGO_VPNN_56 ### 1770824947564
+vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@base.zdshop.ir:2086?path=%2F%3Fed%3D2086&amp;security=&amp;encryption=none&amp;host=new-itns.blackpapers.ir&amp;type=ws#ARGO_VPNN_56{} ### 1770824943986
+vless://78df3c92-4d9c-4c3e-babb-2366f6018fe0@cloud.infomusicirani.ir:2053?path=%2F&security=tls&encryption=none&insecure=0&host=cdn.gamerhai.ir&type=ws&allowInsecure=0&sni=cdn.gamerhai.ir#ARGO_VPNN_59 ### 1770824948977
