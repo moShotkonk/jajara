@@ -591,3 +591,4 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=%
 vmess://eyJhZGQiOiI4NS4xNy4xOTIuMTEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXN0LmNvbSIsImlkIjoiZWY5ODRkMTktNGRmNy00NTkyLThjYTgtYTNmNjU4Yjc4YzBhIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTY2MjMiLCJwcyI6IkBGYXJhelYycmF5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ=={} ### 1770806651774
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.208.62:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#Telegram:@config_proxy{} ### 1770806662659
 vless://7d680304-b026-48fd-d8bf-6aa209b424c5@3.68.94.66:19592?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770806673294
+vless://7d680304-b026-48fd-d8bf-6aa209b424c5@3.68.94.66:19592?security=&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy ### 1770806678077
