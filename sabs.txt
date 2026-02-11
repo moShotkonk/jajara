@@ -571,3 +571,4 @@ ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.139.79.57:13979#%F0%9F%87%B0%F0%9F%87%B7
 vless://abd62325-714e-4fff-8499-6d5f452cd798@fasty.hamrahx.ir:80?security=none&amp;encryption=none&amp;type=xhttp#Telegram:@config_proxy{} ### 1770841728697
 vless://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@104.18.32.47:2083?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=ds1-mx-fn154-protection.iranlease.com&fp=chrome&type=ws&sni=ds1-mx-fn154-protection.iranlease.com#Telegram:@config_proxy ### 1770841732977
 vless://5bffc5cd-62cc-4e9d-b88e-32ad58c5cc27@curt235.cvbesty.ir:2376?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=&sni=filimo.com#Telegram:@config_proxy ### 1770841739137
+vless://a2b35cb9-fcc5-419b-84eb-8efde59e498a@199.232.242.127:80?mode=auto&path=%2Fmgvpnir%3Fed%3D2560&security=none&encryption=none&host=mgvpniryour-name.global.ssl.fastly.net&type=xhttp#%40flyv2ray ### 1770841744548
