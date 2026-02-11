@@ -568,3 +568,4 @@ vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@hope.zdshop.ir:2086?path=%2F%3Fed%3
 vless://9a717e62-bb4e-59c6-a458-95b18873a6c0@pristytools.com.pristytools.com:2087?path=%2F&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;type=ws&amp;allowInsecure=1#ARGO_VPNN_24{} ### 1770819118886
 vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@ens.zdshop.ir:80?path=%2Fed%3D2560&amp;security=&amp;encryption=none&amp;host=smk46ws16en.global.ssl.fastly.net&amp;type=ws#ARGO_VPNN_26{} ### 1770819123499
 vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@hope.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=&encryption=none&host=new-itns.blackpapers.ir&type=ws#ARGO_VPNN_29 ### 1770819129534
+vless://ee8cef03-b03a-412f-9b61-05c5df3e0e2c@37.152.190.255:443?security=&amp;encryption=none&amp;host=google.com&amp;headerType=http&amp;type=tcp#ARGO_VPNN_31{} ### 1770819133886
