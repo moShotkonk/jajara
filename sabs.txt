@@ -540,3 +540,4 @@ vless://e5567a8c-bc5d-4417-97a0-67fb80099788@pol2.creativelife.monster:37962?sec
 vless://e5567a8c-bc5d-4417-97a0-67fb80099788@pol2.creativelife.monster:37962?security=none&encryption=none&headerType=none&type=tcp#%40flyv2ray ### 1770787692769
 vless://83c786f4-545e-4d79-b3e8-ebea76b36e38@172.64.152.23:8443?encryption=none&security=tls&sni=backup.f-sub.cfd&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=backup.f-sub.cfd&path=%2F#Telegram:@config_proxy ### 1770787698922
 vless://1f6afb1e-36cf-4924-8144-d070f337e553@5.75.192.248:29373?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770787704146
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.27.24.143:443?security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.indevs.in&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.indevs.in#Telegram:@config_proxy{} ### 1770787709592
