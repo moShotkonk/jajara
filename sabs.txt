@@ -577,3 +577,4 @@ vless://1d8886c3-dd69-4f33-b725-fe8cb905d9c4@154.219.5.191:443?security=tls&sni=
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.145.55:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1770847814487
 vless://229f58f4-b75d-44d6-9d79-997115ece4da@172.67.146.236:2083?security=tls&amp;sni=proxyforopeta.liongame1.ir&amp;type=ws&amp;fp=chrome#@Hope_Net-join-us-on-Telegram{} ### 1770847818055
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.42.54:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770847823157
+vless://7b69aa4b-6984-4537-8a45-8ffe57695fb2@104.21.20.208:8080?security=none&amp;type=ws#@Hope_Net-join-us-on-Telegram{} ### 1770847826434
