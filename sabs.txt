@@ -556,3 +556,4 @@ vless://1d8886c3-dd69-4f33-b725-fe8cb905d9c4@154.219.5.163:443?security=tls&amp;
 vless://c49955ec-a0dc-496e-ea3b-c24fa5c87c82@172.67.135.195:443?security=tls&sni=reversepeyman1.cpionline.us&type=ws&host=reversepeyman1.cpionline.us&path=/ws/2053&fp=chrome&alpn=h3,h2#@Hope_Net-join-us-on-Telegram ### 1770839474698
 vless://78df3c92-4d9c-4c3e-babb-2366f6018fe0@cloud.infomusicirani.ir:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;host=cdn.gamerhai.ir&amp;type=ws&amp;sni=cdn.gamerhai.ir#Telegram:@config_proxy{} ### 1770839479496
 vless://c61fd003-1ad7-44fb-9bfc-da6382c6f4d3@entrainmentworld.de:2083?path=%2Fvlessws&security=tls&encryption=none&insecure=0&host=entrainmentworld.de&type=ws&allowInsecure=0#Telegram:@config_proxy ### 1770839484500
+vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.18.125.5:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=lively-brook-c471.nedena3319.workers.dev&type=ws#Telegram:@config_proxy ### 1770841670997
