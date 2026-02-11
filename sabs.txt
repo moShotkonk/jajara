@@ -577,3 +577,4 @@ vless://e8accc46-c511-42fb-919b-9283799a88a1@158.160.105.121:443?security=realit
 vless://e8accc46-c511-42fb-919b-9283799a88a1@158.160.105.121:443?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=8f222b3475800821#%40flyv2ray ### 1770813740466
 vless://3ca23937-172b-4a99-8b5f-db4ee29231a0@friendly.shopqwe.ir:10200?security=none&amp;encryption=none&amp;host=myket.ir&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770813744681
 vless://3ca23937-172b-4a99-8b5f-db4ee29231a0@friendly.shopqwe.ir:10200?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#Telegram:@config_proxy ### 1770813749238
+vless://1142a451-054d-41a1-8a44-f582fdfc0fbb@94.184.17.202:47682?security=none&amp;encryption=none&amp;host=bmw.com&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770813754358
