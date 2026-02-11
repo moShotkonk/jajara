@@ -586,3 +586,4 @@ ss://0f7794ff-c024-4968-a6c7-6e44c7d188c7@193.9.49.212:2087?security=tls&amp;alp
 vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@45.136.56.58:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&fp=chrome&security=reality&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&sid=abc323#Telegram:@config_proxy ### 1770845505919
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443/?type=ws&encryption=none&flow=&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk#Telegram:@config_proxy ### 1770845510639
 vless://11350c4e-f695-4bd7-b125-e1927817fb88@193.151.144.124:45471?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple ### 1770845517234
+vless://aa0def0e-b9cf-4d96-956d-ae8354f7753e@snow.fobix.shop:49930?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple{} ### 1770845522139
