@@ -570,3 +570,4 @@ vless://4583d428-8ff9-4000-bcbd-953fe8c8df17@realmadrid2italy1seriea.q.aparat-ar
 vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.76.254:80?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&amp;security=&amp;encryption=none&amp;host=adspeedx23.global.ssl.fastly.net&amp;type=ws#Telegram:@config_proxy{} ### 1770793033690
 vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.76.254:80?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#Telegram:@config_proxy ### 1770793038804
 vless://b8c57667-ccec-451a-ba57-624a358cf00c@russia.mobileemdad.top:81?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=play.google.com#Telegram:@config_proxy{} ### 1770796181246
+vless://b8c57667-ccec-451a-ba57-624a358cf00c@russia.mobileemdad.top:81?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#Telegram:@config_proxy ### 1770796186579
