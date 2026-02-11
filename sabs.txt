@@ -573,3 +573,4 @@ vless://a04b259c-0319-434f-ba66-411b7a575b5d@partners.dissertationhelpspecialist
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=ca.adobe-connect.top&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#ARGO_VPNN_70 ### 1770845405923
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.26.75:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1770845412101
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.112.5:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770845416594
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.105.66:443?security=tls&amp;sni=hkg.ylks.link&amp;type=ws&amp;path=/blue#@Hope_Net-join-us-on-Telegram{} ### 1770845422783
