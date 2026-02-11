@@ -553,3 +553,4 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=
 vless://78df3c92-4d9c-4c3e-babb-2366f6018fe0@cloud.infomusicirani.ir:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=cdn.ifilmhafr.ir&amp;type=ws&amp;allowInsecure=0&amp;sni=cdn.ifilmhafr.ir#ARGO_VPNN_45{} ### 1770824907865
 vless://78df3c92-4d9c-4c3e-babb-2366f6018fe0@cloud.infomusicirani.ir:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=cdn.maznimusic.ir&amp;type=ws&amp;allowInsecure=0&amp;sni=cdn.maznimusic.ir#ARGO_VPNN_47{} ### 1770824911177
 vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@46.225.66.140:1310?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#ARGO_VPNN_48{} ### 1770824915648
+vless://78df3c92-4d9c-4c3e-babb-2366f6018fe0@api.musiciraniafc4.ir:80?path=%2F&amp;security=&amp;encryption=none&amp;host=okpan3music.global.ssl.fastly.net&amp;type=ws#ARGO_VPNN_50{} ### 1770824921936
