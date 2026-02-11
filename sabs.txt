@@ -545,3 +545,4 @@ vless://7423956a-eed9-4977-81e9-6b3d4b29802c@a4.aurqx.com:2095?encryption=none&a
 vless://3a2d74a6-ee72-44a5-8f8c-ac7f4702f681@104.156.81.79:80?mode=auto&amp;path=%2Fswiftvpn_ir&amp;security=none&amp;encryption=none&amp;host=n2rayiran.global.ssl.fastly.net&amp;type=xhttp#Telegram:@config_proxy{} ### 1770828626329
 vless://3a2d74a6-ee72-44a5-8f8c-ac7f4702f681@fas.10.rahil1.ir:80?mode=auto&path=%2Fswiftvpn_ir&security=none&encryption=none&host=n2rayiran.global.ssl.fastly.net&type=xhttp#Telegram:@config_proxy ### 1770828629239
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.55.39:22224?path=%2Ftelegram-channel-vlessconfig&amp;security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=ws#Telegram:@config_proxy{} ### 1770828634385
+vless://3a2d74a6-ee72-44a5-8f8c-ac7f4702f681@199.232.251.232:80?mode=auto&path=%2Fswiftvpn_ir&security=none&encryption=none&host=n2rayiran.global.ssl.fastly.net&type=xhttp#Telegram:@config_proxy ### 1770828638125
