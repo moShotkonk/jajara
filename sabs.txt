@@ -561,3 +561,4 @@ vless://78df3c92-4d9c-4c3e-babb-2366f6018fe0@api.musiciraniafc4.ir:80?path=%2F&s
 vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@base.zdshop.ir:2086?path=%2F%3Fed%3D2086&amp;security=&amp;encryption=none&amp;host=new-itns.blackpapers.ir&amp;type=ws#ARGO_VPNN_56{} ### 1770824943986
 vless://78df3c92-4d9c-4c3e-babb-2366f6018fe0@cloud.infomusicirani.ir:2053?path=%2F&security=tls&encryption=none&insecure=0&host=cdn.gamerhai.ir&type=ws&allowInsecure=0&sni=cdn.gamerhai.ir#ARGO_VPNN_59 ### 1770824948977
 vless://742615c9-e272-49b0-9438-e1c45eacce1b@meli.panelfreedom.com:1099?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram:@config_proxy ### 1770824964062
+vless://020c7468-9344-4ff3-9693-ee57ec6f492f@104.16.241.215:80?path=%2Ft.me%2FV2RayyNGvpn%3Fed%3D1024&security=none&encryption=none&host=speedtest-network.mslatency.top&type=ws#Telegram:@config_proxy ### 1770824967190
