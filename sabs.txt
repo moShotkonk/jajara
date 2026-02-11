@@ -527,3 +527,4 @@ vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@adf.ly:443?encryption=none&amp;secu
 vless://id8114764549@109.172.87.92:443?security=reality&amp;encryption=none&amp;pbk=0A5HG2mLQuxhnmuc12J2VJiXKS8KlQrSN0gnm42kOUE&amp;headerType=&amp;fp=chrome&amp;spx=%2F0Fuu4AeB8XffLM2&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ozon.ru&amp;sid=d817#Telegram:@config_proxy{} ### 1770768907868
 vless://8a20b598-3461-459b-a627-c4d39730c9de@wardennt.mhrnet.com:23432/?security=none&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;host=telewebion.com&amp;path=/&amp;headerType=http#Telegram:@config_proxy{} ### 1770781757540
 vless://8a20b598-3461-459b-a627-c4d39730c9de@wardennt.mhrnet.com:23432/?security=none&allowInsecure=0&encryption=none&type=tcp&host=telewebion.com&path=/&headerType=http#Telegram:@config_proxy ### 1770781760584
+vless://88181007-9bb3-4e6c-826d-4400b191b8d7@135.125.174.103:37928/?type=tcp&path=%2F#Telegram:@config_proxy ### 1770781766656
