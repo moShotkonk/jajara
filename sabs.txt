@@ -577,3 +577,4 @@ vless://0154d742-3233-4c61-f81c-7407fcf28b87@3.70.253.134:443?security=&amp;encr
 vless://dacb912c-39ef-4fe0-d720-fadaa53111c0@3.72.6.34:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#NetAccount</code> ### 1770853493936
 vless://de524de8-06a2-4026-c602-651f0304151b@3.70.171.93:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#NetAccount</code> ### 1770853493936
 vless://a0891e86-ce1f-4e1b-e47c-84c890f1b130@18.185.94.14:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#NetAccount</code> ### 1770853493936
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.198.12:2087?security=tls&sni=PPAl03.TINoJO7099.worKERs.DeV&type=ws&host=PpaL03.tINOJO7099.workerS.dEV&path=%2FLCjr2Pjva1I0fqy0%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram ### 1770854761692
