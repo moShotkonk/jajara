@@ -645,3 +645,4 @@ vless://435fee59-8f88-4b02-8ec3-a186287662b7@t2.sapienza-ren.ir:2087?mode=auto&p
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.175.217:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770934238095
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.49.61:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770934242725
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.20.62.211:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1770934246658
+vless://8820e16b-fbc2-49d3-90e4-eeeb8301c83c@199.232.188.237:80?security=none&amp;type=ws&amp;host=anycast.leslie.ch&amp;path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram{} ### 1770934250990
