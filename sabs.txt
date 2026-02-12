@@ -635,3 +635,4 @@ vless://7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb@45.130.125.160:2087?path=%2F&amp;se
 vless://dbc8b845-5441-4a43-98cb-2e33ecb06f59@45.130.125.160:443?path=%2Fv2rayroad&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=hotchoclate.graphapp.ir&fp=chrome&type=ws&allowInsecure=0&sni=hotchoclate.graphapp.ir#%40mehrosaboran ### 1770919419170
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%F0%9F%86%94%EF%B8%8F%40filtershekan_channel{} ### 1770923058377
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%F0%9F%86%94%EF%B8%8F%40filtershekan_channel{} ### 1770923064054
+vless://4bdc57ea-b143-493b-9654-be66e049f81e@95.141.36.10:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=aws.com&amp;alpn=h2&amp;fp=chrome&amp;pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&amp;type=tcp&amp;headerType=none#%20{} ### 1770923073970
