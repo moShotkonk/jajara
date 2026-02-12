@@ -625,3 +625,4 @@ vless://7b471aa5-9344-4567-96a9-82bec6427f85@3.64.7.13:443?security=&encryption=
 vless://4bb175e9-436c-4449-a5db-3ccbfcb28022@3.67.11.160:29044?security=&encryption=none&headerType=&type=tcp#@InfoTech_VK ### 1770911824479
 vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.127.217.115:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#@InfoTech_VK{} ### 1770911831527
 vless://a0891e86-ce1f-4e1b-e47c-84c890f1b130@18.185.110.152:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#@InfoTech_VK{} ### 1770911835357
+vless://c4b3fb2b-6ea0-4825-82d0-e315a0898f46@172.64.155.209:443?encryption=none&security=tls&sni=dec.ketabv.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=dec.ketabv.ir&path=%2Fsy5RZsmo3iYVIROnda#Telegram:@config_proxy ### 1770911840972
