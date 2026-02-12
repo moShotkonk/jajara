@@ -546,3 +546,4 @@ ss://YWVzLTI1Ni1nY206amQ5RlIxMndwcktQTkpIZw@62.146.171.57:443#%40V2rayMiner{} ##
 ss://YWVzLTI1Ni1nY206amQ5RlIxMndwcktQTkpIZw@62.146.171.57:80#%40V2rayMiner{} ### 1770889186576
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=dev.nestandneighbours.com&amp;type=ws&amp;allowInsecure=0&amp;sni=dev.nestandneighbours.com#%40FarazV2ray{} ### 1770889190885
 vless://d9dc0172-2bb6-4ada-8d5a-f182297be5b9@51.250.0.147:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=7426b0c03ef009dc#Telegram:@config_proxy ### 1770889195699
+vless://8741e284-6199-4a8e-ace7-c9625b68ea64@78.159.131.76:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=al.cdn.stun.su&fp=chrome&security=reality&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=9f6a51680da312f6#Telegram:@config_proxy ### 1770889200305
