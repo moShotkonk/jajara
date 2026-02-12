@@ -610,3 +610,4 @@ vless://b2201fe6-4781-4dcc-bacf-a57f95e2a177@185.146.173.82:2082?path=/Free#@Hop
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.217:2053?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#@Hope_Net-join-us-on-Telegram ### 1770911750487
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.211.64.15:443?security=tls&amp;sni=bdfgfrtt7.azurewebsites.net&amp;type=ws&amp;host=bdfgfrtt7.azurewebsites.net&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770911756295
 vless://f291de93-b084-40b3-b4da-af90cd99de46@68.183.228.227:443?encryption=none&security=tls&sni=zoom.com&alpn=http%2F1.1&fp=chrome&insecure=1&type=ws&path=%2FLK%2F#Telegram:@config_proxy ### 1770911766585
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.72.188.159:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#Telegram:@config_proxy{} ### 1770911770802
