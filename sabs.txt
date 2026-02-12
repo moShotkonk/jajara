@@ -670,4 +670,4 @@ vless://7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb@F6.FASTSPEEDS.IR:2087?path=%2F&amp;
 vless://7ab6e0c3-4869-4a0e-8fe0-852a58a28bfb@F6.FASTSPEEDS.IR:2087?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=ns7.mehrsazi.ir#Telegram:@config_proxy ### 1770930864128
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.13.183:443?path=%2F&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#Telegram:@config_proxy ### 1770930869950
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@156.225.72.152:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#Telegram:@config_proxy ### 1770930875576
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.39:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=xinf.ylks.link#Telegram:@config_proxy{} ### 1770930879562
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.39:443?path=%2F&security=tls&encryption=none&type=ws&sni=xinf.ylks.link#Telegram:@config_proxy ### 1770930883516
