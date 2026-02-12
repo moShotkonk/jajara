@@ -514,3 +514,4 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&
 vless://278cdc8a-1c0c-4710-bc48-b8c6e5f36c24@217.154.254.198:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=azure.com&amp;fp=chrome&amp;pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&amp;type=tcp&amp;headerType=none#%20{} ### 1770886078402
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxWFNIRmpYTUxEZWR0TUxKTEdESWU4@46.246.97.195:23931#%F0%9F%86%94%EF%B8%8F%40filtershekan_channel ### 1770886087167
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080#%F0%9F%86%94%EF%B8%8F%40filtershekan_channel ### 1770886092054
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@3.112.130.53:8316#%F0%9F%86%94%EF%B8%8F%40filtershekan_channel{} ### 1770886095689
