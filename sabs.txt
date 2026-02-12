@@ -541,3 +541,4 @@ vless://0eebbdf1-68a6-4d2e-9054-9e171f104178@roham1.hamoon.sbs:47578?security=no
 vless://44b49cd8-9324-4f17-a58e-a4fb620a598f@chatgpt.com:2095?security=none&type=httpupgrade&headerType=&path=%2F%3Fed%3D2056&host=sec.fineroastingco.com#Telegram:@config_proxy ### 1770864203783
 vless://54cbde4b-5174-4b71-b95c-5d19918d4eae@tonel.powerteam23.ir:4001?security=&amp;encryption=none&amp;host=myket.ir&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770864210430
 vmess://eyJ2IjogIjIiLCAicHMiOiAiVGVsZWdyYW06QGNvbmZpZ19wcm94eSDwn5SlIiwgImFkZCI6ICJ2MTAuaGRhY2QuY29tIiwgInBvcnQiOiAiMzA4MDciLCAidHlwZSI6ICJub25lIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogInYxMC5oZGFjZC5jb20iLCAidGxzIjogIiJ9{} ### 1770864214662
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.250.194:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770864219353
