@@ -662,3 +662,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.213.249:80?security=none&typ
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.231.97:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770930810925
 vless://98aaebaa-bf4f-4e25-96f2-844691440360@151.101.25.242:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=mohsenchavoshi.global.ssl.fastly.net&type=ws#Telegram:@config_proxy ### 1770930815383
 vless://61066a16-78fc-4446-8013-6646bc3f27ba@afrcloud22.mmv.kr:443?encryption=none&amp;security=tls&amp;sni=afrcloud22.mmv.kr&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=afrcloud22.mmv.kr&amp;path=%2F103.86.44.120%3D65432#Telegram:@config_proxy{} ### 1770930818980
+vless://4a6330e2-da93-44a6-aca2-a0f533fe8921@157.230.97.64:2030?security=&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy ### 1770930823767
