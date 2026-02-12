@@ -487,3 +487,4 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@63.141.128.34:443?security=tls&amp;
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.39.7:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770871532449
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.191.192:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1770871536759
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@103.169.142.141:443?security=tls&sni=xinf.ylks.link&type=ws&path=%2F#@Hope_Net-join-us-on-Telegram ### 1770871541255
+vless://44b49cd8-9324-4f17-a58e-a4fb620a598f@cccccccccc.abcdefiran.ir:8080?security=none&amp;type=httpupgrade&amp;headerType=&amp;path=%2F%3Fed%3D2056&amp;host=ger44.dl11movis.ir#Telegram:@config_proxy{} ### 1770871545185
