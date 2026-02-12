@@ -504,3 +504,4 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encrypti
 vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=/vless/&amp;security=none&amp;encryption=none&amp;type=ws#Telegram:@config_proxy{} ### 1770883180123
 vless://5f7e591c-97d4-4a51-a874-0e9d5665f9ed@reza.alphanet01.com:51349?path=%40PuLaFreeBOT%2C%40PuLaVPN%2C%40PuLaFreeBOT%2C%40PuLaVPN%2C%40PuLaFreeBOT%2C%40PuLaVPN%2C%40PuLaFreeBOT%2C%40PuLaVPN%2C%40PuLaFreeBOT%2C%40PuLaVPN%2C%40PuLaFreeBOT%2C%40PuLaVPN%2C%40PuLaFreeBOT%2C%40PuLaVPN%2C%40PuLaFreeBOT%2C%40PuLaVPN%2C&security=none&encryption=none&host=play.google.com&type=ws#Telegram:@config_proxy ### 1770883184502
 ss://YWVzLTI1Ni1nY206cUt2Zlg3eVFuVDk5T011Mw@194.233.75.190:80#Telegram:@config_proxy ### 1770883189414
+vless://35d1fc24-d627-4b51-b416-a09a130bb33c@s1.marko-ir.com.tr:52197?type=tcp&amp;encryption=none&amp;path=%2F&amp;headerType=http&amp;security=none#Telegram:@config_proxy{} ### 1770883193988
