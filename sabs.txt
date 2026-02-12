@@ -652,3 +652,4 @@ vless://98aaebaa-bf4f-4e25-96f2-844691440360@151.101.25.242:80?path=%2Fcontainer
 vless://98aaebaa-bf4f-4e25-96f2-844691440360@151.101.25.242:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=pizzabama.global.ssl.fastly.net&type=ws#NetAccount ### 1770929116487
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.241.30:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#NetAccount ### 1770929116487
 trojan://telegram-id-privatevpns@15.188.241.30:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#NetAccount ### 1770929116487
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.com#@KAFING_2 ### 1770930758590
