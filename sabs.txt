@@ -530,3 +530,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.67.192.194:80?security=none&amp
 vless://ddf44281-73ad-466f-a53f-0cf5d33eb5fe@104.254.140.126:80?security=none&amp;type=ws&amp;host=speedtest.net.xn--mgbt2du3a.pinocchio1.ir.&amp;path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram{} ### 1770864152932
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.21.201:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770864161529
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2052?security=none&amp;type=ws&amp;host=WxVvVtZx22.hAmEdIgOlD.CoM&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770864165938
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.235.39:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1770864170372
