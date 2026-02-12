@@ -567,3 +567,4 @@ ss://YWVzLTI1Ni1nY206ak1vZ05YWGswOGwySkswTg@46.250.234.115:80#%E2%9A%A1Telegram%
 ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ@45.77.253.107:80#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple{} ### 1770896131519
 ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple{} ### 1770896135003
 ss://YWVzLTI1Ni1nY206TFlYaUlVSjBGdXRuVHpCRw@62.146.172.130:80#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple ### 1770896139855
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.228.222:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#Telegram:@config_proxy ### 1770896144842
