@@ -600,3 +600,4 @@ vless://fa3b1b54-64a6-45a3-86ab-f4842006a488@45.154.206.244:7002?security=&amp;e
 vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10008?mode=auto&path=%2Fapi&security=none&encryption=none&host=play.google.com&type=xhttp#Telegram:@config_proxy ### 1770908257562
 vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770908261390
 vless://6e4c616d-7050-491f-a82e-9508b5f64608@172.67.171.89:443?security=tls&amp;sni=Uk1.vless.site&amp;type=ws&amp;host=uk1.vless.site&amp;path=%2Fvless#@Hope_Net-join-us-on-Telegram{} ### 1770908266009
+vless://c0e1f187-a2c5-44f9-a9c1-642e483dd890@104.24.179.164:443?security=tls&amp;sni=G2.NAnvAIIisaeEd.Ir&amp;type=ws&amp;host=g2.nanvaiiisaeed.ir&amp;path=/AOagIIfbJJ0hbXIwCE6mq&amp;fp=chrome&amp;alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram{} ### 1770908271017
