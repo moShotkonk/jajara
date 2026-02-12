@@ -623,3 +623,4 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@brenna.ns.cloudflare.com:2096?path=
 vless://db27952d-9de6-4a90-d508-0d2ab314d2f4@3.126.153.43:18694?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#@InfoTech_VK{} ### 1770911813872
 vless://7b471aa5-9344-4567-96a9-82bec6427f85@3.64.7.13:443?security=&encryption=none&headerType=&type=tcp#@InfoTech_VK ### 1770911821554
 vless://4bb175e9-436c-4449-a5db-3ccbfcb28022@3.67.11.160:29044?security=&encryption=none&headerType=&type=tcp#@InfoTech_VK ### 1770911824479
+vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.127.217.115:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#@InfoTech_VK{} ### 1770911831527
