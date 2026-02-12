@@ -640,3 +640,4 @@ vless://a44e0875-210f-4941-9062-89b6361a14c6@91.84.102.30:443?encryption=none&am
 vless://2db1793c-48c5-4cc7-b893-02292fd9400b@217.160.189.116:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=azure.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#%20 ### 1770923082892
 vless://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?encryption=none&amp;security=reality&amp;sni=google.com&amp;fp=chrome&amp;pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&amp;sid=d1&amp;type=tcp&amp;headerType=none#%20{} ### 1770923086653
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?encryption=none&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2&type=grpc#%20 ### 1770923091198
+vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?encryption=none&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2&type=grpc#%20 ### 1770923095955
