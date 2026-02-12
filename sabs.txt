@@ -635,3 +635,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.95.161.241:2053?path=%2F%3Fed%3
 vless://134928ab-cbd9-4196-98ce-deef2be9fe09@192.200.160.20:443?path=%2Fyjdsyuws%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=639065083958087309.corolla-perma.info&type=ws&sni=639065083958087309.corolla-perma.info#%F0%9F%86%94%EF%B8%8F%40filtershekan_channel ### 1770928683342
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#%F0%9F%86%94%EF%B8%8F%40filtershekan_channel ### 1770928687386
 vless://1676cdfe-d73d-7883-d852-5a4379eee4af@germany.socialxxmedia.online:48305?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=germany.socialxxmedia.online#%40flyv2ray ### 1770928696741
+ss://d009862d-c813-4015-b84b-bb196b224c58@ir.beta3.lowfamila.site:4532?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Telegram:@config_proxy ### 1770928701202
