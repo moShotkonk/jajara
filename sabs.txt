@@ -506,3 +506,4 @@ vless://5f7e591c-97d4-4a51-a874-0e9d5665f9ed@reza.alphanet01.com:51349?path=%40P
 ss://YWVzLTI1Ni1nY206cUt2Zlg3eVFuVDk5T011Mw@194.233.75.190:80#Telegram:@config_proxy ### 1770883189414
 vless://35d1fc24-d627-4b51-b416-a09a130bb33c@s1.marko-ir.com.tr:52197?type=tcp&amp;encryption=none&amp;path=%2F&amp;headerType=http&amp;security=none#Telegram:@config_proxy{} ### 1770883193988
 vless://b7137d34-c47f-41b4-a7c0-221dd5a6f300@H5.FASTSPEEDS.IR:2083?mode=multi&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=vless&allowInsecure=0&sni=dash.svnmobile.com#Telegram:@config_proxy ### 1770883198023
+ss://43efb096-aeb2-4423-8601-be799dd3b9c0@ip1-fast.tyryqyserver.ir:80?path=%2F%3Fed%3D2052&amp;security=none&amp;encryption=none&amp;host=tamamde1.global.ssl.fastly.net&amp;type=ws#Telegram:@config_proxy{} ### 1770883202939
