@@ -598,3 +598,4 @@ ss://YWVzLTI1Ni1nY206akpIcTgwN2JRN1RNMHlPaA@94.72.127.58:80#%E2%9A%A1Telegram%20
 vless://30714874-6250-40ff-98b7-af39994fb6e6@91.98.27.174:4450?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com#%40NETMelliAnti ### 1770908246851
 vless://fa3b1b54-64a6-45a3-86ab-f4842006a488@45.154.206.244:7002?security=&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770908251936
 vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10008?mode=auto&path=%2Fapi&security=none&encryption=none&host=play.google.com&type=xhttp#Telegram:@config_proxy ### 1770908257562
+vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1770908261390
