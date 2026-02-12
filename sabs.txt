@@ -586,3 +586,4 @@ vless://dfe27fc3-cd77-447d-8845-d3b0c22d25f7@192.200.160.20:443?path=%2Fjoiiqpws
 vless://573e147f-c502-486f-b823-bafa0dd3c6c5@192.200.160.20:443?path=%2Fbzszqqws%3Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=639065083958016952.corolla-perma.info&amp;type=ws&amp;allowInsecure=0&amp;sni=639065083958016952.corolla-perma.info#@InfoTech_VK{} ### 1770905254839
 vless://deb82a9e-0ef0-47bc-d7f3-4e841572c915@3.77.202.88:33919?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#@InfoTech_VK{} ### 1770905263493
 vless://de524de8-06a2-4026-c602-651f0304151b@18.199.102.253:443?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#@InfoTech_VK{} ### 1770905269330
+vless://d16bab5b-a68d-4280-c340-d3e865f2a858@18.185.5.247:17506?security=&encryption=none&headerType=none&type=tcp#@InfoTech_VK ### 1770905274585
