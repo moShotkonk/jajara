@@ -552,3 +552,4 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.33.91:2096?path=%2F45.76.183
 vless://8b7f7d7a-be8a-44a0-b27a-0a9424ffffc0@ip.hamrahto.com:8443?security=tls&amp;type=ws&amp;headerType=&amp;path=%2F&amp;host=backup.f-sub.cfd&amp;sni=backup.f-sub.cfd&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1#Telegram:@config_proxy{} ### 1770889277137
 vless://a98dfd2a-b021-607c-af2d-362ae38c9478@85.133.249.38:58128?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#Telegram:@config_proxy ### 1770889281122
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.54:8443?security=tls&amp;sni=eb043CC5.mKHalilI.pAges.Dev&amp;type=ws&amp;host=Eb043cc5.MKhalili.PaGes.DeV&amp;path=%2F&amp;fp=randomized&amp;alpn=http/1.1#@Hope_Net-join-us-on-Telegram{} ### 1770892553452
+vless://8820e16b-fbc2-49d3-90e4-eeeb8301c83c@146.75.74.225:80?security=none&type=ws&host=anycast.leslie.ch&path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram ### 1770892559183
