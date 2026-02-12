@@ -577,3 +577,4 @@ vless://f84ab055-3ffe-4a90-aad3-30596550b03c@sad24.ahg6k.1k3dv.carvan3.mimkiscx.
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.49:443?security=tls&sni=kkg.ylks.link&type=ws&path=/blue#Telegram:@config_proxy ### 1770896175405
 ss://a9e655a1-b3ec-4b6f-9a81-0b23c60154da@91.98.235.137:12265?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1770896180586
 vless://ea808221-bb62-4a92-a6a9-f1941fe5d2d1@ru.connectv.net:443?security=reality&amp;type=tcp&amp;sni=ru.connectv.net&amp;fp=chrome&amp;flow=xtls-rprx-vision&amp;pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&amp;encryption=none#Telegram:@config_proxy{} ### 1770896186095
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@93.123.17.189:443?security=tls&sni=gcore.com&type=ws&host=xn-36.xv2ray.cloudns.be#@Hope_Net-join-us-on-Telegram ### 1770898406882
