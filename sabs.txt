@@ -543,3 +543,4 @@ vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@104.20.1.252:80?encryption=none&sec
 vless://4307e484-6c8b-46d0-9df4-8b3983ab27b4@173.245.59.244:8080?encryption=none&amp;security=none&amp;sni=173.245.59.244&amp;fp=chrome&amp;type=ws&amp;host=029.electrocellco-cf-029.workers.dev&amp;path=/eyJqdW5rIjoiZUZpQ3M1WlYxYjlJTHlXNSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjc3LjIzOC4yMzEuMTc5IiwiMzEuNDQuMi41NyJdfQ==?ed=2560#Telegram:@config_proxy{} ### 1770886232314
 ss://YWVzLTI1Ni1nY206TFlYaUlVSjBGdXRuVHpCRw@62.146.172.130:443#%40V2rayMiner{} ### 1770889178234
 ss://YWVzLTI1Ni1nY206amQ5RlIxMndwcktQTkpIZw@62.146.171.57:443#%40V2rayMiner{} ### 1770889182561
+ss://YWVzLTI1Ni1nY206amQ5RlIxMndwcktQTkpIZw@62.146.171.57:80#%40V2rayMiner{} ### 1770889186576
