@@ -649,3 +649,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRk
 vless://43b3cbba-e6ac-484a-9481-976a0415eab9@172.67.200.173:443?security=tls&sni=esetseCURityLIcenSe.PonOD65798.woRkers.Dev&type=ws&host=EseTSeCuRitYLicEnSe.PoNoD65798.wORKerS.deV&path=%2FEryP1NZM7Yb9ecOC%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram ### 1770991102153
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.26.173:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770991105144
 vless://e765eb5b-8442-40e3-9532-857ba5ececa7@66.81.247.155:443?encryption=none&type=grpc&mode=gun&security=tls&sni=vbox.ping-box.com&alpn=h2,http/1.1#Telegram:@config_proxy ### 1770991110099
+vless://b0fd1a62-3c1f-47b8-9cec-f2feb1dc5aed@metrix.taklady.com:47043?security=none&encryption=none&host=gharar.ir&headerType=http&type=tcp%40Freeneetir%F0%9F%94%AE#Telegram:@config_proxy ### 1770991117100
