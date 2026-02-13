@@ -640,3 +640,4 @@ vless://5757c746-9878-4cfd-874a-edd95485f26d@fi.fasti.win:443?flow=xtls-rprx-vis
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.94:443?flow=xtls-rprx-vision&security=tls&allowInsecure=0&encryption=none&type=tcp&sni=nasnet-162191094-direct.sharghdaily.co&fp=chrome&headerType=none#Telegram:@config_proxy ### 1770991134193
 vless://13a45388-0fc5-4e83-a6af-a5a942a25731@190.93.244.199:443?encryption=none&amp;type=ws&amp;path=/AInasjsiaJajsjsiNAnsjsizbsshJJabsshziIJababsjzizjsbsbsJJHsbsjsissjbJIabasbsjIIHBajJ?ed%3D2560&amp;security=tls&amp;fp=chrome&amp;sni=SDSDSSFSF.HIDE-ABR.COM.TR&amp;alpn=h2,http/1.1#Telegram:@config_proxy{} ### 1770991137910
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%F0%9F%86%94%EF%B8%8F%40filtershekan_channel ### 1770993959869
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08%3D@57.129.140.88:8388#%F0%9F%86%94%EF%B8%8F%40filtershekan_channel{} ### 1770993966166
