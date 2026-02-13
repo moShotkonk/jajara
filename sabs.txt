@@ -519,3 +519,4 @@ vless://4fb62e3f-7e6b-4caf-8c63-d4ea7c5d9795@104.25.148.191:443?encryption=none&
 vless://5c3f5abe-0412-4f21-981d-db70147e9029@91.107.241.189:8080?security=reality&amp;sni=www.sony.com&amp;fp=chrome&amp;pbk=zAgVQVvF56AHVA2vH2hVr03ra43vv_L22PU-A_QuzBM&amp;sid=8996&amp;spx=/&amp;type=tcp&amp;encryption=none#@IVXChannel-@IVXChannel{} ### 1770965235500
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.209.246:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1770965241554
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2082?security=none&amp;type=ws&amp;host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&amp;path=%2F#@Hope_Net-join-us-on-Telegram{} ### 1770965246620
+vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.47.54:443?security=tls&amp;sni=ircp-617.pages.dev.&amp;type=ws&amp;host=ircp-617.pages.dev.&amp;path=%2F&amp;fp=chrome&amp;alpn=http/1.1#@Hope_Net-join-us-on-Telegram{} ### 1770965253937
