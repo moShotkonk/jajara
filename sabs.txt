@@ -626,3 +626,4 @@ vless://83eec637-d4fb-4715-85d7-a43a4c1a145b@lian-amni-one.sapienza-mahan.ir:205
 vless://6d673cd0-d996-4c57-b959-a70cc31c9560@157.22.241.97:443?security=reality&amp;encryption=none&amp;pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=ads.x5.ru&amp;sid=c2a0b2d60a7fc300#ARGO_VPNN_37{} ### 1771013649280
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZmYxNDIzZjYxZmZlNjcz@38.54.59.16:11201#ARGO_VPNN_40{} ### 1771013659271
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2082?path=%2F%3Fed%3D1024&security=&encryption=none&host=Pishgam.mehrsazi.ir&type=httpupgrade#ARGO_VPNN_43 ### 1771013661452
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.191.238:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#ARGO_VPNN_44 ### 1771013664810
