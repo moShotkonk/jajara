@@ -653,3 +653,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiVGVsZWdyYW06QGNvbmZpZ19wcm94eSDwn5SlIiwgImFkZCI6
 vless://9202d12b-42a9-42cd-b7c9-4ba844da635c@afrcloud22.mmv.kr:443?path=%2F44.208.64.96%3D443&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=afrcloud22.mmv.kr&amp;type=ws&amp;allowInsecure=0&amp;sni=afrcloud22.mmv.kr#Telegram:@config_proxy{} ### 1771020775610
 vless://540345a8-e6b5-49a2-b4dd-1cf348cea8b2@hi6.afraseda.ir:2053?security=tls&amp;allowInsecure=0&amp;encryption=none&amp;type=xhttp&amp;path=/?ed%3D2048&amp;sni=myopen.tencan.ir&amp;fp=chrome&amp;mode=auto&amp;alpn=h2,http/1.1#Telegram:@config_proxy{} ### 1771020779637
 vless://fbbd87c3-170b-4249-8139-aa6b23ad5133@151.101.25.242:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxde22.global.ssl.fastly.net&type=xhttp#Telegram:@config_proxy ### 1771020784363
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTVjMTViYzE3NWI0ZDc0@37.60.250.243:20558#Telegram:@config_proxy{} ### 1771020788711
