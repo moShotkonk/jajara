@@ -574,3 +574,4 @@ vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@az.downloadgameiran.ir:2053?path=%2
 vless://36a246fe-b5ab-4216-93c4-699b9f886439@91.239.214.43:3055?security=none&encryption=none&headerType=none&type=tcp#%40NETMelliAnti ### 1770975438880
 vless://5d06f973-f9c2-4d1a-8914-38e4971ddc4b@140.248.128.0:80?mode=auto&amp;path=%2F-&amp;security=none&amp;encryption=none&amp;host=hazarabrowse.bh&amp;type=xhttp#Telegram:@config_proxy{} ### 1770975447201
 vless://5d06f973-f9c2-4d1a-8914-38e4971ddc4b@140.248.128.0:80?mode=auto&path=%2F-&security=none&encryption=none&host=hazarabrowse.bh&type=xhttp#Telegram:@config_proxy ### 1770975452289
+vless://aee46a49-c99e-4c58-b443-4fff31f10ff4@vb08.sibitc.ir:8080/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=chatgpt.com&fp=chrome&security=reality&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8#Telegram:@config_proxy ### 1770975456303
