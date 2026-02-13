@@ -617,3 +617,4 @@ vless://b466f081-4f9d-43fe-9e7d-875cdeddce98@lian-amni-one.sapienza-mahan.ir:443
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&amp;security=tls&amp;encryption=none&amp;host=sni.111000.indevs.in&amp;type=ws&amp;sni=sni.111000.indevs.in#Telegram:@config_proxy{} ### 1771013585760
 vless://83eec637-d4fb-4715-85d7-a43a4c1a145b@lian-amni-one.sapienza-mahan.ir:2053?security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=xhttp&sni=ic.imsoon.io#Telegram:@config_proxy ### 1771013590108
 vless://d4c244cd-fb79-478a-be50-7ea889491270@140.248.128.0:80?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy ### 1771013612505
+vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.152.4:443?encryption=none&security=tls&sni=pqh30v1.carwashipdir.shop&fp=chrome&insecure=0&allowInsecure=0&type=grpc#Telegram:@config_proxy ### 1771013617171
