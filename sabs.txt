@@ -601,3 +601,4 @@ vless://f84ab055-3ffe-4a90-aad3-30596550b03c@dqf21.sdssd1.sadqwdw1.carvan1.mimki
 vless://a81596f9-680f-4fd7-928e-767fbd6a45c5@31.43.179.0:8443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=uSxLC4bWX3waYJMa2Crw7&allowInsecure=0&sni=a3.marandcity.com#Telegram:@config_proxy ### 1771007709548
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@104.19.49.192:443?path=%2F&security=tls&encryption=none&insecure=1&host=snippets.kkii.eu.org&fp=chrome&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#Telegram:@config_proxy ### 1771007714520
 vless://4631a8b4-7f38-402c-b794-b59c1d58be7d@85.133.145.156:2046?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#Telegram:@config_proxy ### 1771007721458
+vless://4631a8b4-7f38-402c-b794-b59c1d58be7d@212.33.206.207:2147?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#Telegram:@config_proxy ### 1771007725975
