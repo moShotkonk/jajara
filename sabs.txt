@@ -529,3 +529,4 @@ vless://c0847334-2c5e-4229-b4ef-32200925ace3@fip.lightningdns.ir:443?security=tl
 vless://3d2b28ec-e2f5-4edd-a95c-18d8ea828022@ip3-fast.tyryqyserver.ir:80?security=none&amp;encryption=none&amp;host=geroijji.global.ssl.fastly.net&amp;type=ws#Telegram:@config_proxy{} ### 1771047710694
 vless://3d2b28ec-e2f5-4edd-a95c-18d8ea828022@199.232.236.1:80?security=none&amp;encryption=none&amp;host=finloijji.global.ssl.fastly.net&amp;type=ws#Telegram:@config_proxy{} ### 1771047714638
 vless://3d2b28ec-e2f5-4edd-a95c-18d8ea828022@151.101.9.80:80?security=none&amp;encryption=none&amp;host=usanhab.global.ssl.fastly.net&amp;type=ws#Telegram:@config_proxy{} ### 1771047718939
+vless://5757c746-9878-4cfd-874a-edd95485f26d@196.244.194.115:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=fi.fasti.win&fp=chrome&pbk=F294G-iRQHISvxNNtUtF2arP3d6pzigwfVcY2jqXcSc&sid=2a8a7bb6036e8461&type=tcp&path=/#Telegram:@config_proxy ### 1771047724375
