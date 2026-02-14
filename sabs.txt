@@ -544,3 +544,4 @@ vless://e3682df7-e8ec-4705-b5ef-3bbaa7007c94@va04.serverh1ub.ir:8080?security=re
 vless://e1df1966-4d5e-43ec-b2da-bb935a258351@188.72.103.3:443?encryption=none&amp;security=tls&amp;sni=cdnsix.vk-com.ru&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=xhttp&amp;host=cdnsix.vk-com.ru&amp;path=/&amp;packetEncoding=xudp#Telegram:@config_proxy{} ### 1771054375738
 vless://f5d86f1c-3f4f-4ac9-aa03-64bf34750055@188.114.96.255:2087?encryption=none&security=tls&sni=v3.ganglink.sbs&fp=random&type=ws&host=v3.ganglink.sbs&path=%2F%3Fed%3D2560#Telegram:@config_proxy ### 1771054380583
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.19:38388#Telegram:@config_proxy{} ### 1771054385243
+ss://32c257a1-f18c-42c7-860d-9cb0ead8b07c@172.64.152.23:443?path=/47.250.139.59%3D443&%3Bsecurity=tls&%3Bencryption=none&%3Bhost=dragonhost9.qzz.io&%3Btype=ws&%3Bsni=dragonhost9.qzz.io#Telegram:@config_proxy ### 1771054389213
