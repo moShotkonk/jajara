@@ -685,3 +685,4 @@ vless://d85ea913-7dfa-44b0-bd66-33414e897991@afrcloud22.mmv.kr:443?path=%2F35.23
 vless://426b17cf-400c-417f-8b36-459a01e57351@38.93.136.8:443?security=reality&amp;alpn=h2&amp;encryption=none&amp;pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=miui.com#ARGO_VPNN_55{} ### 1771092381993
 vless://991519c1-3680-49b7-bb9f-9029a7a39067@vip-80.f-sub.cfd:1517?security=&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#ARGO_VPNN_57{} ### 1771092387148
 vless://af01651f-0058-492f-a614-7f9c316a0551@77.110.118.9:57463?security=&encryption=none&headerType=none&type=tcp#ARGO_VPNN_59 ### 1771092395643
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1eTVjd3JDUjhJdW41bmxNU0ZTOHVK@95.142.47.40:62238#ARGO_VPNN_62{} ### 1771092403153
