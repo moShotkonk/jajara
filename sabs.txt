@@ -617,3 +617,4 @@ vless://ed48e68e-700c-4e2c-9512-f0b7ebb94661@s4.iranman.shop:9600?security=&amp;
 vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@3.79.57.168:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#Telegram:@config_proxy{} ### 1771065710292
 vless://db27952d-9de6-4a90-d508-0d2ab314d2f4@18.192.42.228:18694?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#Telegram:@config_proxy{} ### 1771065714145
 vless://b358dfad-0403-47f4-9eb6-2a2a9768c1c9@germany.alpacalounge.com:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=ge.alpacalounge.com&sid=e54858300ed5&fp=random&pbk=TtGqqsFCFZIPPnULMW6jGNZiZvObUc4smzRJJ-dpAhg&spx=/&headerType=none#Telegram:@config_proxy ### 1771065719079
+vless://0b7f8f7f-cbf4-42e3-af4c-9a432deb8670@parselx16v.global.ssl.fastly.net:443/?encryption=none&amp;flow=&amp;type=ws&amp;path=/site&amp;security=tls&amp;sni=parselx16v.global.ssl.fastly.net#Telegram:@config_proxy{} ### 1771065723380
