@@ -704,3 +704,4 @@ vless://50c80500-421f-45ef-aa4a-43df212ea324@instxrpt.samanidempire.org:443?path
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#ARGO_VPNN_34 ### 1771103214599
 vless://fc0b6f33-584e-44f1-bac3-29672471e1cb@mehrabo.vpnfredom.site:2086?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ARGO_VPNN_37{} ### 1771103218591
 ss://YWVzLTI1Ni1nY206bktlRTJaRldWYUU0RHlqUg@154.38.176.7:80#ARGO_VPNN_39{} ### 1771103227605
+vless://2a2a8023-3b4b-407d-a00a-7beb5a158148@nodejs.org:80?path=%2F%3Fed&security=&encryption=none&host=SHAggy-AGREEMeNTSpUfz4utdI.SpOrTland.COMPANy.&type=ws#ARGO_VPNN_42 ### 1771103231760
