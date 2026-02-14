@@ -709,3 +709,4 @@ vless://22c42cbd-efa7-495c-ba6d-5895e29f66f8@f1.springpaatogh8.store:8443?path=%
 vless://a5922b61-09c2-4f13-87f6-b5c83244c6ee@SC-France2.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws#Telegram:@config_proxy ### 1771104894142
 vless://8c60c2e0-449f-4c94-be63-3f304b46310d@irr4.ihomayon.ir:1017?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=myket.ir&amp;security=none#Telegram:@config_proxy{} ### 1771104898278
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.94:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co%E2%AD%95%20%40Freeneetir#Telegram:@config_proxy ### 1771104903171
+vless://991519c1-3680-49b7-bb9f-9029a7a39067@c2.s-sub.org:8443?encryption=none&security=tls&sni=backup.f-sub.cfd&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=backup.f-sub.cfd&path=%252F#Telegram:@config_proxy ### 1771104907586
