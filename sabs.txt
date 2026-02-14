@@ -660,3 +660,4 @@ ss://YWVzLTI1Ni1nY206a0VWS2oxeHZnemVFbjhBVg@209.126.5.209:80#NetAccount</code> #
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWIwNTczODMwMDgxZDAx@51.89.119.213:11201#NetAccount</code> ### 1771071623784
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#NetAccount</code> ### 1771071623784
 vless://f84ab055-3ffe-4a90-aad3-30596550b03c@sad24.ahg6k.1k3dv.carvan3.mimkiscx.ir:2095?path=%2F%3Fed%3D2087&amp;security=none&amp;encryption=none&amp;host=beh1.salonemojallal.ir.&amp;type=httpupgrade#NetAccount</code> ### 1771071623784
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVGVsZWdyYW06QGNvbmZpZ19wcm94eSDwn5SlIiwgImFkZCI6ICI4Mi4xOTguMjQ2Ljk3IiwgInBvcnQiOiAiMTgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIlRUYlQkYlQkQlRUYlQkYlQkQlRUYlQkYlQkQlRUYlQkYlQkQlRUYlQkYlQkQlRUYlQkYlQkQlMEElNUJCeSUyMER1a2VNZWhkaSU1RCUyMHRyb2phbi1ISyUyMCIsICJ0bHMiOiAiIn0= ### 1771073126332
