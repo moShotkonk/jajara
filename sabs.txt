@@ -606,3 +606,4 @@ vless://667cadd7-f946-47f4-8826-dbf9e80cc7c0@srv138.towersflowerss.com:8080?type
 vless://217b48d6-5dac-4662-9a8c-aa76e92a7cfe@151.101.194.216:80?security=none&amp;type=ws&amp;host=befreewithus.com&amp;path=ws%2F%3Fed%3D2048#Telegram:@config_proxy{} ### 1771063745744
 vless://011fb39c-15ed-4700-a338-67497533f94e@217.16.24.53:443?security=reality&amp;encryption=none&amp;pbk=wECjZXPpzOIAcE2my_sCH2zluFB4p9a3jpTugXhJ7gI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.vk.com&amp;sid=69f3807321#Telegram:@config_proxy{} ### 1771063750347
 vless://20c50e3a-5b87-49dd-bd20-03c7f2735e40@www.speedtest.net:80/?encryption=none&amp;security=none&amp;type=ws&amp;host=cvsoidswg.k3ckfz151a.workers.dev&amp;path=%2F#Telegram:@config_proxy{} ### 1771063754515
+vless://dea687a7-30c0-4ee7-80cb-f37c408f9579@193.151.152.81:8013?security=&encryption=none&headerType=http&type=tcp#Telegram:@config_proxy ### 1771063759238
