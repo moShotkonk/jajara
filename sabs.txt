@@ -681,3 +681,4 @@ vless://e8accc46-c511-42fb-919b-9283799a88a1@79.137.175.56:443?security=reality&
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.84.84:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#Telegram:@config_proxy{} ### 1771088938914
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:443?encryption=none&amp;security=tls&amp;type=ws&amp;host=afrcloud22.mmv.kr&amp;path=%2F192.3.251.89%3D443&amp;sni=afrcloud22.mmv.kr#Telegram:@config_proxy{} ### 1771088943184
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:443?encryption=none&security=tls&type=ws&host=afrcloud22.mmv.kr&path=%2F107.174.198.228%3D8443&sni=afrcloud22.mmv.kr#Telegram:@config_proxy ### 1771088947438
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:443?encryption=none&security=tls&type=ws&host=afrcloud22.mmv.kr&path=%2F107.175.254.239%3D39128&sni=afrcloud22.mmv.kr#Telegram:@config_proxy ### 1771088951593
