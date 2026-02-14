@@ -667,3 +667,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiVGVsZWdyYW06QGNvbmZpZ19wcm94eSDwn5SlIiwgImFkZCI6
 vless://752741e4-ca51-4ec2-9ebd-e8806bfa0649@104.18.197.30:443?path=/uqBYRQhpA2NzSIhejwuqjz#Telegram:@config_proxy{} ### 1771081674442
 vless://c0c3dc30-4ed9-e13d-50e8-0a84a84815e3@ruvid.subsvdragontoo.online:8443?type=ws&security=tls&encryption=none&fp=chrome&sni=#Telegram:@config_proxy ### 1771081679483
 vless://637bd1f3-f097-4fa2-a62d-322f1aede2fe@185.228.233.48:443?type=tcp&amp;security=reality&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;pbk=KirNNYcecynNjQyb6gQFlHUcpbgijjcxjWgvAFJwmSs&amp;sid=a934cacc5e43cf60&amp;sni=access-fl26.agveit.pro#Telegram:@config_proxy{} ### 1771081683338
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=%2F57ba2ab1&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=ovhwuxian.pai50288.uk&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=ovhwuxian.pai50288.uk#%40flyv2ray{} ### 1771081692883
