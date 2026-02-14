@@ -687,4 +687,4 @@ vmess://eyJhZGQiOiAiOTQuMTMwLjEzMi4yMjMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAi
 vless://e7e157d2-ea09-4ac1-80c6-613cf1cfdd8b@178.239.146.247:500?security=&encryption=none&headerType=http&type=tcp#Telegram:@config_proxy ### 1771099336240
 vless://02b69374-2cf3-d2bf-5e95-9162abe70dac@animallzoo-love-zoo-tr.giggoopanel.ir:9090?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#Telegram:@config_proxy ### 1771099340413
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=sni.jpmj.dev#Telegram:@config_proxy ### 1771099348155
-ss://e7e157d2-ea09-4ac1-80c6-613cf1cfdd8b@178.239.146.247:500?security=&encryption=none&headerType=http&type=tcp#Telegram:@config_proxy ### 1771100870996
+vless://5757c746-9878-4cfd-874a-edd95485f26d@tr.fasti.win:443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=tr.fasti.win&amp;fp=chrome&amp;security=reality&amp;pbk=CL1sSD1RH6k_68fMSltXd2-GhJQ-CX02VSBryK6rjmo&amp;sid=12393b8b177a063d#Telegram:@config_proxy{} ### 1771100875289
