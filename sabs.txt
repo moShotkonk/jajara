@@ -653,3 +653,4 @@ vless://0c4be79a-2063-4f45-a14c-860f98060f3c@K9.FASTSPEEDS.IR:443?security=tls&a
 vless://a9e655a1-b3ec-4b6f-9a81-0b23c60154da@91.98.235.137:12265?type=tcp&amp;path=/#Telegram:@config_proxy{} ### 1771078323588
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40vpnbaz&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#Telegram:@config_proxy ### 1771078327949
 vless://e6cf712c-7c48-466c-aaed-4154b276a4a4@91.107.208.24:443?security=&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy ### 1771078333055
+vless://09ef4c6e-fcb2-4e51-a5bd-bea6ef4f66aa@am.citymobileshop.top:24171?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1771078336816
