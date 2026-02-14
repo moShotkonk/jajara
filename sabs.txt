@@ -682,3 +682,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.84.84:22224?type=ws&amp;secur
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:443?encryption=none&amp;security=tls&amp;type=ws&amp;host=afrcloud22.mmv.kr&amp;path=%2F192.3.251.89%3D443&amp;sni=afrcloud22.mmv.kr#Telegram:@config_proxy{} ### 1771088943184
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:443?encryption=none&security=tls&type=ws&host=afrcloud22.mmv.kr&path=%2F107.174.198.228%3D8443&sni=afrcloud22.mmv.kr#Telegram:@config_proxy ### 1771088947438
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:443?encryption=none&security=tls&type=ws&host=afrcloud22.mmv.kr&path=%2F107.175.254.239%3D39128&sni=afrcloud22.mmv.kr#Telegram:@config_proxy ### 1771088951593
+vless://---DIGIV2RAY--@185.146.173.68:2095?path=/DigiconnecT?ed=1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#@Hope_Net-join-us-on-Telegram ### 1771088958137
