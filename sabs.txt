@@ -710,3 +710,4 @@ vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@104.20.1.252:80?path=%2F%3Fed&amp;s
 vless://e6056cc5-1ec5-4dad-a5c1-ffe4ccde51b8@94.183.150.57:2323?security=&encryption=none&headerType=&type=tcp#ARGO_VPNN_46 ### 1771103249298
 vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?security=reality&encryption=none&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=1aab45#ARGO_VPNN_47 ### 1771103253900
 vless://2a2a8023-3b4b-407d-a00a-7beb5a158148@104.20.1.252:80?path=%2F%3Fed&amp;security=&amp;encryption=none&amp;host=SHAggy-AGREEMeNTSpUfz4utdI.SpOrTland.COMPANy.&amp;type=ws#ARGO_VPNN_48{} ### 1771103257737
+vless://f8eec5de-eed9-4363-a5c8-26ef7993f47b@www.speedtest.net:80?host=ch1.dontbow.store.&amp;path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&amp;security=none&amp;type=ws#@Hope_Net-join-us-on-Telegram{} ### 1771103268578
