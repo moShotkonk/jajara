@@ -670,3 +670,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@168.138.192.16:54584?encryption=non
 ss://NWMzZTM5OGUtZDA4MS00YjU1LTk0ZjYtZTZiOTY4Yjg3MDMwOg==@104.21.51.55:443#@Hope_Net ### 1771073170876
 ss://ZDNhMTJlNzktZWY0Mi00MjY4LWIzNjctNDJlZWIzNDk0ZTYwOg==@visa.com:443#@Hope_Net ### 1771073179295
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.157.120:443?path=%2F&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#@Hope_Net-join-us-on-Telegram ### 1771073183004
+vless://7c7af2de-bb97-429f-ac3c-8ef849717491@80.253.255.10:443?security=reality&amp;encryption=none&amp;alpn=http/1.1&amp;pbk=jSuIvIWLecUXhjia1bHBwo5sHiYkKsdtdy0x6N-4A1s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.upci.org&amp;sid=ee46#@Hope_Net-join-us-on-Telegram{} ### 1771073187463
