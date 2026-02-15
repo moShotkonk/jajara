@@ -806,3 +806,4 @@ vless://9c8bb1f3-c261-4c4a-a97c-e0778dfb2772@daily.asperwild.com:443?encryption=
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@v3.dabache.top:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai2#Telegram:@config_proxy ### 1771173460629
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?encryption=none&amp;security=tls&amp;sni=pqh30v5.carwashipdir.shop&amp;alpn=h2&amp;insecure=0&amp;allowInsecure=0&amp;type=grpc#Telegram:@config_proxy{} ### 1771173465194
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080?#Telegram:@config_proxy{} ### 1771173468660
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.254.21.147:443?#Telegram:@config_proxy ### 1771173473941
