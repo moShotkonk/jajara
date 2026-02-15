@@ -786,3 +786,4 @@ vmess://eyJhZGQiOiAiMXF3LmFlMWF1dHVtbi5jYy5jZCIsICJwb3J0IjogIjgwIiwgImlkIjogIjEz
 vless://b74d68f4-d3de-42e9-b023-d800c6a2ba17@freeiran.lookanet.app:8880?path=%2FV2RayyNGvpn%3Fed%3D512&amp;security=none&amp;encryption=none&amp;host=Metaplayer.gameredzone.top&amp;type=httpupgrade#Telegram:@config_proxy{} ### 1771189591412
 vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1027?encryption=none&type=tcp&headerType=http&host=myket.ir&security=none#Telegram:@config_proxy ### 1771189596184
 vless://416bf752-1181-4733-945a-3403d7ff54dc@85.133.250.174:443?encryption=none&type=tcp&headerType=none&security=none#Telegram:@config_proxy ### 1771189600411
+vless://ff6fb512-147d-419a-9672-e131133f7189@93.115.25.194:8443?security=reality&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;type=tcp&amp;fp=chrome&amp;pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&amp;sid=e0ef3d5c0aacb615#Telegram:@config_proxy{} ### 1771189604269
