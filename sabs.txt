@@ -699,3 +699,4 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652#%F0%9F%87%B0%F0%9F%87%B7KR-0275-NetFreedom0{} ### 1771137690444
 vless://bb3bb4d7-be67-42c0-fbe3-4895387e4f74@104.16.61.8:2083?security=tls&amp;sni=mhsngrty1.iraniancpi.uk&amp;type=ws&amp;host=mhsngrty1.iraniancpi.uk&amp;path=%2Fws&amp;alpn=http/1.1#@Hope_Net-join-us-on-Telegram{} ### 1771140835304
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.9.241:443?security=tls&amp;sni=mmdv2.pages.dev&amp;type=ws&amp;host=mmdv2.pages.dev#@Hope_Net-join-us-on-Telegram{} ### 1771140838914
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.230:443?security=tls&amp;sni=cfed.tgzdyz2.top&amp;type=ws&amp;path=tg%40zdyz2#@Hope_Net-join-us-on-Telegram{} ### 1771140843583
