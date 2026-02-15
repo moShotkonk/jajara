@@ -664,3 +664,4 @@ vless://73a4456a-0442-4550-8b4f-c719871a4eeb@chatgpt.com:443?security=tls&type=w
 vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=&encryption=none&headerType=none&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe ### 1771134737522
 vless://a06e7fb0-432b-4917-a3e5-54a542ae08a4@91.99.61.240:9090?security=&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe{} ### 1771134742264
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.sp.flicknet.ir:33563?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe ### 1771134746810
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.al.velaro.ir:57790?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe ### 1771134751683
