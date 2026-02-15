@@ -772,3 +772,4 @@ vless://50a1f337-5c03-433b-96cd-4a3932d0ef9a@in1.dedtihon.org:443?security=reali
 vless://7068cce9-b0e7-4f9b-aa26-3e91e58d66bf@185.143.233.5:443?path=/?ed=443&security=tls&encryption=none&host=anten.ir.takzkjaupnpam.airircdn.com&fp=chrome&type=ws&sni=anten.ir¬e=@freeOnlineVPN#Telegram:@config_proxy ### 1771187324583
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@104.18.26.90:2087?security=tls&amp;encryption=none&amp;host=aza002.vaslbash.site&amp;type=ws&amp;sni=aza002.vaslbash.site#Telegram:@config_proxy{} ### 1771187328669
 vless://3a41e280-4493-47a7-b68e-c8bed55600f6@curt237.cvcurt.ir:2378?type=grpc&mode=gun&security=tls&encryption=none&sni=filimo.com&allowInsecure=1#Telegram:@config_proxy ### 1771187335993
+vless://9a316687-bffe-4aeb-98aa-6a3c7cf9d39a@185.117.0.111:3050?security=none&amp;type=tcp&amp;encryption=none#Telegram:@config_proxy{} ### 1771187341755
