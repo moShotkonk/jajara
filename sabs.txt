@@ -783,4 +783,4 @@ vless://4ae3f4bb-6f11-478a-ade5-d7a667a8c888@37.139.33.57:51101?encryption=none&
 ss://9c8bb1f3-c261-4c4a-a97c-e0778dfb2772@daily.asperwild.com:443?security=reality&amp;encryption=none&amp;pbk=hLlhnCZGMfjakOk2U1uDynwnqG0z4A8HSE4cu-lrrzo&amp;headerType=none&amp;fp=random&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=daily.asperwild.com&amp;sid=9a461d450ab387b5#Telegram:@config_proxy{} ### 1771182871528
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s1.daneshvardost.com:26480?security=&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy ### 1771182875611
 vless://5d06f973-f9c2-4d1a-8914-38e4971ddc4b@140.248.128.0:80?mode=auto&path=&security=&encryption=none&host=hazarabrowse.bh&type=xhttp#Telegram:@config_proxy ### 1771182879767
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s2.daneshvardost.com:26480?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1771182885619
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s2.daneshvardost.com:26480?security=&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy ### 1771182889003
