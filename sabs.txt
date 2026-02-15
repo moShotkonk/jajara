@@ -769,3 +769,4 @@ vless://8c6302ee-8eb9-488c-9888-b7a5eb48fccd@51.250.54.70:8443/?type=tcp&amp;enc
 vless://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&sid=d1&type=tcp&headerType=none#%20 ### 1771182769322
 vless://2db1793c-48c5-4cc7-b893-02292fd9400b@217.160.189.116:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=azure.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#%20 ### 1771182780127
 vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?encryption=none&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2&type=grpc#%20 ### 1771182786134
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20%40ARGO_VPNN ### 1771182796725
