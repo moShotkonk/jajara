@@ -696,3 +696,4 @@ vless://0770c31f-bbf2-4c71-be1b-3ee6625ebba1@104.24.197.20:443?security=tls&sni=
 vless://349956b8-b0c8-45ac-acb9-ed7881fc88b1@162.159.128.233:443?security=tls&amp;sni=worker-calm-rice-ce3a.alanaziziyani88aa79.workers.dev&amp;type=ws&amp;host=worker-calm-rice-ce3a.alanaziziyani88aa79.workers.dev&amp;path=vless-ws%2F%3Fed%3D2048&amp;fp=randomized&amp;alpn=h2#@Hope_Net-join-us-on-Telegram{} ### 1771134888068
 vless://fd6ec94f-2cdc-44dc-8f17-f65bf36e4ed4@hetzner.imstron.org:443?type=ws&encryption=none&path=%2Fwindows-11&host=hetzner.imstron.org&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=hetzner.imstron.org#%40IVXChannel ### 1771134893039
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.206:38388#Telegram:@config_proxy{} ### 1771137686416
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652#%F0%9F%87%B0%F0%9F%87%B7KR-0275-NetFreedom0{} ### 1771137690444
