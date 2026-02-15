@@ -751,3 +751,4 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.7
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=%2Fassets&security=tls&encryption=none&insecure=0&host=diprox.pages.dev&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#@InfoTech_VK ### 1771152110618
 vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@deu549.worldbypass.org:443?flow=xtls-rprx-vision&amp;security=tls&amp;encryption=none&amp;type=tcp&amp;sni=deu549.worldbypass.org&amp;fp=chrome&amp;headerType=none#Telegram:@config_proxy{} ### 1771152124162
 vless://ab321a49-bc9c-4bb6-915b-a1fcbc7de49c@27.50.48.155:443?security=tls&amp;encryption=none&amp;type=grpc&amp;sni=vbox1.ping-box.com&amp;fp=chrome&amp;alpn=h2,http/1.1#Telegram:@config_proxy{} ### 1771152128255
+vless://2a5340a6-5779-418f-90ac-2a3ca06307c4@fx.tuurkderag.top:4444?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1771152133800
