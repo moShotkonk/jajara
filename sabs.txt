@@ -766,3 +766,4 @@ vless://Telegram%20%3D%20%40digi_config@v2.dabache.top:443?path=%2F%3Fed%3D2095%
 vless://171e2779-7274-4fbc-8884-a1d60496d2c9@px.tuurkderag.top:850?security=none&encryption=none&headerType=http&type=tcp#Telegram:@config_proxy ### 1771181275448
 vless://ab3af76c-1f48-43b5-8ed7-c3cf9a1a4f06@178.239.148.83:35846?security=&encryption=none&host=chess.com&headerType=http&type=tcp#Telegram:@config_proxy ### 1771181284316
 vless://8c6302ee-8eb9-488c-9888-b7a5eb48fccd@51.250.54.70:8443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=nyc.cdn.stun.su&amp;fp=chrome&amp;security=reality&amp;pbk=mEQMOpnl7XBZ2gPNpQtbkrEMgqyqUy9wMEmkfSRkw1c&amp;sid=846229eb47b3a5c9#Telegram:@config_proxy{} ### 1771181289482
+vless://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&sid=d1&type=tcp&headerType=none#%20 ### 1771182769322
