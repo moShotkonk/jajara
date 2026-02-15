@@ -761,3 +761,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.30.230:80?security=none&type
 vless://VPNCUSTOMIZE@www.parsvds.ir:8080?path=VPNCUSTOMIZE?ed=8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#@Hope_Net-join-us-on-Telegram ### 1771113841238
 vless://3b1e55af-cb72-4e57-83b8-be4e69b57376@tun1-norbert1.norbertvip-conf.site:9900?security=none&amp;encryption=none&amp;host=%2FJOIN---v2rrvipv2rrvipV2RRVIP__v2rrvip%3Fed%3D2560&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1771113845056
 vless://87e6c1a0-276b-472a-94a3-8a890ea3421f@my-o4.rexine.ir:1718?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=mir-data-35.myket.ir#Telegram:@config_proxy{} ### 1771113849653
+vless://602f62cb-ccfe-4a26-99ba-2807248b3c8b@140.248.184.165:80/?mode=auto&path=%2Fpath&security=none&encryption=none&host=alihastam.global.ssl.fastly.net&type=xhttp#Telegram:@config_proxy ### 1771113854190
