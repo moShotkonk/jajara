@@ -606,3 +606,4 @@ vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.194:26480?security=none&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.246.55.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#Telegram:@config_proxy ### 1771250445285
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@213.177.176.194:45703?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#Telegram:@config_proxy ### 1771250454140
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@213.176.126.132:11824?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#Telegram:@config_proxy ### 1771250458994
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@213.177.176.219:40019?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#Telegram:@config_proxy ### 1771250463162
