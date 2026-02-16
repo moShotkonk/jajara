@@ -652,3 +652,4 @@ vless://1492ac89-05ea-4e3b-adb8-93d90d05b22f@w2.0oi.ccwu.cc:80?fp=chrome&host=w2
 vless://5142e523-1b44-4f22-8e51-5b52dd64cf7d@mx1.tehrantolidi.ir:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=qeyme.global.ssl.fastly.net&amp;type=ws#Telegram:@config_proxy{} ### 1771241754461
 vless://02ac0623-f6d6-4204-abef-019441ce7529@mx2.tehrantolidi.ir:80?path=%2Fdownload&security=none&encryption=none&host=moeinipoor.global.ssl.fastly.net&type=ws#Telegram:@config_proxy ### 1771241758835
 vless://20977bfa-6c8c-4ac3-b68d-12090f4235c1@mx.tehrantolidi.ir:80?path=%2Fdownload&security=none&encryption=none&host=kir-to-iranzamin.global.ssl.fastly.net&type=ws#Telegram:@config_proxy ### 1771241764181
+vless://20977bfa-6c8c-4ac3-b68d-12090f4235c1@aparat.lunargnome.ir:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dlpkg.org#Telegram:@config_proxy ### 1771241767409
