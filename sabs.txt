@@ -635,3 +635,4 @@ vless://98143ed1-3ad2-4f5a-9993-1bdfebfde44a@151.101.7.79:80?encryption=none&amp
 vless://98143ed1-3ad2-4f5a-9993-1bdfebfde44a@151.101.9.80:80?encryption=none&type=xhttp&mode=auto&host=6Svnlet-it-happen-khafesho-Sd.global.ssl.fastly.net&path=/&security=none#Telegram:@config_proxy ### 1771259550067
 vless://98143ed1-3ad2-4f5a-9993-1bdfebfde44a@151.101.4.79:80?encryption=none&type=xhttp&mode=auto&host=9Svnlet-it-happen-khafesho-Sd.global.ssl.fastly.net&path=/&security=none#Telegram:@config_proxy ### 1771259553202
 vless://dcf03387-f831-42e8-9ad3-72158253399d@Z10.prodnsspeed10.ir:2083?security=tls&amp;type=grpc&amp;headerType=&amp;serviceName=Love&amp;authority=&amp;mode=multi&amp;sni=Erdin.roshdadcollection.ir&amp;fp=#Telegram:@config_proxy{} ### 1771259557849
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s8.daneshvardost.com:26480?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp%40Freeneetir%20%E2%9C%A8#Telegram:@config_proxy{} ### 1771259562784
