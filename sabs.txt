@@ -608,3 +608,4 @@ vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@213.177.176.194:45703?security=none
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@213.176.126.132:11824?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#Telegram:@config_proxy ### 1771250458994
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@213.177.176.219:40019?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#Telegram:@config_proxy ### 1771250463162
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.94.77.169:2053?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.111000.v6.navy&sni=sni.111000.v6.navy&fp=chrome&encryption=none#Telegram:@config_proxy ### 1771250468577
+vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@45.15.178.124:80/?type=ws&encryption=none&flow=&host=pq-bosniaandherzegovina1.09vpn.com&path=%2Fvless%2F#Telegram:@config_proxy ### 1771250472535
