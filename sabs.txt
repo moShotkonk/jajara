@@ -621,3 +621,4 @@ vless://0e4865bf-811e-44e8-90ce-233ecf209b0b@185.250.149.234:8443?path=%2Fws-vle
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#%40VPNSSHOCEAN%20321 ### 1771235026110
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.1:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=sni.111000.indevs.in&amp;fp=chrome&amp;type=ws&amp;sni=sni.111000.indevs.in#%40VPNSSHOCEAN%20322{} ### 1771235029679
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.21:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=sni.111000.indevs.in&amp;fp=chrome&amp;type=ws&amp;sni=sni.111000.indevs.in#%40VPNSSHOCEAN%20324{} ### 1771235038426
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40VPNSSHOCEAN%20326{} ### 1771235042908
