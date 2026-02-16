@@ -609,3 +609,4 @@ vless://8832cbf9-324d-457a-8452-8f1d14e9640f@93.185.165.50:55211?security=realit
 vless://Vip_fragment_v2ray@172.64.33.91:443?encryption=none&amp;security=tls&amp;sni=ic.imsoon.io&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=xhttp&amp;host=ic.imsoon.io.&amp;path=%2Ft.me%2FVip_fragment_v2ray&amp;mode=auto#Telegram:@config_proxy{} ### 1771230981846
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.130:38388#Telegram:@config_proxy ### 1771230986310
 vless://fd114d00-f2eb-4cbe-ade7-7ee8a3d37af1@best25.bestvbest.ir:43041?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#Telegram:@config_proxy{} ### 1771230991361
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.34.160.97:2053?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#Telegram:@config_proxy{} ### 1771230996645
