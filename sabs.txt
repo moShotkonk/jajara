@@ -608,3 +608,4 @@ vless://d7adab30-f6e4-46fe-ad43-9227625ab4f5@node2-ru.web-davinci.ru:33107?secur
 vless://8832cbf9-324d-457a-8452-8f1d14e9640f@93.185.165.50:55211?security=reality&encryption=none&pbk=5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=1885#Telegram:@config_proxy ### 1771230975407
 vless://Vip_fragment_v2ray@172.64.33.91:443?encryption=none&amp;security=tls&amp;sni=ic.imsoon.io&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=xhttp&amp;host=ic.imsoon.io.&amp;path=%2Ft.me%2FVip_fragment_v2ray&amp;mode=auto#Telegram:@config_proxy{} ### 1771230981846
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.130:38388#Telegram:@config_proxy ### 1771230986310
+vless://fd114d00-f2eb-4cbe-ade7-7ee8a3d37af1@best25.bestvbest.ir:43041?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#Telegram:@config_proxy{} ### 1771230991361
