@@ -592,3 +592,4 @@ vless://10b7917c-515d-4634-adbe-1b44242c6d07@entekhabat.iran.asiatech.numthree.i
 vless://Parsashonam@chatGPT.com:2096?mode=auto&path=%2F&security=tls&alpn=http%2F1.1%2Ch2&encryption=none&fp=chrome&type=xhttp&sni=signup.atlasw.ir#%40Parsashonam_Bot%20%F0%9F%87%AB%F0%9F%87%AE-Test-0 ### 1771270160610
 vless://Parsashonam@104.21.14.158:2096?mode=auto&amp;path=%2F&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=xhttp&amp;sni=signup.atlasw.ir#%40Parsashonam_Bot%20%F0%9F%87%AB%F0%9F%87%AE-Test-1{} ### 1771270164900
 vless://Parsashonam@45.130.125.160:2096?mode=auto&amp;path=%2F&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=xhttp&amp;sni=signup.atlasw.ir#%40Parsashonam_Bot%20%F0%9F%87%AB%F0%9F%87%AE-Test-2{} ### 1771270169501
+vless://e88807d6-5789-41bf-ba33-5393f8d84fae@146.75.53.132:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=dashaghdarim2.global.ssl.fastly.net&amp;type=ws#%40NETMelliAnti{} ### 1771270211403
