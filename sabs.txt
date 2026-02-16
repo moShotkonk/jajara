@@ -610,3 +610,4 @@ vless://Vip_fragment_v2ray@172.64.33.91:443?encryption=none&amp;security=tls&amp
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.130:38388#Telegram:@config_proxy ### 1771230986310
 vless://fd114d00-f2eb-4cbe-ade7-7ee8a3d37af1@best25.bestvbest.ir:43041?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#Telegram:@config_proxy{} ### 1771230991361
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.34.160.97:2053?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#Telegram:@config_proxy{} ### 1771230996645
+vless://d9f21835-bc20-4668-94ad-53ce678004cc@178.17.53.125:443?security=reality&type=tcp&sni=fin.1.babymelo.shop&fp=chrome&flow=xtls-rprx-vision&sid=da&pbk=SoTei6uBNm6Z5zYsn1evgnbDDWr2TKR0sNPVVrr5MQY#Telegram:@config_proxy ### 1771231001624
