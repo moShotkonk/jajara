@@ -594,3 +594,4 @@ vless://Parsashonam@104.21.14.158:2096?mode=auto&amp;path=%2F&amp;security=tls&a
 vless://Parsashonam@45.130.125.160:2096?mode=auto&amp;path=%2F&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=xhttp&amp;sni=signup.atlasw.ir#%40Parsashonam_Bot%20%F0%9F%87%AB%F0%9F%87%AE-Test-2{} ### 1771270169501
 vless://e88807d6-5789-41bf-ba33-5393f8d84fae@146.75.53.132:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=dashaghdarim2.global.ssl.fastly.net&amp;type=ws#%40NETMelliAnti{} ### 1771270211403
 vless://e88807d6-5789-41bf-ba33-5393f8d84fae@167.82.101.147:80?path=%2F&security=none&encryption=none&host=2roznistam.global.ssl.fastly.net&type=ws#%40NETMelliAnti ### 1771270216589
+vless://1c43ddec-1531-4763-bb5e-2577ce192fac@Z13.prodnsspeed10.ir:443?encryption=none&amp;type=xhttp&amp;mode=auto&amp;path=/&amp;security=tls&amp;fp=firefox&amp;sni=SHARAF.followerarzon1.com&amp;alpn=h2,http/1.1#Telegram:@config_proxy{} ### 1771270244547
