@@ -617,3 +617,4 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443/?type=ws&amp;encry
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@64.188.104.168:40721/?type=tcp&amp;encryption=none&amp;flow=&amp;sni=yahoo.com&amp;fp=chrome&amp;security=reality&amp;pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&amp;sid=df8611c07d#Telegram:@config_proxy{} ### 1771209974146
 vless://9706248e-259e-4738-9cde-a3f7e11be4b8@185.208.79.133:38463?encryption=none&amp;security=none&amp;type=tcp#Telegram:@config_proxy{} ### 1771209978711
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.rs.lopzo.ir:38967?security=none&amp;encryption=none&amp;host=skyroom.online&amp;headerType=http&amp;type=tcp#%40flyv2ray{} ### 1771217886047
+vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=ipv4.yasharteam.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ipv4.yasharteam.com#%40flyv2ray{} ### 1771217890698
