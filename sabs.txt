@@ -594,3 +594,4 @@ vless://98057472-daa3-43cc-a23e-b7a8f799ba5b@hamrahconf.ir:8443?path=%2F&securit
 vless://f24a3ab7-fef0-4dff-a75d-6622cba20c8c@dgrns1.vertalist.ir:1310?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1771272490314
 vless://Parsashonam@45.130.125.160:2096?mode=auto&amp;path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=signup.atlasw.ir#Telegram:@config_proxy{} ### 1771272494478
 vless://4c886269-904b-459d-a913-d81d15b16d6b@104.20.39.116:80?path=%2Ft.me%2FV2RayyNGvpn%3Fed%3D512&security=none&encryption=none&host=Ebaypay.esportplusnews.top&type=httpupgrade#Telegram:@config_proxy ### 1771272497511
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@cfclu2.zopli.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn-ru.fxcdn.ir#Telegram:@config_proxy ### 1771272502571
