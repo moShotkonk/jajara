@@ -650,3 +650,4 @@ ss://752d7c0c-e00d-4c66-8619-0d4592b911a0@ip.speedcheck.mobileemdad.top:4450?sec
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.21.227.134:80?type=ws&amp;host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO&amp;path=%2F%3Fed#Telegram:@config_proxy{} ### 1771241745581
 vless://1492ac89-05ea-4e3b-adb8-93d90d05b22f@w2.0oi.ccwu.cc:80?fp=chrome&host=w2.0oi.ccwu.cc&path=%2FYoX3fwub5aRRzUNF&sni=w2.0oi.ccwu.cc&type=ws#Telegram:@config_proxy ### 1771241750606
 vless://5142e523-1b44-4f22-8e51-5b52dd64cf7d@mx1.tehrantolidi.ir:80?path=%2Fdownload&amp;security=none&amp;encryption=none&amp;host=qeyme.global.ssl.fastly.net&amp;type=ws#Telegram:@config_proxy{} ### 1771241754461
+vless://02ac0623-f6d6-4204-abef-019441ce7529@mx2.tehrantolidi.ir:80?path=%2Fdownload&security=none&encryption=none&host=moeinipoor.global.ssl.fastly.net&type=ws#Telegram:@config_proxy ### 1771241758835
