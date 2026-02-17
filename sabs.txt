@@ -549,3 +549,6 @@ vless://18f72be7-0651-4037-928b-8a309d685796@193.42.11.83:443?encryption=none&am
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#NetAccount</code> ### 1771359703656
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#NetAccount</code> ### 1771359703656
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;host=www.calmlunch.com&amp;type=ws&amp;sni=www.calmlunch.com#NetAccount</code> ### 1771359703656
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@nl.jojack.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4&sid=6bb3c7f9f97b45b8&sni=nl.jojack.ru#NetAccount ### 1771360910244
+vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@usa.scroogethebest.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3&sni=usa.scroogethebest.com#NetAccount ### 1771360910244
+vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@spb.scroogethebest.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=C3hc32Cknec2shasKJIH2DYVb7Fyu64RF9v71L3ipEg&sid=9c2378562188c3cb&sni=spb.scroogethebest.com#NetAccount ### 1771360910244
