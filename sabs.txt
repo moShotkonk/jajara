@@ -482,3 +482,4 @@ vless://Telegram-ipV2Ray-xyu@www.speedtest.net:80?path=/Telegram-ipV2Ray?ed=2048
 vless://5341f83e-634d-4920-9391-a6ffadd15276@reza.alphanet01.com:2098?path=%2FPULAVPN&amp;security=none&amp;encryption=none&amp;host=play.google.com&amp;type=ws#%40NETMelliAnti{} ### 1771303176959
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.li.zopli.ir:50334?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp%40freenettir#Telegram:@config_proxy ### 1771303190896
 vless://245547e8-bca4-4f74-ab99-403b144c638a@a.iranianfilter.top:8443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Telegram:@config_proxy ### 1771303196493
+vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@[::ffff:104.21.69.164]:2087?security=tls&type=ws&path=%2Fyyru4ludskje&host=ems.arc-time.workers.dev&alpn=h3&sni=EMS.Arc-Time.Workers.DEV&fp=chrome&encryption=none#Telegram:@config_proxy ### 1771303199277
