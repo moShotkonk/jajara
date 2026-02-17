@@ -552,3 +552,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUzNza3dtb2xyUTcwcTg0MmlyUUQw@178.17.61.67:5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.103:8080 ### 1771363911866
 vless://472b07d2-31e4-41ab-ae47-48914d9b7900@termux.net:443?path=%2FNet3rffws&amp;security=tls&amp;encryption=none&amp;host=fi.unoix.io&amp;fp=chrome&amp;type=ws&amp;sni=fi.unoix.io#%40VPNSSHOCEAN%201%20POD{} ### 1771363920654
 vless://472b07d2-31e4-41ab-ae47-48914d9b7900@chatgpt.com:443?mode=gun&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=Net3rffgrpc&amp;sni=fi.unoix.io#%40VPNSSHOCEAN%202%20POD{} ### 1771363925083
+vless://472b07d2-31e4-41ab-ae47-48914d9b7900@45.130.125.160:443?path=%2FNet3rffws&security=tls&encryption=none&host=fi.unoix.io&fp=chrome&type=ws&sni=fi.unoix.io#%40VPNSSHOCEAN%203POD ### 1771363929002
