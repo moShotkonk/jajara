@@ -526,3 +526,4 @@ vless://2143c858-cdf6-4971-a240-98dedc815723@85.17.145.169:443?security=reality&
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1771353872593
 vless://bd0db4cc-0472-47db-86ad-5dd154b09b79@193.151.150.78:7788?type=tcp&amp;encryption=none&amp;security=none#Telegram:@config_proxy{} ### 1771353877015
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.91.2:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#Telegram:@config_proxy{} ### 1771353931840
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.38.51.14:2053?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#Telegram:@config_proxy ### 1771353936026
