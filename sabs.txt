@@ -523,3 +523,4 @@ vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#%20{} ### 1771353849644
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?encryption=none&amp;security=tls&amp;sni=hetz.x-smm.com&amp;type=ws&amp;host=hetz.x-smm.com&amp;path=%2F45.76.183.217%3D49292#%20{} ### 1771353853767
 vless://2143c858-cdf6-4971-a240-98dedc815723@85.17.145.169:443?security=reality&amp;encryption=none&amp;pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.samsung.com#Telegram:@config_proxy{} ### 1771353867742
+vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1771353872593
