@@ -547,3 +547,4 @@ vless://895f80be-902e-45c2-9b23-a27283edc180@155.212.163.134:8443?security=reali
 vless://7f542def-d435-4a9f-ba70-ee61099f5ffe@185.211.59.235:3030?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#%40NETMelliAnti ### 1771336968452
 vless://d9b9dbfa-34df-4c1b-b7be-8795642939d9@94.184.21.203:50635?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NETMelliAnti{} ### 1771336970918
 vless://bbc81761-1dc8-45f0-842c-58b5844dedf6@lit3.litiran.ir:2083?security=tls&amp;type=ws&amp;path=%2F&amp;host=image-it.kafeistanbul.shop&amp;sni=image-it.kafeistanbul.shop&amp;fp=chrome&amp;encryption=none#Telegram:@config_proxy{} ### 1771336982781
+vless://2749534e-8bd1-45cf-8b17-c28bed9236c0@176.120.67.169:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=wikimedia.org&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#Telegram:@config_proxy ### 1771336996045
