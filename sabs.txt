@@ -522,3 +522,4 @@ vless://f8ffc2f3-9d01-41f8-9b8a-833ea3176318@79.133.180.45:443?type=tcp&amp;secu
 vless://4cf35798-c624-410b-989c-a477d2e7e171@2373642a861b66122373642a861b6612.nisher.fun:8395?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1771343155333
 vless://309fa273-6579-4cb2-9143-7cad50401eba@135.181.155.97:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#Telegram:@config_proxy ### 1771343159401
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBWmhuczJXY2U5V3Y3YnBxNHZPM1pW@51.103.147.134:14691/?outline=1#@RoozanehNet{} ### 1771346788627
+vless://896c2efd-252d-4837-b3b7-349faa02956d@199.232.193.10:80?security=none&encryption=none&host=easyhostmanger.global.ssl.fastly.net&type=ws#%40KIA_NET ### 1771346792202
