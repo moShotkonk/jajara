@@ -532,3 +532,4 @@ vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@90.156.150.134:443?security=reality
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.158.73.0:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#Telegram:@config_proxy{} ### 1771346847744
 vless://4cec6739-2dcc-4a61-84f8-d06bc6d4816a@ip.speedcheck.mobileemdad.top:4450?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com#Telegram:@config_proxy ### 1771346853714
 vless://7d680304-b026-48fd-d8bf-6aa209b424c5@3.76.205.110:19592?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1771346858890
+vless://3763c9aa-e41e-4191-8388-3995716cb3de@f1.springpaatogh8.store:8443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=takken.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#Telegram:@config_proxy ### 1771346864082
