@@ -528,3 +528,4 @@ vless://d35900ef-0dbc-4e38-bab3-d6169b180c96@87.239.106.153:8443?encryption=none
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#NetAcccount</code> ### 1771331010301
 vless://1a9b771a-b717-49c8-9e93-f6b3d508d637@93.185.165.50:55211?security=reality&amp;encryption=none&amp;pbk=5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=1885#NetAccount</code> ### 1771331010301
 vless://976cd600-97a1-4c9c-b143-c901dbf175e7@s.ssl.fastly.net:80?security=none&amp;encryption=none&amp;host=usakhidam.global.ssl.fastly.net&amp;type=ws#NetAccount</code> ### 1771331010301
+vless://f3db0ad5-ea47-41b6-be3d-d0d188c0de1b@193.151.139.212:8268?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#NetAccount</code> ### 1771334433033
