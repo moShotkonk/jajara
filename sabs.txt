@@ -523,3 +523,4 @@ vless://4cf35798-c624-410b-989c-a477d2e7e171@2373642a861b66122373642a861b6612.ni
 vless://309fa273-6579-4cb2-9143-7cad50401eba@135.181.155.97:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#Telegram:@config_proxy ### 1771343159401
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBWmhuczJXY2U5V3Y3YnBxNHZPM1pW@51.103.147.134:14691/?outline=1#@RoozanehNet{} ### 1771346788627
 vless://896c2efd-252d-4837-b3b7-349faa02956d@199.232.193.10:80?security=none&encryption=none&host=easyhostmanger.global.ssl.fastly.net&type=ws#%40KIA_NET ### 1771346792202
+vless://6991c683-9978-0f82-ef9d-fb9c8a053b34@114.32.9.249:51443?&security=tls&fp=random&alpn=h3&sni=d657fa2a.lfree.ccwu.cc&type=ws&headerType=none&host=d657fa2a.lfree.ccwu.cc&path=%2Fsocks5%3D44fa737d%3A1bab4a4504ca%4038.96.191.150%3A21719#Telegram:@config_proxy ### 1771346813632
