@@ -525,3 +525,4 @@ vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed%3D
 vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%2F%3Fed&security=tls&encryption=none&host=gamepc.sorza.ir&fp=chrome&type=ws&sni=digikala.sorza.ir#@proxymelimon ### 1771336849655
 vless://ab2c048f-6566-4437-adb9-47a4c239edc2@fan.piroowat.com:8443?security=none&encryption=none&headerType=none&type=tcp#@proxymelimon ### 1771336854607
 vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=gamepc.sorza.ir&amp;fp=chrome&amp;type=ws&amp;sni=digikala.sorza.ir#@proxymelimon{} ### 1771336859013
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@3.1.195.148:8316#@proxymelimon ### 1771336864941
