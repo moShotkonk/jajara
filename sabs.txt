@@ -505,3 +505,4 @@ vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o4.rexine.ir:1717?security=&encr
 vless://b2d09914-82b4-236e-47b8-238252d341b3@animallzoo-love-zoo-nect.giggoopanel.ir:9091?security=&amp;encryption=none&amp;host=p30afzar.com&amp;headerType=http&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%3A%20%40argo_vpnn_25{} ### 1771363650495
 vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o11.rexine.ir:443?security=&encryption=none&host=mir-data-61.myket.ir&headerType=http&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%3A%20%40argo_vpnn_26 ### 1771363655514
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&encryption=none&headerType=&type=tcp#ARGO_VPNN_55 ### 1771363659800
+vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#ARGO_VPNN_56{} ### 1771363664463
