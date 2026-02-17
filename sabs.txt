@@ -487,3 +487,4 @@ vless://2bd80876-fc38-445a-9a32-3c7233e1bfb7@176.98.186.5:443?security=reality&a
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@vip3.kaixincloud.top:2053?security=tls&amp;type=ws&amp;path=%2F&amp;host=ir1.airpanel.top&amp;sni=ir1.airpanel.top&amp;fp=chrome&amp;encryption=none#Telegram:@config_proxy{} ### 1771303208441
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZDk3NDMzNjg4ZTdlZmQ1@163.171.206.24:44235#Telegram:@config_proxy{} ### 1771303213195
 vless://5c824317-ac50-49a5-8d32-a0ccb890fb3d@afrcloud22.mmv.kr:443?security=tls&type=ws&path=%2F118.91.78.76%3D50001&host=afrcloud22.mmv.kr&sni=afrcloud22.mmv.kr&fp=chrome&encryption=none#Telegram:@config_proxy ### 1771303218074
+vless://47a116a9-4327-44a5-b310-31bfa7c1b956@3e268e5e7124e598.fast2.viperping.ir:80?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#Telegram:@config_proxy{} ### 1771303221763
