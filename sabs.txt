@@ -492,3 +492,4 @@ vmess://eyJhZGQiOiJ0Z2p1Lm9yZyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoi
 vless://f4183baa-d87a-42c2-a5c2-b1211cfedb0e@goodtime2.oryzo.ir:8080?path=%2Fde%3Fed%3D1048&amp;security=none&amp;encryption=none&amp;host=netherland.4.9.1canva.com.ea.com.cloudflare.com.0.google.com.kaktusvps.ir&amp;type=httpupgrade#Telegram:@config_proxy{} ### 1771450269704
 vless://f4183baa-d87a-42c2-a5c2-b1211cfedb0e@fast1.p31download.com:80?path=%2Fde%3Fed%3D1048&security=none&encryption=none&host=mashhadspeed.com&type=ws#Telegram:@config_proxy ### 1771450273868
 vless://f4183baa-d87a-42c2-a5c2-b1211cfedb0e@fast2.p31download.com:80?path=%2Fde%3Fed%3D1048&security=none&encryption=none&host=mashhadspeed.com&type=ws#Telegram:@config_proxy ### 1771450278830
+vless://ed8b04ef-3938-4db2-9998-f491bf820a2b@62.60.251.11:8880?type=tcp&amp;encryption=none&amp;security=none#Telegram:@config_proxy{} ### 1771450282957
