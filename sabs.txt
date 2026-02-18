@@ -505,3 +505,4 @@ ss://b1f45225-4f7c-4b13-a7ee-1a9afa48216e@91.84.103.69:8443?security=reality&enc
 ss://6ab80df3-5f07-4aa7-9aed-44d6db54aa3f@93.186.254.241:443?security=reality&amp;alpn=h2&amp;encryption=none&amp;pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=gmail.com#Telegram:@config_proxy{} ### 1771439961768
 vless://8db31176-aed6-402d-aa1b-a8b04b5c3b48@193.242.125.18:80?security=none&amp;type=tcp&amp;encryption=none#Telegram:@config_proxy{} ### 1771439966306
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@pae.com:443?path=%2Fsni.111000.v6.navy%2F%3Fed%3D2560&amp;se…#Telegram:@config_proxy{} ### 1771439976434
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.111000.indevs.in&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.indevs.in#Telegram:@config_proxy{} ### 1771439980183
