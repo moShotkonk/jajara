@@ -484,3 +484,4 @@ vless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@ir-vip.whaletm2.site:1517?security=
 vless://3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443?path=%2Fproxyip%3Dsjc.o00o.ooo&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=o00o.snip.qzz.io&amp;type=ws&amp;allowInsecure=0&amp;sni=o00o.snip.qzz.io#Telegram:@config_proxy{} ### 1771394760565
 vless://ed37156d-9257-4b3d-962c-a0add64ed2ff@8b8f1d1707842194.fast2.viperping.ir:80?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#Telegram:@config_proxy{} ### 1771394765362
 vless://ed37156d-9257-4b3d-962c-a0add64ed2ff@a06ed50aeffc02b4.fast2.viperping.ir:80?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#Telegram:@config_proxy{} ### 1771394770317
+vless://ed37156d-9257-4b3d-962c-a0add64ed2ff@ae8078c7d22dd6e4.fast1.viperping.ir:80?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#Telegram:@config_proxy{} ### 1771394775573
