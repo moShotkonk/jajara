@@ -508,3 +508,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=%2F%3Fed%3D2
 vless://23466214-e0e5-4b6a-b660-23d6c78588e4@fox30.wizard2shop.com:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=wiz.jafarparty.lat&fp=360&type=ws&allowInsecure=0&sni=wiz.jafarparty.lat#Telegram:@config_proxy ### 1771439985247
 vless://35d471a7-d9ba-4c5c-a385-3ab49b1779a8@185.136.135.144:777?path=%40BluebberyNetWork&amp;security=none&amp;encryption=none&amp;type=ws#%40NETMelliAnti{} ### 1771439988776
 vless://57b0a155-7f03-4baa-b6aa-70cd87cf5d39@213.176.121.214:2002?security=none&amp;encryption=none&amp;host=skyroom.online%2C%20gharar.ir%2C%20igap.net&amp;headerType=http&amp;type=tcp#%40NETMelliAnti{} ### 1771443702561
+vless://cb3476c7-9584-490b-a149-4efc0be1104d@85.133.197.127:7731?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple{} ### 1771443740315
