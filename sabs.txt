@@ -526,3 +526,4 @@ ss://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=%2F%3Fed%3D25
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.124.178.227:8443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#Telegram:@config_proxy ### 1771411036295
 vless://b469974b-4319-452a-94de-46b314ac1a8e@2.59.218.62:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bg.strelkavpn.com#Telegram:@config_proxy ### 1771411040981
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#ARGO_VPNN_54 ### 1771414397121
+vless://013d79ce-d692-42f0-87cf-23fd722fc839@goavmdu.tinshopmarket.ir:25553?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#%40NETMelliAnti ### 1771414401633
