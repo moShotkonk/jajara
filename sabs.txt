@@ -490,3 +490,4 @@ vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?encryption=none&amp
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.190.207.55:443?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;insecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=%2F%3Fed%3D2560%26telegram%F0%9F%8E%96@yamyamproxy#Telegram:@config_proxy{} ### 1771456357196
 vless://ddf54c0e-29ae-4ce0-847d-ebdf71d1ca2c@135.125.139.219:2055?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Telegram:@config_proxy{} ### 1771456361665
 vless://3710da8d-bc32-4d42-a4cc-6148e9924b4f@my-o6.rexine.ir:1717?encryption=none&security=none&type=tcp&headerType=http&host=mir-data-62.myket.ir#Telegram:@config_proxy ### 1771456366190
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@27.50.48.138:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#Telegram:@config_proxy ### 1771456370536
