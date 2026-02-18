@@ -514,3 +514,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=%2F%3Fed%3
 vless://af60c1bb-763d-44c1-b015-bf314f41849d@89.149.242.21:1380?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#Telegram:@config_proxy{} ### 1771426122764
 vless://af60c1bb-763d-44c1-b015-bf314f41849d@109.61.18.198:1382?path=%2F&security=&encryption=none&type=ws#Telegram:@config_proxy ### 1771426127695
 vless://fb68baae-b598-416f-8a44-d54358a6a56c@n2.snappmarket.online:4434?security=&amp;encryption=none&amp;host=nobitex.ir&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1771426131311
+vless://Telegram%20chanel%20%3D%20%40digi_config@185.171.202.30:33514?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=umtoktgt8fKZ76DQbtut49eGGrfGZ7231IdblIvCPmQ&amp;host=mikrotik.com&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=yahoo.com&amp;sid=6f8de2cd56eb8ce9#Telegram:@config_proxy{} ### 1771426136226
