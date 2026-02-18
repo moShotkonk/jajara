@@ -504,3 +504,4 @@ vless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@vip-81.f-sub.cfd:1517?security=none
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053?path=%2F&security=tls&encryption=none&insecure=0&host=ir1.airpanel.top&type=ws&allowInsecure=0&sni=ir1.airpanel.top#proxymelimon ### 1771403657758
 vless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@vip-84.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%40flyv2ray ### 1771403662381
 vless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@vip-83.f-sub.cfd:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%40flyv2ray{} ### 1771403666190
+vless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@vip-77.f-sub.cfd:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%40flyv2ray{} ### 1771403670437
