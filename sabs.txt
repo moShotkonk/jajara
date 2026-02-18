@@ -573,3 +573,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.180.72.60:443?encryption=none&a
 vless://30ad109c-f1cf-40bc-a647-65a5079c65fe@engen.madarhome.ir:2076?security=none&amp;encryption=none&amp;host=myket.ir&amp;headerType=http&amp;type=tcp#NetAccount</code> ### 1771371633622
 vless://30ad109c-f1cf-40bc-a647-65a5079c65fe@finfil.madarhome.ir:2074?security=none&amp;encryption=none&amp;host=myket.ir&amp;headerType=http&amp;type=tcp#NetAccount ### 1771371633622
 vless://30ad109c-f1cf-40bc-a647-65a5079c65fe@dendenmark.madarhome.ir:2075?security=&amp;encryption=none&amp;host=myket.ir&amp;headerType=http&amp;type=tcp#NetAccount</code> ### 1771371633622
+vless://9523a24b-f6bf-339e-9950-32829162ffc2@104.16.250.22:443?encryption=none&amp;security=tls&amp;sni=dabaif0.webn.cc&amp;alpn=h3%2Ch2&amp;fp=chrome&amp;insecure=1&amp;type=ws&amp;host=dabaif0.webn.cc&amp;path=%2Fdb1024f4e56f542c#Telegram:@config_proxy{} ### 1771373232251
