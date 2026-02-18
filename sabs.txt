@@ -512,3 +512,4 @@ vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?security=&encrypt
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&encryption=none&insecure=1&host=ipv4.yasharteam.com&type=ws&allowInsecure=1&sni=ipv4.yasharteam.com#Telegram:@config_proxy ### 1771426114474
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.indevs.in&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.indevs.in#Telegram:@config_proxy{} ### 1771426118635
 vless://af60c1bb-763d-44c1-b015-bf314f41849d@89.149.242.21:1380?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#Telegram:@config_proxy{} ### 1771426122764
+vless://af60c1bb-763d-44c1-b015-bf314f41849d@109.61.18.198:1382?path=%2F&security=&encryption=none&type=ws#Telegram:@config_proxy ### 1771426127695
