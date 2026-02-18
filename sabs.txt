@@ -500,4 +500,4 @@ vless://2d48dffd-f9bc-4cfb-84c0-73ec6ff0536e@172.64.145.38:8443?path=%2F%3Fed%3D
 vless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@vip-84.f-sub.cfd:1517?security=none&allowInsecure=0&encryption=none&type=tcp&host=testspeed-foreign.tci.ir&path=/&headerType=http#Telegram:@config_proxy ### 1771403709109
 vless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@vip-83.f-sub.cfd:1517?security=none&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;host=testspeed-foreign.tci.ir&amp;path=/&amp;headerType=http#Telegram:@config_proxy{} ### 1771403713371
 vless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@vip-78.f-sub.cfd:1517?security=none&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;host=testspeed-foreign.tci.ir&amp;path=/&amp;headerType=http#Telegram:@config_proxy{} ### 1771403717576
-vless://c3a3cf2d-695a-44bc-ae61-86011e14ce25@marko.nightwolf.shop:57113?security=none&amp;encryption=none&amp;host=cloudflare.com&amp;headerType=http&amp;type=tcp#Telegram:@config_proxy{} ### 1771407475736
+vless://c3a3cf2d-695a-44bc-ae61-86011e14ce25@marko.nightwolf.shop:57113?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#Telegram:@config_proxy ### 1771407477231
