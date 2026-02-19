@@ -355,3 +355,4 @@ vless://13a4ea76-9199-4261-8d48-fac8f0c8bf46@F4.HaMrAhCoNf.Ir:2086?path=%2F&amp;
 vless://45d95284-05ce-4e8b-ad84-a6bcdfebcb59@144.31.92.173:443?security=reality&amp;encryption=none&amp;pbk=0A9nE6Scvg5oYRN8aRsLR-YqrvDNNX5s2UXa4yvyRkA&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple{} ### 1771523129625
 vless://fd8e52df-de0d-4eaa-88fa-fe6ea24fc841@94.184.18.230:9090?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#%40NETMelliAnti ### 1771523137444
 vless://041a8210-5697-4339-9c16-69cbd0292d67@85.133.234.223:11022?security=none&encryption=none&headerType=none&type=tcp#%40NETMelliAnti ### 1771526447054
+vless://12808e09-a11a-45b5-b299-191cda50f681@core.speedmizban.net:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%AE%2F%F0%9F%87%BA%F0%9F%87%B8%2F%F0%9F%87%AB%F0%9F%87%B7%20%40orangvpn{} ### 1771529801438
