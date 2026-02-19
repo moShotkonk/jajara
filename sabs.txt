@@ -381,3 +381,4 @@ vless://1a78ba25-1f6f-4496-b2a7-3bfec130a734@free-httpcustom-free-httpcustomhfre
 vless://9ec38c74-61b6-4aff-8501-0cf7ae45dcc3@fix130.wizard2shop.com:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=x1.pishi.lat&fp=android&type=ws&allowInsecure=0&sni=x1.pishi.lat#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple ### 1771509817318
 vless://34911a7b-a3d9-47fe-ac0d-e07eeeea4864@45.130.125.160:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=amorix.abresani.com&amp;type=ws&amp;allowInsecure=0&amp;sni=amorix.abresani.com#%40mehrosaboran{} ### 1771509826157
 vless://870b1ed0-d98b-4be2-8d57-ea6bb4a37ca3@194.145.119.12:80?security=none&encryption=none&host=bale.ai&headerType=http&type=tcp#%40NETMelliAnti ### 1771509835151
+vless://b57f971b-f6e2-42dc-b058-35f48b79acd3@it.theshire.ir:1616?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NETMelliAnti{} ### 1771509840421
