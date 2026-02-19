@@ -341,3 +341,4 @@ vless://a36e3773-cad9-4da8-a2d6-4708f3d7754f@45.130.125.160:443?mode=auto&amp;pa
 vless://10371edf-4e5a-46a5-bd19-c301ce371d14@mail.mizban-r.site:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@InfoTech_VK ### 1771515607524
 vless://53ca0d0b-a9dd-448f-a0c8-4fcbe95b8745@F1.HaMrAhCoNf.Ir:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=%E5%85%A8%E7%90%83%E7%BD%91%E7%BB%9C%E5%8A%A0%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0.hamrahconfig.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=xn----01-zf5fn54ga326efyestii8z9y2c.hamrahconfig.ir#%40NETMelliAnti{} ### 1771515643351
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%F0%9F%87%AC%F0%9F%87%A7GB-0280-NetFreedom0{} ### 1771519199989
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#ARGO_VPNN_23{} ### 1771519239958
