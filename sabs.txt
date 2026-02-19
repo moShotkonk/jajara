@@ -343,3 +343,4 @@ vless://53ca0d0b-a9dd-448f-a0c8-4fcbe95b8745@F1.HaMrAhCoNf.Ir:8443?path=%2F&amp;
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%F0%9F%87%AC%F0%9F%87%A7GB-0280-NetFreedom0{} ### 1771519199989
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#ARGO_VPNN_23{} ### 1771519239958
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#ARGO_VPNN_29 ### 1771519252227
+vless://ee82d334-2b55-4f9a-8228-c8f8e1cd378b@194.48.142.150:443?security=reality&amp;encryption=none&amp;pbk=p5K2ZF8AswAugTlEs2wXdmoZqjP8vAVkGAcnCkEfyUI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=s4.plan-vpn.ru&amp;sid=d3d62c692a64fa2d#ARGO_VPNN_30{} ### 1771519256962
