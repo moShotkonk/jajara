@@ -367,3 +367,4 @@ vless://b1405868-6823-4c32-810c-0363960b56c4@you2.configyous.site:2002?security=
 vless://a46011f9-1f63-4b75-9a4c-f34a08a42be8@18.198.197.235:22636?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40flyv2ray{} ### 1771512724541
 vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.79.230.41:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40flyv2ray{} ### 1771512727985
 vless://a36e3773-cad9-4da8-a2d6-4708f3d7754f@45.130.125.160:443?mode=auto&amp;path=%2Fdata%2Fapi&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=datas.meowchannel.ir#@ehsawn8{} ### 1771515603488
+vless://10371edf-4e5a-46a5-bd19-c301ce371d14@mail.mizban-r.site:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@InfoTech_VK ### 1771515607524
