@@ -183,3 +183,4 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@nodejs.org:443?path=%2F164.52.2.98%
 vless://e4598260-fb5e-4d0a-f0c2-64259f5c38e7@38.48.124.146:443?security=reality&amp;encryption=none&amp;pbk=Anr46KtqOMc-YF76WafAAMT-0JBv85RtgSTHRvHxwUg&amp;headerType=&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.xbox.com#ARGO_VPNN_70{} ### 1771597945694
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpES1NWWHAyckZPcENTaDBRNjB0Ynpn@178.208.91.118:19805#ARGO_VPNN_72 ### 1771597949631
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.26.7.205:2096?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#ARGO_VPNN_73 ### 1771597953978
+vless://643a3034-d3f9-4e03-acde-0e6ab3a238fb@chatgpt.com:443?path=%2F54.203.85.46&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#ARGO_VPNN_75 ### 1771597958509
