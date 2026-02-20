@@ -194,3 +194,4 @@ vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.120.127:2053?path=%2F&secur
 vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@104.26.15.21:443?path=%2F131.186.26.129&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=afrcloud22.mmv.kr&amp;type=ws&amp;allowInsecure=0&amp;sni=afrcloud22.mmv.kr#ARGO_VPNN_51{} ### 1771597993973
 vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?security=&encryption=none&headerType=none&type=tcp#ARGO_VPNN_52 ### 1771597998580
 vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@172.67.73.14:443?path=%2F167.179.110.68&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#ARGO_VPNN_53 ### 1771598003010
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZENtd2FUUXhLazZRQU16Rm5RZEhrUmh4SEYxZHVuaUJYNE9WOXhJekxFRT0@51.38.141.210:8389#ARGO_VPNN_55{} ### 1771598011093
