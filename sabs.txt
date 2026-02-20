@@ -202,3 +202,4 @@ vless://fa-7055554789-1771501420975576@62.3.12.191:443?security=reality&amp;encr
 vless://8731868b-7714-4282-af80-25c704de24a5@87.107.81.89:8081?security=none&amp;encryption=none&amp;host=anten.ir&amp;headerType=http&amp;type=tcp#%40mehrosaboran{} ### 1771573530413
 vless://8731868b-7714-4282-af80-25c704de24a5@lit.litiran.ir:2083?security=tls&encryption=none&insecure=0&host=image-bg.kafeistanbul.shop&type=ws&allowInsecure=0&sni=image-bg.kafeistanbul.shop#%40mehrosaboran ### 1771573534833
 vless://8731868b-7714-4282-af80-25c704de24a5@v4.vipshopkar9.shop:8081?security=none&amp;encryption=none&amp;host=anten.ir&amp;headerType=http&amp;type=tcp#%40mehrosaboran{} ### 1771573540279
+vless://8731868b-7714-4282-af80-25c704de24a5@lit.litiran.ir:2083?security=tls&amp;encryption=none&amp;insecure=0&amp;host=videogame-al.kafeistanbul.shop&amp;type=ws&amp;allowInsecure=0&amp;sni=videogame-al.kafeistanbul.shop#%40mehrosaboran{} ### 1771573544547
