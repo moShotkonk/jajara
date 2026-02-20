@@ -203,3 +203,4 @@ vless://ea5e99bf-9f8b-49a6-a7e6-5d71118aa7be@93.185.165.50:55211?security=realit
 vless://Telegram%20-%20ICV2RAY@5.161.157.83:443?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ARGO_VPNN_42{} ### 1771620479113
 vless://589bf544-d1c8-48f1-837b-ac919b757bd8@5.160.198.120:8001?security=&encryption=none&headerType=none&type=tcp#ARGO_VPNN_43 ### 1771620483816
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443?path=%2F57ba2ab1&security=tls&encryption=none&insecure=0&host=ovhwuxian.pai50288.uk&type=ws&allowInsecure=0&sni=ovhwuxian.pai50288.uk#ARGO_VPNN_44 ### 1771620488477
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443?path=%2F57ba2ab1&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=ovhwuxian.pai50288.uk&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=ovhwuxian.pai50288.uk#ARGO_VPNN_45{} ### 1771620491896
