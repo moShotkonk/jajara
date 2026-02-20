@@ -244,3 +244,4 @@ vless://6b060748-eacb-d0dd-3231-e07f5c99fced@s-4.wolf-service.top:8478?security=
 vless://6b060748-eacb-d0dd-3231-e07f5c99fced@BJ3.FASTSPEEDS.IR:212?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ARGO_VPNN_62{} ### 1771620671619
 vless://6b060748-eacb-d0dd-3231-e07f5c99fced@BJ1.FASTSPEEDS.IR:210?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ARGO_VPNN_64{} ### 1771620677681
 vless://6b060748-eacb-d0dd-3231-e07f5c99fced@BJ2.FASTSPEEDS.IR:211?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ARGO_VPNN_65{} ### 1771620683290
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YjA2MDc0OGVhY2JkMGRkMzIzMWUwN2Y1Yzk5ZmNlZA@s-4.donyadigital.top:4938#ARGO_VPNN_67 ### 1771620689184
