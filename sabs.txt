@@ -243,3 +243,4 @@ vless://6b060748-eacb-d0dd-3231-e07f5c99fced@BJ2.FASTSPEEDS.IR:211?security=&amp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YjA2MDc0OGVhY2JkMGRkMzIzMWUwN2Y1Yzk5ZmNlZA@s-4.donyadigital.top:4938#ARGO_VPNN_67 ### 1771620689184
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.103:8080#%20{} ### 1771623542576
 vless://jina@4.185.113.10:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=jina-418511310-direct.yektanet.co#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe{} ### 1771623552091
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#ARGO_VPNN_39{} ### 1771623556361
