@@ -206,3 +206,4 @@ vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?mode=auto&amp;pa
 vless://ci49kfwjrc@104.21.17.104:8880?mode=auto&amp;path=%2Fcompass%2Fcdn&amp;security=&amp;encryption=none&amp;host=ci49kfwjrc-57129121185.hediiigate.com&amp;type=xhttp#ARGO_VPNN_33{} ### 1771598062578
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2086?path=%2F%3Fed%3D2080&security=&encryption=none&host=bio.mehrsazi.ir&type=httpupgrade#ARGO_VPNN_35 ### 1771598067330
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#ARGO_VPNN_37{} ### 1771598071633
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#ARGO_VPNN_38 ### 1771598075724
