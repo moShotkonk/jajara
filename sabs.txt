@@ -245,3 +245,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.103:8
 vless://jina@4.185.113.10:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=jina-418511310-direct.yektanet.co#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe{} ### 1771623552091
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#ARGO_VPNN_39{} ### 1771623556361
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR3REY0VZTm5VZzJXWnZxd0xURGhB@62.133.63.21:1080#ARGO_VPNN_9{} ### 1771623560964
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGM0NTVjOWYxOWFhM2E1@57.129.94.79:11206#ARGO_VPNN_13 ### 1771623565654
