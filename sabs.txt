@@ -197,3 +197,4 @@ vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@172.67.73.14:443?path=%2F167.179.11
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZENtd2FUUXhLazZRQU16Rm5RZEhrUmh4SEYxZHVuaUJYNE9WOXhJekxFRT0@51.38.141.210:8389#ARGO_VPNN_55{} ### 1771598011093
 vless://42b91501-ae08-48f0-a844-bed98c30caf9@77.83.245.174:21477?security=reality&encryption=none&pbk=SvZ_Qmi5HKfij9joapShBXSZf_EruR5eZSCTWZw4AQI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=80384ca8d6353a77#ARGO_VPNN_57 ### 1771598015652
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&amp;encryption=none&amp;pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fuck.rkn&amp;sid=01#ARGO_VPNN_59{} ### 1771598022424
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.11.137.81:443#ARGO_VPNN_60{} ### 1771598026707
