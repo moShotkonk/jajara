@@ -248,3 +248,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR3REY0VZTm5VZzJXWnZxd0xURGhB@62.133.63.21:1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGM0NTVjOWYxOWFhM2E1@57.129.94.79:11206#ARGO_VPNN_13 ### 1771623565654
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#ARGO_VPNN_15 ### 1771623569668
 vless://82d94161-7c9e-4675-9856-1695f02ebd87@ip.linux-panel.com:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple ### 1771623580059
+vless://d3e587e7-9153-418e-8901-6c31699b19f3@104.18.32.47:2096?mode=auto&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=datisde2.rahagp.ir&amp;type=xhttp&amp;allowInsecure=1&amp;sni=datisde2.rahagp.ir#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple{} ### 1771623583657
