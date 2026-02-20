@@ -218,3 +218,4 @@ vless://d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73@zyro.adslimit.info:2345?security=&e
 vless://20037d17-d670-4e6a-9dba-4d190e5ed7d8@146.190.227.252:20340?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;headerType=&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0#ARGO_VPNN_23{} ### 1771620544740
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.138:2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.indevs.in&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.indevs.in#ARGO_VPNN_24{} ### 1771620548790
 vless://2b195252-b849-4250-b38d-0fa32b69b652@nger.omainnames.com:18654?security=&encryption=none&headerType=none&type=tcp#ARGO_VPNN_26 ### 1771620553873
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?path=%2F57ba2ab1&security=tls&encryption=none&insecure=1&host=ovhwuxian.pai50288.uk&type=ws&allowInsecure=1&sni=ovhwuxian.pai50288.uk#ARGO_VPNN_27 ### 1771620557551
