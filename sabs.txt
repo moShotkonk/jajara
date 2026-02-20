@@ -202,3 +202,4 @@ vless://20adc847-4159-4f39-b79f-d563b660945f@simurgh.adslimit.info:2345?security
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZENtd2FUUXhLazZRQU16Rm5RZEhrUmh4SEYxZHVuaUJYNE9WOXhJekxFRT0@51.38.141.210:8388#ARGO_VPNN_64{} ### 1771598037920
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2086?path=%2F&amp;security=&amp;encryption=none&amp;host=bio.mehrsazi.ir&amp;type=httpupgrade#ARGO_VPNN_30{} ### 1771598050301
 vless://daac11cb-7acd-40fa-ae53-2af2d5993878@151.101.9.67:80?path=%2Fws&amp;security=&amp;encryption=none&amp;host=arps.global.ssl.fastly.net&amp;type=ws#ARGO_VPNN_31{} ### 1771598055002
+vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;host=barcodevpn.global.ssl.fastly.net&amp;type=xhttp#ARGO_VPNN_32{} ### 1771598058100
