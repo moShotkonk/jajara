@@ -225,3 +225,4 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?security=reali
 vless://6b060748-eacb-d0dd-3231-e07f5c99fced@irguard.rahdar.pro:443?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ARGO_VPNN_73{} ### 1771620577470
 vless://6b060748-eacb-d0dd-3231-e07f5c99fced@fI.node.bytespecter.com:80?security=&amp;encryption=none&amp;host=mir-data-60.myket.ir&amp;headerType=http&amp;type=tcp#ARGO_VPNN_76{} ### 1771620585477
 vless://6b060748-eacb-d0dd-3231-e07f5c99fced@H1.ELDENRINGSHOP.IR:8443?mode=multi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=grpc&amp;serviceName=vless&amp;allowInsecure=0&amp;sni=j1.roshdadcollection.ir#ARGO_VPNN_77{} ### 1771620590233
+vless://6b060748-eacb-d0dd-3231-e07f5c99fced@185.124.175.163:80?security=&amp;encryption=none&amp;host=mir-data-60.myket.ir&amp;headerType=http&amp;type=tcp#ARGO_VPNN_78{} ### 1771620595165
