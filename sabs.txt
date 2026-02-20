@@ -243,3 +243,4 @@ vless://dfb89560-d029-4fa8-b49c-feedfc5078ef@ip3-fast.tyryqyserver.ir:80?path=%2
 vless://6b060748-eacb-d0dd-3231-e07f5c99fced@s-4.wolf-service.top:8478?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ARGO_VPNN_61{} ### 1771620666662
 vless://6b060748-eacb-d0dd-3231-e07f5c99fced@BJ3.FASTSPEEDS.IR:212?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ARGO_VPNN_62{} ### 1771620671619
 vless://6b060748-eacb-d0dd-3231-e07f5c99fced@BJ1.FASTSPEEDS.IR:210?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ARGO_VPNN_64{} ### 1771620677681
+vless://6b060748-eacb-d0dd-3231-e07f5c99fced@BJ2.FASTSPEEDS.IR:211?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ARGO_VPNN_65{} ### 1771620683290
