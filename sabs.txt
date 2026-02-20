@@ -208,3 +208,4 @@ vless://14818654-7689-453a-9a1f-4c72f89782d5@germ-node.genadata.online:2040?secu
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=ovhwuxian.pai50288.uk&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ovhwuxian.pai50288.uk#ARGO_VPNN_48{} ### 1771620501489
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#ARGO_VPNN_49{} ### 1771620505046
 vless://22470ee7-74b2-4b23-b164-bc87930d7e96@91.107.253.99:33133?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ARGO_VPNN_50{} ### 1771620509428
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjg3MWRiMDJlNWY3ZTJm@57.129.35.242:11201#ARGO_VPNN_10{} ### 1771620514041
