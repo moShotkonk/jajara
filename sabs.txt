@@ -222,3 +222,4 @@ vless://a4d36ed2-6256-4550-923a-fa058933aeb1@poli.appleseraj.ir:2083?path=%2F%3F
 vless://a4d36ed2-6256-4550-923a-fa058933aeb1@belnn.appleseraj.ir:2053?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=rau.mastermarly.ir&amp;fp=chrome&amp;type=ws&amp;sni=rau.mastermarly.ir#ARGO_VPNN_13{} ### 1771598140260
 vless://a4d36ed2-6256-4550-923a-fa058933aeb1@belnn.appleseraj.ir:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=chz.mastermarly.ir&fp=chrome&type=ws&sni=chz.mastermarly.ir#ARGO_VPNN_14 ### 1771598144552
 vless://a4d36ed2-6256-4550-923a-fa058933aeb1@poli.appleseraj.ir:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=france.mastermarly.ir&amp;type=ws&amp;sni=france.mastermarly.ir#ARGO_VPNN_15{} ### 1771598147669
+vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@dnss.iraniranshopdashnoard.ir:2086?path=%2F&amp;security=&amp;encryption=none&amp;host=bio.mehrsazi.ir&amp;type=httpupgrade#ARGO_VPNN_17{} ### 1771598151940
