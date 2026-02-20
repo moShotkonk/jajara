@@ -187,3 +187,4 @@ vless://662d440c-7567-41ec-b220-c7d69cb2f67c@193.151.151.44:8011?mode=auto&path=
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?encryption=none&amp;security=tls&amp;sni=hetz.x-smm.com&amp;type=ws&amp;host=hetz.x-smm.com&amp;path=%2F45.76.183.217%3D49292#%20{} ### 1771615963173
 vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&sid=910aab&type=tcp&headerType=none#%20 ### 1771615966113
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0@46.38.143.236:60633?#g6{} ### 1771615982895
+vless://fbc6ffba-5161-4983-88de-7c814d1b692b@169.40.2.234:22750?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%40NETMelliAnti{} ### 1771616001980
