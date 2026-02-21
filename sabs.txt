@@ -319,3 +319,4 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&am
 vless://42ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?mode=auto&amp;path=%2FTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjey&amp;security=&amp;encryption=none&amp;host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&amp;type=xhttp#ARGO_VPNN_19{} ### 1771681300617
 vless://5cfbed15-e39a-4067-b20b-9243bfb8c234@3.72.62.160:15200?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ARGO_VPNN_20{} ### 1771681305388
 vless://5cfbed15-e39a-4067-b20b-9243bfb8c234@3.72.62.160:15200?security=&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#ARGO_VPNN_21 ### 1771681309605
+vless://5cfbed15-e39a-4067-b20b-9243bfb8c234@3.72.62.160:15200?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#ARGO_VPNN_22{} ### 1771681313551
