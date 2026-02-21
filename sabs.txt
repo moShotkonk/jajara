@@ -343,3 +343,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.45.41:80?security=none&amp;t
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.26.14:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1771686393580
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.21.192.45:443?security=tls&sni=test35.pages.dev&type=ws&host=test35.pages.dev&path=/#@Hope_Net-join-us-on-Telegram ### 1771686398092
 vless://99ae469c-ab90-4ece-8e65-c93b05bb8e59@212.80.8.22:10780?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NETMelliAnti{} ### 1771688245641
+vless://2a14c345-950b-416b-a029-3aa4751cb1d5@vip-80.f-sub.cfd:1517?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple ### 1771688251118
