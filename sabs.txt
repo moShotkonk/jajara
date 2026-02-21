@@ -288,3 +288,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@65.109.200.234:443?path=%2F%3Fed%3D
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@20.33.23.66:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.111000.indevs.in&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.indevs.in#ARGO_VPNN_65{} ### 1771681149394
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#ARGO_VPNN_66{} ### 1771681152778
 vless://6a03f18d-c94d-417c-9e25-625c7f76ff92@3.71.13.143:11924?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ARGO_VPNN_23{} ### 1771681157077
+vless://70e384d1-8f87-42c2-9a9e-ad75589ab54b@3.67.76.232:443?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ARGO_VPNN_27{} ### 1771681167756
