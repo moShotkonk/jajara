@@ -301,3 +301,4 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&am
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=cd11.thisiswe.uno&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=cd11.thisiswe.uno#ARGO_VPNN_41{} ### 1771681218115
 vless://a7fbea79-18c8-41b8-d519-457d66f2d798@18.194.41.196:443?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ARGO_VPNN_43{} ### 1771681221451
 vless://0154d742-3233-4c61-f81c-7407fcf28b87@18.153.93.127:443?security=&encryption=none&headerType=none&type=tcp#ARGO_VPNN_1 ### 1771681232822
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=%2Fpabloping&security=&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#ARGO_VPNN_3 ### 1771681236952
