@@ -243,3 +243,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.22.68:80?security=none&amp;t
 vless://bf8cf930-46c3-499a-a75a-82bdf4a2439b@91.206.177.113:38809?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40NETMelliAnti{} ### 1771675331506
 vless://0af70cb3-72d2-4811-fbff-fdfd53b8d841@3.72.49.247:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40InfoTech_VK{} ### 1771677886331
 vless://7e015ae5-8173-4fbd-a9a1-a7d5ffa3826f@18.184.190.48:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40InfoTech_VK{} ### 1771677890382
+vless://a7fbea79-18c8-41b8-d519-457d66f2d798@18.194.41.196:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40InfoTech_VK{} ### 1771677896676
