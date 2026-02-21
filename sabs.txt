@@ -321,3 +321,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@147.185.161.138:2096?path=%2F%3Fed%
 vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.14.104:8880?mode=gun&security=&encryption=none&type=grpc#ARGO_VPNN_64 ### 1771682970640
 vless://94a03e9a-74d5-4036-95e9-563cc19355de@62.133.60.50:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=decdn12.suio.me#ARGO_VPNN_66 ### 1771682975344
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.231.138:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#ARGO_VPNN_67 ### 1771682979462
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.164.238:2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.jpmj.dev&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.jpmj.dev#ARGO_VPNN_68{} ### 1771682984263
