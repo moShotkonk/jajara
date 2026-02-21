@@ -273,3 +273,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030#ARG
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=all-um2.netsnap.ir.&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=all-um2.netsnap.ir.#ARGO_VPNN_73{} ### 1771681075752
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#ARGO_VPNN_74 ### 1771681080758
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#ARGO_VPNN_77{} ### 1771681084612
+vless://de41e034-f3b5-4465-b616-552f2019885a@18.158.60.65:40869?security=&encryption=none&headerType=none&type=tcp#ARGO_VPNN_47 ### 1771681090914
