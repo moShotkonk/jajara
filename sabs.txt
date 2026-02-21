@@ -274,3 +274,4 @@ vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=%2F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#ARGO_VPNN_74 ### 1771681080758
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#ARGO_VPNN_77{} ### 1771681084612
 vless://de41e034-f3b5-4465-b616-552f2019885a@18.158.60.65:40869?security=&encryption=none&headerType=none&type=tcp#ARGO_VPNN_47 ### 1771681090914
+vless://51c27910-f70a-4dac-b8f1-88ac6f1cbdf5@ss.mrrnasr.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=mopd.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=1&sni=speedtest.net#ARGO_VPNN_51 ### 1771681100827
