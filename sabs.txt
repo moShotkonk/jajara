@@ -400,3 +400,4 @@ vless://c8c61b88-acf5-4e25-8128-b7c92bc719f8@it.jemspeed.top:39296?security=none
 vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@18.199.146.12:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40VpnMaan%201{} ### 1771705586290
 vless://d53bfd68-e105-41b9-e741-b8a453c8da73@3.67.71.12:46340?security=&encryption=none&headerType=&type=tcp#%40VpnMaan%202 ### 1771705595162
 vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.127.222.83:443?security=&encryption=none&headerType=&type=tcp#%40VpnMaan%206 ### 1771705599166
+vless://d2d6a501-5440-4159-94e9-fdcff756e156@3.69.242.37:26127?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40VpnMaan%207{} ### 1771705602897
