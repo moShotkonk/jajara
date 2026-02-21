@@ -369,3 +369,4 @@ vless://a46011f9-1f63-4b75-9a4c-f34a08a42be8@18.194.145.157:22636?security=&amp;
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hetz.x-smm.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=hetz.x-smm.com#%40InfoTech_VK{} ### 1771697080363
 vless://cbf69c40-f872-4cfb-858e-dd143468b272@3.70.239.50:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40InfoTech_VK{} ### 1771697086630
 vless://907ccc0f-bd56-4726-a877-d72a02125b6c@18.195.213.223:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40InfoTech_VK{} ### 1771697090879
+vless://8e4e9b67-9294-43dd-e01a-22823d8cefab@3.79.114.176:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40InfoTech_VK{} ### 1771697095307
