@@ -214,3 +214,4 @@ vless://53cddd30-34a1-32dd-b598-c1c4c8a0f813@104.16.249.46:443/?type=ws&amp;encr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDgyLjM4LjMxLjYxOjgwODA=#NetAccount</code> ### 1771642183485
 vless://nasnet@162.19.10.94:443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=nasnet-162191094-direct.sharghdaily.co#ARGO_VPNN_25{} ### 1771652290821
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319#%F0%9F%87%B8%F0%9F%87%ACSG-0275-NetFreedom0{} ### 1771658839017
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@172.105.199.111:8080#%F0%9F%87%AF%F0%9F%87%B5JP-0215-NetFreedom0{} ### 1771658848337
