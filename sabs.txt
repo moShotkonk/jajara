@@ -421,3 +421,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.248.251:443?path=%2F%3Fed%3D2
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.248.251:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#ARGO_VPNN_64 ### 1771790575219
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.94.77.169:2053?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.v6.navy&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.v6.navy#ARGO_VPNN_69{} ### 1771790580444
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.119.124.171:2053?path=%2Fv2rayNplus%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.v6.navy&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.v6.navy#ARGO_VPNN_72{} ### 1771790584334
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#ARGO_VPNN_74{} ### 1771790588745
