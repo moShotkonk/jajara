@@ -380,3 +380,4 @@ vless://f9f8289a-ce61-45d4-e7a3-5b1c6b9c126d@18.156.128.77:15948?security=&amp;e
 vless://8a192afa-6ae2-4525-dd83-b99150e709a6@3.126.92.224:443?security=&encryption=none&headerType=&type=tcp#%40InfoTech_VK ### 1771758431846
 vless://ec7414ac-4550-414d-afed-5f7ec74ddc32@3.70.204.200:443?security=&encryption=none&headerType=&type=tcp#%40InfoTech_VK ### 1771758436256
 vless://21889ffd-54ee-40f9-e9b0-f1838908579a@3.69.31.126:443?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple ### 1771758458808
+vless://0525f54a-568b-4f0b-89e5-c2666e800d83@188.114.99.160:8443?path=%2Fdownloader&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=matoride.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=matoride.adaspoloandco.com#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple{} ### 1771758462679
