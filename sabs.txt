@@ -417,3 +417,4 @@ vless://4ca14b7d-7719-4756-df72-905e9cf37a73@3.71.78.215:443?security=&amp;encry
 vless://0af70cb3-72d2-4811-fbff-fdfd53b8d841@3.70.206.65:443?security=&encryption=none&headerType=&type=tcp#%40InfoTech_VK ### 1771790556029
 vless://21889ffd-54ee-40f9-e9b0-f1838908579a@18.197.192.170:443?security=&encryption=none&headerType=&type=tcp#%40InfoTech_VK ### 1771790560432
 vless://4e580a1a-3ff5-456d-a1d6-b1640bea4e9e@51.254.142.162:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=1&amp;flow=xtls-rprx-vision&amp;sni=51.254.142.162#ARGO_VPNN_63{} ### 1771790569930
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.248.251:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.indevs.in&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.indevs.in#ARGO_VPNN_64{} ### 1771790573607
