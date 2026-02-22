@@ -446,3 +446,4 @@ vmess://eyJhZGQiOiIxNjcuMjM1LjI4LjI0MiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI2Yjdj
 ss://YWVzLTI1Ni1nY206ZmFjMTQwZmMtOTk4NS00NDE4LTA4ZDEtN2I0NzNjM2UwNDM1@38557654738726634736956357123082.international-ixp.com:11309?type=tcp#%40v2rayconfigamir%206867{} ### 1771797877733
 vless://a09d2931-c961-4f4e-9288-eab639c5fc03@my.kiomars.shop:6664?security=reality&amp;encryption=none&amp;pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=play.google.com&amp;sid=c3b6ed4da7a983c7#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple{} ### 1771799254665
 vless://c21ba381-5808-4098-b94d-86c468a683d9@3.125.43.74:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40InfoTech_VK{} ### 1771799264611
+vless://67fd9d67-7693-4a28-e7a1-fb02c8008cef@18.153.68.212:50170?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40InfoTech_VK{} ### 1771799269153
