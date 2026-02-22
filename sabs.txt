@@ -464,3 +464,4 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096?path=
 vless://8a192afa-6ae2-4525-dd83-b99150e709a6@18.194.138.54:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40InfoTech_VK{} ### 1771785813918
 vless://7e015ae5-8173-4fbd-a9a1-a7d5ffa3826f@3.121.208.22:443?security=&encryption=none&headerType=&type=tcp#%40InfoTech_VK ### 1771785819110
 vless://794237e1-71c3-43bd-e51c-8b7e83b857d5@18.156.77.36:22379?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40InfoTech_VK{} ### 1771785822718
+vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.79.194.3:443?security=&encryption=none&headerType=&type=tcp#%40InfoTech_VK ### 1771785827412
