@@ -432,3 +432,4 @@ vless://c8dff83b-54f8-41b2-8829-7f6b01a9f187@solitary-voice-62ec.alird7575.worke
 vless://4ba18e09-571e-4b81-a360-8d74bb3a903e@18.197.51.172:44708?security=&encryption=none&headerType=none&type=tcp#ARGO_VPNN_58 ### 1771790637168
 ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ@149.102.149.207:443#ARGO_VPNN_59{} ### 1771790641362
 vless://7bf5480b-a130-4e9d-a9d2-07f354653853@shop2.afraserver4.top:7335?security=&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#ARGO_VPNN_60 ### 1771790645573
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#ARGO_VPNN_61 ### 1771790650232
