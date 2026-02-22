@@ -440,3 +440,4 @@ vless://24d851c4-baaf-49f4-ad36-11b548983a5b@3.64.228.17:25349?security=&amp;enc
 vless://a5927ac1-b40c-4b4a-81c3-39b294209167@18.153.105.111:44829?security=&encryption=none&headerType=&type=tcp#%40InfoTech_VK ### 1771778415191
 vless://9a5a118d-06ab-4064-fe4b-89e47f1368b2@18.196.152.194:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40InfoTech_VK{} ### 1771778421093
 vless://7d2bcb89-7268-4c9d-ac23-1ef32b732e98@3.79.233.47:13107?security=&encryption=none&headerType=&type=tcp#%40InfoTech_VK ### 1771778425924
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.12.149:2052?mode=auto&amp;path=%2Fpabloping&amp;security=none&amp;encryption=none&amp;host=updn.pabloping.pro&amp;type=xhttp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple{} ### 1771778429456
