@@ -389,3 +389,4 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.68.69:443?path=/?ed=2048&amp
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.99.106:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1771761710755
 vless://de524de8-06a2-4026-c602-651f0304151b@18.194.44.58:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40InfoTech_VK{} ### 1771764415157
 vless://9b4bf821-7aa5-48f1-8de4-c072c0574f90@3.64.10.232:33356?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40InfoTech_VK{} ### 1771764419801
+vless://42436f1d-5bdd-4b3a-8649-a17ef75e9672@18.199.220.61:48307?security=&encryption=none&headerType=&type=tcp#%40InfoTech_VK ### 1771764425797
