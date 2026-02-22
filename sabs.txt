@@ -429,4 +429,4 @@ vless://d5a5511a-29ed-495c-9b7c-152a326c09c5@azinsite.amir777.sbs:2010?security=
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.65.30.136:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#ARGO_VPNN_47 ### 1771790615834
 vless://794237e1-71c3-43bd-e51c-8b7e83b857d5@18.156.77.36:22379?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ARGO_VPNN_49{} ### 1771790622442
 vless://c8dff83b-54f8-41b2-8829-7f6b01a9f187@solitary-voice-62ec.alird7575.workers.dev:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0#ARGO_VPNN_52{} ### 1771790627957
-vless://4ba18e09-571e-4b81-a360-8d74bb3a903e@18.197.51.172:44708?security=&encryption=none&headerType=none&type=tcp#ARGO_VPNN_58 ### 1771790637168
+vless://4ba18e09-571e-4b81-a360-8d74bb3a903e@18.197.51.172:44708?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ARGO_VPNN_58{} ### 1771790639365
