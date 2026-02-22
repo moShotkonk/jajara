@@ -461,3 +461,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.73:443?security=tls&amp;
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.105.248:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1771801583375
 vless://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.124.4.215:59599?security=none&encryption=none&headerType=none&type=tcp#%40mehrosaboran ### 1771801588038
 vless://a4d89b95-0e8a-454a-ab13-f89d22e045f8@18.185.49.177:46860?security=none&encryption=none&headerType=none&type=tcp#%40mehrosaboran ### 1771801592020
+vless://3487ca00-617a-432e-be76-723a870f03d0@3.66.18.91:19937?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40mehrosaboran{} ### 1771801596496
