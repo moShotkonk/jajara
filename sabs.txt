@@ -422,3 +422,4 @@ vless://42436f1d-5bdd-4b3a-8649-a17ef75e9672@18.197.254.88:48307?security=&encry
 vless://d077cd35-4410-4aea-f9ef-5cd0310a742d@18.157.165.161:17083?security=&amp;encryption=none&amp;headerType=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&amp;type=tcp#%40ghalagyann%206{} ### 1771790743696
 vless://9a887970-9742-48fd-ee77-57735bdc1d49@3.123.20.181:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple{} ### 1771792100858
 vless://5070f55f-1666-4d55-8817-8200dd4f7ea1@3.70.227.1:28027?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple ### 1771792105683
+vless://d5880da4-750c-4bdf-807f-0f6d5888f0f3@45.130.125.160:2095?path=%2F%3Fed%3D2096&amp;security=none&amp;encryption=none&amp;host=aza002.vaslbash.site&amp;type=httpupgrade#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple{} ### 1771792115343
