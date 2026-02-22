@@ -1,5 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe ### 1771664954618
-vless://9a5de33b-b878-45da-bc3c-4511f6aa9a0b@151.101.34.36:443?mode=auto&amp;path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=betaden.global.ssl.fastly.net&amp;fp=chrome&amp;type=xhttp&amp;sni=betaden.global.ssl.fastly.net#%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20kurdistan_vpn%40{} ### 1771664968850
 vless://55a543b0-1ba4-482a-8f34-a705fe6c5f11@vip-82.f-sub.cfd:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#%40NETMelliAnti{} ### 1771668258771
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#%F0%9F%87%BA%F0%9F%87%B2JOIN%E2%9E%A4%40V2RRvip%20%28U%E2%80%A2S%E2%80%A2A%29 ### 1771669928530
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.90.81.219:443#%F0%9F%87%AE%F0%9F%87%B9JOIN%E2%9E%A4%40V2RRvip%20%28Italy%29{} ### 1771669932599
@@ -409,3 +407,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.123.222:80?security=none&amp
 vless://042c7251-327e-4900-a937-d6d1be58c92d@162.159.152.17:443?security=tls&sni=SHaDiRadcaFeBaZaRIrV2rayGmoneCoMShop.FzSAV.CoM.&type=grpc&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram ### 1771772770299
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.81.249:80?type=ws&amp;host=us3.rtacg.com&amp;path=%2F#@Hope_Net-join-us-on-Telegram{} ### 1771772774664
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.253.235:443?security=tls&amp;sni=sandWorm.PaGES.DEv&amp;type=ws&amp;host=sANDWOrm.pAGEs.DeV&amp;path=/07n1q4ys4Pwba7qM&amp;fp=chrome&amp;alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram{} ### 1771772778211
+vless://7007111a-c28b-4ab1-8d28-bc7b42681028@wolf2.adslimit.info:2345?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40Clynoid%20-%20%D8%AA%D8%A7%DA%A9%D8%B3%DB%8C%DA%A9%20-{} ### 1771774691102
