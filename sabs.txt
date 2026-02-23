@@ -468,3 +468,4 @@ vless://fca42527-0f5f-4227-9554-ba32702fe90c@3.66.163.128:443?type=tcp&amp;encry
 vless://c20adfae-5ae8-4e8b-d34f-d6b425b7e665@3.70.120.79:443?type=tcp&amp;encryption=none&amp;security=none#%40InfoTech_VK{} ### 1771877145654
 vless://a0891e86-ce1f-4e1b-e47c-84c890f1b130@3.121.213.82:443?type=tcp&amp;encryption=none&amp;security=none#%40InfoTech_VK{} ### 1771877149870
 vless://8e4e9b67-9294-43dd-e01a-22823d8cefab@3.120.186.36:443?type=tcp&amp;encryption=none&amp;security=none#%40InfoTech_VK{} ### 1771877156330
+vless://c21ba381-5808-4098-b94d-86c468a683d9@18.192.49.87:443?type=tcp&amp;encryption=none&amp;security=none#%40InfoTech_VK{} ### 1771877159752
