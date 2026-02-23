@@ -462,3 +462,4 @@ vless://15a74a4c-d86c-45a5-a6b5-0afc8dc428fe@172.67.202.220:2087?security=tls&sn
 vless://cff4b984-bbf2-4a3c-9e2f-167910e458b4@162.159.152.19:443?security=tls&sni=v2ray1ng.pages.dev&type=ws&host=v2ray1ng.pages.dev&path=%2F%40V2ray1_ng%2C%40V2ray1_ng%2C%40V2ray1_ng%2C%40V2ray1_ng%2C%40V2ray1_ng%2C%40V2ray1_ng%2C%40V2ray1_ng%2C%40V2ray1_ng&fp=random#@Hope_Net-join-us-on-Telegram ### 1771877111026
 vless://a7fbea79-18c8-41b8-d519-457d66f2d798@3.65.2.0:443?type=tcp&encryption=none&security=none#%40InfoTech_VK ### 1771877118293
 vless://ec7414ac-4550-414d-afed-5f7ec74ddc32@3.120.177.126:443?type=tcp&encryption=none&security=none#%40InfoTech_VK ### 1771877126354
+vless://4ca14b7d-7719-4756-df72-905e9cf37a73@18.196.176.150:443?type=tcp&encryption=none&security=none#%40InfoTech_VK ### 1771877130235
