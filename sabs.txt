@@ -1,4 +1,3 @@
-vless://83dff50f-b9b3-4124-be79-215c742b8134@18.156.175.205:42314?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40InfoTech_VK{} ### 1771697106306
 vless://10d7df50-b22d-406d-9e64-3e831fa0149e@3.127.211.41:44586?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40InfoTech_VK{} ### 1771697109751
 vless://7396c077-f5cb-4808-84ca-92f268d79b3d@3.71.80.241:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40InfoTech_VK{} ### 1771697114384
 vless://ec7414ac-4550-414d-afed-5f7ec74ddc32@3.70.111.47:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40InfoTech_VK{} ### 1771697118710
@@ -454,3 +453,4 @@ vless://c306f9dc-771b-4fa3-bdad-364c898a169a@185.146.173.237:2052?security=none&
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.47.37:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1771805093849
 vless://14165b8b-17ee-4c86-808c-9d6afd4f3b69@104.17.249.203:443?security=tls&sni=api3.htve.ir&type=ws&path=/#@Hope_Net-join-us-on-Telegram ### 1771805098233
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.89.219:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1771805102413
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.67.66.74:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1771805106427
