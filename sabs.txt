@@ -479,3 +479,4 @@ vless://5070f55f-1666-4d55-8817-8200dd4f7ea1@3.79.180.190:28027?type=tcp&amp;enc
 vless://604b75e0-20fc-4718-e648-37817fcf7bf6@3.76.224.152:52689?type=tcp&encryption=none&security=none#%40InfoTech_VK ### 1771877196745
 vless://3655caf2-a709-4e44-f353-773ddda24d7b@3.72.3.97:36512?type=tcp&amp;encryption=none&amp;security=none#%40InfoTech_VK{} ### 1771877201419
 vless://403b2b80-703b-4498-eb92-96be57848d39@3.68.83.161:50256?type=tcp&amp;encryption=none&amp;security=none#%40InfoTech_VK{} ### 1771877205375
+vless://5921e091-fd96-473e-ed51-626e6b61f089@3.65.60.54:443?type=tcp&encryption=none&security=none#%40InfoTech_VK ### 1771877209713
