@@ -449,3 +449,4 @@ vless://c21ba381-5808-4098-b94d-86c468a683d9@18.192.49.87:443?security=&amp;encr
 vless://fca42527-0f5f-4227-9554-ba32702fe90c@3.66.163.128:443?security=&encryption=none&headerType=&type=tcp#%40InfoTech_VK ### 1771877038237
 vless://929358d5-8d10-4a0e-afe0-58d563d6ee42@18.196.124.254:49159?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40InfoTech_VK{} ### 1771877042880
 vless://998df05b-3af8-cd7a-dce0-82721b0ea97f@172.65.147.63:3389?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple{} ### 1771877062283
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F%3FTELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D512&security=tls&encryption=none&insecure=0&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=cd11.thisiswe.uno#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple ### 1771877067342
