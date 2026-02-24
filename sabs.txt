@@ -355,3 +355,4 @@ vless://4e125438-1a39-440e-95fc-36b9dec03e5f@141.101.115.71:443?path=%2Ffaq&amp;
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=%2Fpabloping%2F&security=&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#ARGO_VPNN_17 ### 1771949006385
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@188.114.98.0:2052?mode=auto&path=pabloping&security=&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#ARGO_VPNN_18 ### 1771949010762
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&amp;path=pabloping&amp;security=&amp;encryption=none&amp;host=nlbv2.pabloping.pro&amp;type=xhttp#ARGO_VPNN_20{} ### 1771949014980
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&amp;path=%2Fpabloping&amp;security=&amp;encryption=none&amp;host=nlbv2.pabloping.pro&amp;type=xhttp#ARGO_VPNN_21{} ### 1771949019125
