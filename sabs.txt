@@ -369,3 +369,4 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.215.240:80?type=ws&amp;host=
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.164.204:80?type=ws&amp;host=us3.rtacg.com&amp;path=%2F#@Hope_Net-join-us-on-Telegram{} ### 1771953005904
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.172.53:80?type=ws&amp;host=kr1.175852.xyz&amp;path=/abcde#@Hope_Net-join-us-on-Telegram{} ### 1771953009940
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.167.127:80?type=ws&amp;host=kr1.175852.xyz&amp;path=/abcde#@Hope_Net-join-us-on-Telegram{} ### 1771953014494
+vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?encryption=none&security=none&type=tcp&headerType=none#%20 ### 1771953019497
