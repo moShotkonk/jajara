@@ -359,3 +359,4 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&am
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.101.2:443?security=tls&amp;sni=mmdv2.pages.dev&amp;type=ws&amp;host=mmdv2.pages.dev&amp;path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram{} ### 1771949028053
 vless://b67dd3f7-8a02-4321-b7a7-bcbc38930e10@104.17.148.22:2083?security=tls&sni=dl.tammam.ir&type=ws&host=dl.tammam.ir&path=%2Fws&fp=chrome&alpn=h2#@Hope_Net-join-us-on-Telegram ### 1771949032323
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.59.61:80?type=ws&amp;host=kr1.175852.xyz&amp;path=/abcde#@Hope_Net-join-us-on-Telegram{} ### 1771949040956
+vless://cfa14880-381f-4524-bb41-02c96a7e8832@1.37.77.220:80?security=none&amp;type=ws&amp;host=freedom1.hamrahmarzban.com#@Hope_Net-join-us-on-Telegram{} ### 1771949045493
