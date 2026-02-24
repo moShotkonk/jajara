@@ -325,3 +325,4 @@ vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@45.13.119.38:443?security=reality&a
 vless://830d006b-a1c1-4990-be92-478a47e249c5@ip.speedcheck.mobileemdad.top:4450?security=reality&amp;encryption=none&amp;pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&amp;headerType=none&amp;fp=safari&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=play.google.com#ARGO_VPNN_49{} ### 1771948853708
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#ARGO_VPNN_50{} ### 1771948858044
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@de.cdn.stun.su:443?security=reality&amp;encryption=none&amp;pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=de.cdn.stun.su&amp;sid=4daa022e84f8edf2#ARGO_VPNN_52{} ### 1771948861804
+vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.14.104:8880?security=&amp;encryption=none&amp;type=grpc#ARGO_VPNN_54{} ### 1771948867269
