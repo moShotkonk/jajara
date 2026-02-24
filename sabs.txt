@@ -336,3 +336,4 @@ vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@173.245.59.191:8443?path=%2Fuploade
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#ARGO_VPNN_26{} ### 1771948903858
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#ARGO_VPNN_27{} ### 1771948908280
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#ARGO_VPNN_28 ### 1771948911776
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@45.145.40.26:443?security=reality&amp;encryption=none&amp;pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=de.cdn.stun.su&amp;sid=4daa022e84f8edf2#ARGO_VPNN_29{} ### 1771948915932
