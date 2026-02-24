@@ -328,3 +328,4 @@ vless://5106195e-5b35-498b-ae26-dc8a526d0074@154.219.5.113:2083?security=tls&amp
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.254.43:80?type=ws&amp;host=kr1.175852.xyz&amp;path=/abcde#@Hope_Net-join-us-on-Telegram{} ### 1771941962729
 vless://d7602ecf-954c-4ac6-9477-46e080bbae1f@104.21.1.84:443?security=tls&amp;sni=joinmahdiserver.rmgqthp.workers.dev&amp;type=ws&amp;host=joinmahdiserver.rmgqthp.workers.dev&amp;path=%2F%3Fed%3D2048&amp;fp=randomized#@Hope_Net-join-us-on-Telegram{} ### 1771941967402
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.169.227:80?type=ws&host=kr1.175852.xyz&path=/abcde#@Hope_Net-join-us-on-Telegram ### 1771941972442
+vless://81a27cdf-06fe-49d2-a4c3-14d292fa0ac9@172.67.213.252:2052?security=none&type=ws&path=/@EsiVP#@Hope_Net-join-us-on-Telegram ### 1771941975827
