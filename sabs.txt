@@ -339,3 +339,4 @@ ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.182.79:8388#%F0%9F%87%AD%F0%9F%87%B
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%F0%9F%87%AC%F0%9F%87%A7GB-0327-NetFreedom0{} ### 1771968385265
 vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.9:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#@Hope_Net-join-us-on-Telegram ### 1771971059549
 vless://17565eb3-3535-4fc1-bbaa-e9fbd94b2f0c@14.102.228.73:2053?security=tls&amp;sni=fi1.v2vless.xyz&amp;type=ws&amp;host=fi1.v2vless.xyz&amp;fp=chrome&amp;alpn=h3,h2,http/1.1#@Hope_Net-join-us-on-Telegram{} ### 1771971064179
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.151.120:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1771971068016
