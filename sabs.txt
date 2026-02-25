@@ -348,3 +348,4 @@ vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?security=reality&
 vless://7eeef453-f91e-47a2-829f-a06fa7cdd46f@213.176.18.99:443?security=reality&amp;type=tcp&amp;headerType=&amp;path=&amp;host=&amp;flow=xtls-rprx-vision&amp;sni=telegavpn.com&amp;fp=&amp;pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&amp;sid=#%40v2rayconfigamir%201678{} ### 1772057384703
 vless://c16da53d-386c-4bc8-a1cb-d98d56b6c2e5@mcix.ircf.space:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=#%40v2rayconfigamir%208693{} ### 1772057389773
 vless://eca9ff44-edfa-4071-cadb-6c4b51e776fc@mtnx.ircf.space:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=#%40v2rayconfigamir%202260 ### 1772057393627
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.150.157:990#%40v2rayconfigamir%204396{} ### 1772057414877
