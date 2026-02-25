@@ -290,3 +290,4 @@ vless://518ff002-dfe3-4854-930f-ccdfd52c9b11@172.67.204.84:80?security=none&type
 vless://63e8b6d1-9775-40e2-8c9c-248b3e0cf6b8@172.67.193.36:2053?security=tls&amp;sni=zerma.ir&amp;type=ws&amp;host=zerma.ir&amp;path=%2F%40vpn4ir_1%2F%40vpn4ir_1%2F%40vpn4ir_1%2F%40vpn4ir_1%2F%40vpn4ir_1%2F%40vpn4ir_1%2F%40vpn4ir_1%2F%3Fed%3D2560&amp;fp=chrome#@Hope_Net-join-us-on-Telegram{} ### 1772005657525
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.41.126:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1772005660947
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.4.57:2087?security=tls&amp;sni=jp999.ylks01.eu.org&amp;type=ws&amp;path=%2Fblue#@Hope_Net-join-us-on-Telegram{} ### 1772005665088
+vless://a9d5dd8b-9eb3-4b4f-f69b-90abc8af99c9@3.76.248.84:58445?encryption=none&security=none&type=tcp&headerType=none#🔥 ### 1772005669175
