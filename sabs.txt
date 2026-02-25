@@ -377,3 +377,4 @@ vless://fca42527-0f5f-4227-9554-ba32702fe90c@18.185.89.219:443?security=&amp;enc
 vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@3.68.229.128:443?security=&encryption=none&headerType=&type=tcp#%40InfoTech_VK ### 1772050399243
 vless://86f5fd99-a502-41de-a5cd-ebd671049b31@18.192.57.196:50459?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40InfoTech_VK{} ### 1772050404162
 vless://c21ba381-5808-4098-b94d-86c468a683d9@18.159.131.55:443?security=&encryption=none&headerType=&type=tcp#%40InfoTech_VK ### 1772050409400
+vless://597f08cd-bd00-4ec4-aaa4-93fe99ca7f36@3.72.52.65:39609?security=&encryption=none&headerType=&type=tcp#%40InfoTech_VK ### 1772050415044
