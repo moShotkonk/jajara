@@ -279,3 +279,4 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.64.8:443?security=tls&amp;sn
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.191.90:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1772002264521
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.95.51:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1772002269542
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.145.78:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1772002273519
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?encryption=none&amp;security=tls&amp;sni=web.abcallcenter.com&amp;fp=chrome&amp;alpn=http%2F1.1&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=web.abcallcenter.com&amp;path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Fed%3D2560#🔥{} ### 1772005620125
