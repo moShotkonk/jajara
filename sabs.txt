@@ -350,3 +350,4 @@ vless://c16da53d-386c-4bc8-a1cb-d98d56b6c2e5@mcix.ircf.space:443?mode=gun&amp;se
 vless://eca9ff44-edfa-4071-cadb-6c4b51e776fc@mtnx.ircf.space:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=#%40v2rayconfigamir%202260 ### 1772057393627
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.150.157:990#%40v2rayconfigamir%204396{} ### 1772057414877
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;host=cd11.thisiswe.uno&amp;fp=chrome&amp;type=ws&amp;sni=cd11.thisiswe.uno#%40v2rayconfigamir%205577{} ### 1772057419166
+vless://21889ffd-54ee-40f9-e9b0-f1838908579a@3.69.31.126:443?security=&amp;encryption=none=-@vmess_iran---@vmess_iran---@vmess_iran---@vmess_iran---@vmess_iran---@vmess_iran&amp;headerType=none&amp;type=tcp#%40v2rayconfigamir%209133{} ### 1772057423060
