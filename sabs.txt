@@ -356,3 +356,4 @@ vless://f5faa4fd-298c-43a4-9e8a-102537cfae71@172.64.35.55:443?path=ws&security=t
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#%F0%9F%87%AC%F0%9F%87%A7GB-0326-NetFreedom0 ### 1772050298152
 vless://3c54640f-3194-40ee-a885-1e231c17bdc2@azinsite.amir777.sbs:2010?security=&encryption=none&headerType=none&type=tcp#ARGO_VPNN_6 ### 1772050305537
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#ARGO_VPNN_45 ### 1772050309581
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5@62.60.233.220:18685#ARGO_VPNN_29{} ### 1772050313998
