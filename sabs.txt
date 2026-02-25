@@ -361,3 +361,4 @@ vless://a0891e86-ce1f-4e1b-e47c-84c890f1b130@3.70.45.81:443?security=none&encryp
 vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@18.159.35.41:443?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple ### 1772050324433
 vless://0e777780-a40b-445f-cc79-3b8733217530@3.125.17.126:30221?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple{} ### 1772050328725
 vless://4ba18e09-571e-4b81-a360-8d74bb3a903e@18.192.210.130:44708?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple ### 1772050333542
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?security=tls&amp;encryption=none&amp;insecure=0&amp;host=kaja.thisiswe.uno&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=kaja.thisiswe.uno#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple{} ### 1772050338234
