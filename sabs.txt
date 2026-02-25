@@ -341,3 +341,4 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@fairyloot.com:443?path=%2FTelegram-
 vless://4bc7d558-1943-44de-bd82-56920bc9383e@free2.spectrum.vu:7443?mode=gun&security=reality&encryption=none&pbk=9Ow4bZxApNkRwAjQxyr_aZsBcJGc__jemUA7__BbZTE&fp=chrome&type=grpc&serviceName=vless&sni=www.google.com&sid=ab1c1a11#ARGO_VPNN_32 ### 1772035688937
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTjZYZjBacXdEZUZydDM5VFFyYWVu@45.80.231.75:31019#ARGO_VPNN_33{} ### 1772035694233
 vless://94a03e9a-74d5-4036-95e9-563cc19355de@62.133.60.50:443?security=tls&amp;encryption=none&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=decdn12.suio.me#ARGO_VPNN_34{} ### 1772035698572
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=hetz.x-smm.com&amp;type=ws&amp;allowInsecure=1&amp;sni=hetz.x-smm.com#ARGO_VPNN_35{} ### 1772035702356
