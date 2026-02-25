@@ -296,3 +296,4 @@ vless://42f4be04-31d7-477d-9549-c1f79c6b9ee0@maxa06.gaterserver.ir:2096?encrypti
 vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@172.232.157.252:2053?encryption=none&amp;security=tls&amp;sni=tn1rr.qzz.io&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=tn1rr.qzz.io&amp;path=%2Fsg-lnd#🔥{} ### 1772005686702
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@www.speedtest.net:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F66.42.51.60#🔥 ### 1772005693031
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?encryption=none&amp;security=none&amp;type=xhttp&amp;host=atus.pabloping.pro&amp;path=%2Fpabloping&amp;mode=auto#🔥{} ### 1772005696971
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030?#🔥{} ### 1772005701512
