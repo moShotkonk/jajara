@@ -348,3 +348,4 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.110.13:80?type=ws&amp;host=k
 vless://7b69aa4b-6984-4537-8a45-8ffe57695fb2@172.67.194.105:8080?security=none&type=ws&path=%2FV2ray.motorcycles%3Fed%3D8080#@Hope_Net-join-us-on-Telegram ### 1772039875923
 vless://2204087b-cdbf-4dd3-8f05-05ebaa70e52f@188.114.96.2:80?security=none&amp;type=ws&amp;host=sina-mci-panel.eystem.ir&amp;path=%2F%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG-%40V_2rayy_NG#@Hope_Net-join-us-on-Telegram{} ### 1772039879420
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQTc4Qk9jcHF6YVBmcGtxUzhuYVk5@92.118.112.101:9483#%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%40kurdistan_vpn ### 1772045279398
+vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@104.21.95.205:443?security=tls&sni=xw.r4d.workers.dev&type=ws&host=xw.r4d.workers.dev&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram ### 1772045287445
