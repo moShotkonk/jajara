@@ -371,3 +371,4 @@ vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?path=%2F57ba2ab
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@dnss.iraniranshopdashnoard.ir:2086?path=%2F&amp;security=&amp;encryption=none&amp;host=bio.mehrsazi.ir&amp;type=httpupgrade#ARGO_VPNN_62{} ### 1772061283509
 vless://1dbebdd3-3922-40c0-9b0e-ace270adb479@172.67.73.14:443?path=%2F175.202.135.114&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=afrcloud22.mmv.kr&amp;type=ws&amp;allowInsecure=0&amp;sni=afrcloud22.mmv.kr#ARGO_VPNN_64{} ### 1772061287506
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.108.42.173:443#ARGO_VPNN_69{} ### 1772061291423
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.108.41.100:443#ARGO_VPNN_71{} ### 1772061295910
