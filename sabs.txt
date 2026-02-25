@@ -268,3 +268,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciAzNzcxIiwiYWRkIjoiMzguNTQuOTgu
 vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA3NzQ4IiwiYWRkIjoiNDcuMjUwLjQ1LjIzNCIsInBvcnQiOiI0MzA2MyIsImlkIjoiYzc3ZjQ4ZjUtNGJlMy00NDYxLWI1MmItNDk5OThlN2I4OTdiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraSJ9{} ### 1771978162008
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.231:443?security=tls&amp;sni=hkd.ylks.link&amp;type=ws&amp;path=/blue#@Hope_Net-join-us-on-Telegram{} ### 1771990539879
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.103.95:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1771990543901
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.148.106.44:2083?security=tls&amp;sni=juzibaipiao.5112233.xyz&amp;type=ws&amp;path=%2F#@Hope_Net-join-us-on-Telegram{} ### 1771990548143
