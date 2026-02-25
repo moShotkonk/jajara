@@ -372,3 +372,4 @@ vless://4ca14b7d-7719-4756-df72-905e9cf37a73@3.77.234.161:443?security=&encrypti
 vless://86eab5a5-5940-436f-c156-491839dceccd@18.159.214.209:54791?security=&encryption=none&headerType=&type=tcp#%40InfoTech_VK ### 1772050376161
 vless://69c3ec92-9c48-44bc-cfbc-a37ee0c4461a@3.67.71.90:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40InfoTech_VK{} ### 1772050380243
 vless://ec7414ac-4550-414d-afed-5f7ec74ddc32@18.199.141.238:443?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40InfoTech_VK{} ### 1772050386456
+vless://de41e034-f3b5-4465-b616-552f2019885a@3.76.30.26:40869?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#%40InfoTech_VK{} ### 1772050390956
