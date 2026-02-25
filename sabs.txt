@@ -373,3 +373,4 @@ vless://1dbebdd3-3922-40c0-9b0e-ace270adb479@172.67.73.14:443?path=%2F175.202.13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.108.42.173:443#ARGO_VPNN_69{} ### 1772061291423
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.108.41.100:443#ARGO_VPNN_71{} ### 1772061295910
 vless://000f318f-d045-4262-af1d-383c43443e8a@dll3maghz3.chooktashakorabi.com:41019?security=&encryption=none&headerType=&type=tcp#ARGO_VPNN_72 ### 1772061301054
+vless://028a7a63393e44da9351d88e4d94acaa@212.34.134.237:8443?security=reality&amp;encryption=none&amp;pbk=00xVXV3RDrSrc9rGxqGf5EF1NveYKeYBXDJgTq14EQY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=fastnodegate.com&amp;sid=98#ARGO_VPNN_73{} ### 1772061304929
