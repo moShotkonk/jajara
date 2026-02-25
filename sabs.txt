@@ -309,3 +309,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.36.228:80?security=none&type
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.9.1:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1772031299172
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.145:2053?security=tls&amp;sni=bPB-wORKeR-panEL-8MS.PAGeS.dEv&amp;type=ws&amp;host=bpb-wORKer-paNEl-8ms.PAgEs.DeV&amp;path=%2FDoVZUtFYZ9bFiEky%3Fed%3D2560&amp;alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram{} ### 1772031301435
 vless://d29e8312-4429-4875-9d74-5ce17947216b@amirshakiba1.slsstudio.ir:9090/?type=tcp&amp;encryption=none&amp;path=%2F&amp;headerType=http&amp;security=none#g-Tst{} ### 1772035503431
+vless://cca7b91c-0085-4972-8c18-cfbe9be5d376@C18.PRODNSSPEED10.IR:2083?mode=multi&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=Love&allowInsecure=0&sni=taran.mehrsazi.ir#%40v2rayconfigamir%204465 ### 1772035529544
