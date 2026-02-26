@@ -384,3 +384,4 @@ vless://a6f4bb0a-d2e3-4aeb-b6e6-a68e40fdf412@212.233.98.128:8443?security=realit
 vless://48e3ec8d-44ce-4542-aa4d-a48573e0d423@94.184.24.235:56001?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ARGO_VPNN_2{} ### 1772120873636
 vless://56a210bb-8c6b-4148-80bc-2fec5099cb98@193.151.134.102:201?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#ARGO_VPNN_3{} ### 1772120880871
 vless://3d142a41-8e57-47d7-a579-f52c6eae79f7@199.232.173.212:80?mode=auto&path=%2F-AzV2ry%3Fed%3D2056&security=&encryption=none&host=qbank.ir&type=xhttp#ARGO_VPNN_9 ### 1772120885843
+vless://3d142a41-8e57-47d7-a579-f52c6eae79f7@199.232.79.229:80?mode=auto&path=%2F-AzV2ry%3Fed%3D2056&security=&encryption=none&host=qbank.ir&type=xhttp#ARGO_VPNN_10 ### 1772120889351
