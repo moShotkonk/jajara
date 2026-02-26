@@ -388,3 +388,4 @@ vless://fae371fe-b27e-4354-9913-400596208387@14.102.228.41:2053?security=tls&sni
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80?security=none&amp;type=ws&amp;host=29.运动员列表9.tech&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1772136853443
 vless://58877aea-dfdc-44b3-818e-231dbc1e47dc@104.21.62.142:80?security=none&amp;type=ws&amp;path=/aa#@Hope_Net-join-us-on-Telegram{} ### 1772136858222
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.151.242:80?type=ws&amp;host=kr1.175852.xyz&amp;path=/abcde#@Hope_Net-join-us-on-Telegram{} ### 1772136862069
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=bBF9c21A.tECHNeTbpb.paGEs.Dev&amp;type=ws&amp;sni=bBF9c21A.tECHNeTbpb.paGEs.Dev#@Hope_Net-join-us-on-Telegram{} ### 1772136866709
