@@ -375,3 +375,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.254.233:80?security=none&amp
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.121.24:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1772074444065
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.211.195:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1772074448900
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.47.210:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1772074452841
+vless://5512bf69-a563-4ea7-be2b-2d14d27e6323@172.67.131.187:443?security=tls&amp;sni=falcUNArGOo.EBf9A41066.woRkErS.DEV&amp;type=ws&amp;host=fALcUnaRgOO.ebf9A41066.worKErs.dEv&amp;fp=chrome#@Hope_Net-join-us-on-Telegram{} ### 1772074456833
