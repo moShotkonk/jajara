@@ -358,3 +358,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.219.197:80?security=none&typ
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.157.36:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1772147497429
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.61.61:80?type=ws&amp;host=kr1.175852.xyz&amp;path=/abcde#@Hope_Net-join-us-on-Telegram{} ### 1772147501092
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.64.145.142:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1772147505068
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.27.94:2087?security=tls&amp;sni=aryoovpn.commen-esoteric-0q.workers.dev&amp;type=ws&amp;host=aryoovpn.commen-esoteric-0q.workers.dev&amp;path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram{} ### 1772147509214
