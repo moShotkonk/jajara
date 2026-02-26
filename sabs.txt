@@ -381,3 +381,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.248.83:80?security=none&type
 vless://b67dd3f7-8a02-4321-b7a7-bcbc38930e10@104.16.0.15:2096?security=tls&sni=dl.etnet.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram ### 1772064441181
 vless://e16e9768-240f-4ff2-8c29-36d220ed2aa4@172.66.40.117:443?security=tls&amp;sni=msnghdfy4c2.cpiforpersia.uk&amp;type=ws&amp;host=msnghdfy4c2.cpiforpersia.uk&amp;path=%2FBLsNlVjvcIibUbDFdhZ&amp;fp=chrome&amp;alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram{} ### 1772064445886
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@88.216.66.193:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/#@Hope_Net-join-us-on-Telegram ### 1772064450161
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.167.34:80?type=ws&amp;host=kr1.175852.xyz&amp;path=/abcde#@Hope_Net-join-us-on-Telegram{} ### 1772064454270
