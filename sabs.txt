@@ -388,3 +388,4 @@ vless://3d142a41-8e57-47d7-a579-f52c6eae79f7@199.232.79.229:80?mode=auto&path=%2
 vless://5e07e5e7-35ae-4848-9b5b-4abd4e65682f@fastly1.hamrahflow.ir:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=Valsiin.com&amp;type=ws&amp;allowInsecure=0&amp;sni=default.ssl.fastly.net#ARGO_VPNN_11{} ### 1772120893826
 vless://b5967d30-f2ce-4ba0-af7b-44c0f5660c9e@shaparak.ultrrasound.com:14557?path=%2F&security=&encryption=none&host=telewebion.com&type=ws#ARGO_VPNN_12 ### 1772120897925
 vless://15a8a868-ddd3-4a8c-bf7a-bb81671bf157@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=takken.sorza.ir&amp;type=ws&amp;allowInsecure=0&amp;sni=digikala.sorza.ir#ARGO_VPNN_13{} ### 1772120901909
+vless://abe735cf-8e79-4716-bfa5-0aff72215799@91.107.240.224:443?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#ARGO_VPNN_14{} ### 1772120906114
