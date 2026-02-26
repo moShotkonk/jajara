@@ -391,3 +391,4 @@ vless://6d57becf-27f3-4136-9289-a2ae5449af83@CdnJS.com:443?path=%2F%3Fed%3D36555
 vless://3d142a41-8e57-47d7-a579-f52c6eae79f7@199.232.79.229:80?mode=auto&path=%2F-AzV2ry%3Fed%3D2056&security=none&encryption=none&host=qbank.ir&type=xhttp#%40mehrosaboran ### 1772128326173
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.19.163:443?security=tls&amp;sni=mmdv2.pages.dev&amp;type=ws&amp;host=mmdv2.pages.dev&amp;path=telegram-Selinc%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram{} ### 1772128347939
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.31.230:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1772128352535
+vless://ae052ac1-ceea-476a-8846-24a70fb69c8b@172.67.129.111:2083?security=tls&amp;sni=marketepicnode6.nabarbest.ir&amp;type=ws&amp;fp=chrome&amp;alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram{} ### 1772128356145
