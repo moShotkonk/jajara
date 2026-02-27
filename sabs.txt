@@ -314,3 +314,4 @@ vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=%2F&securit
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F&security=tls&encryption=none&insecure=0&host=p1.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=p1.thisiswe.uno#%40mehrosaboran ### 1772208751820
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.indevs.in#ARGO_VPNN_29{} ### 1772208764329
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?path=%2F64.181.218.67%3D443&amp;security=&amp;encryption=none&amp;host=afrcloud22.mmv.kr&amp;type=ws#ARGO_VPNN_15{} ### 1772208768867
+vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@nodejs.org:80?path=%2F%3Fed&amp;security=&amp;encryption=none&amp;host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&amp;type=ws#%40FarazV2ray{} ### 1772208774232
