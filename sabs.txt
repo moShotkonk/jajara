@@ -304,3 +304,4 @@ vless://4eb9e9b9-b5cb-4948-9883-2bef6fb87f1d@94.184.13.37:5369?security=reality&
 vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@104.20.1.252:2052?path=%2F%3Fed&amp;security=&amp;encryption=none&amp;host=exemplary-milkytsxqiqyso.sportland.company.&amp;type=ws#%40FarazV2ray{} ### 1772188189515
 vless://ci49kfwjrc@104.21.17.104:8880?mode=auto&path=%2Fcompass%2Fcdn&security=&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp#%40FarazV2ray ### 1772188194042
 vless://ci49kfwjrc@172.67.175.118:8880?mode=auto&amp;path=%2Fcompass%2Fcdn&amp;security=&amp;encryption=none&amp;host=ci49kfwjrc-57129121185.hediiigate.com&amp;type=xhttp#%40FarazV2ray{} ### 1772188197539
+vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@104.20.1.252:80?path=%2F%3Fed&amp;security=none&amp;encryption=none&amp;host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&amp;type=ws#%40FarazV2ray{} ### 1772188201804
