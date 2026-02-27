@@ -320,3 +320,4 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.201.84:80?type=ws&amp;host=k
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.81.19:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1772160390044
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@192.0.54.194:443?security=tls&amp;sni=vb.ylkszy.eu.org&amp;type=ws&amp;path=%2F%3Fed#@Hope_Net-join-us-on-Telegram{} ### 1772160395742
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.22.55:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1772160399900
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.198.241:80?type=ws&amp;host=kr1.175852.xyz&amp;path=/abcde#@Hope_Net-join-us-on-Telegram{} ### 1772160404704
