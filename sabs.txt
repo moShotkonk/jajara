@@ -328,3 +328,7 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.75.94:80?security=none&type=
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.154.174:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1772220617128
 vless://56f27884-6e52-4c2d-9dbe-01c9ec240f03@104.21.33.129:2096?security=tls&sni=J0in-Telegram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#@Hope_Net-join-us-on-Telegram ### 1772220620906
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.csgo.net:2095?encryption=none&security=none&type=ws&host=fuckingfangbinxing.cnm--fangbinxing-cnm.workers.dev&path=%2F# ### 1772220646827
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#NetAccount ### 1772222376165
+vless://30c04389-bbcb-431f-9d47-a8ad24406bd4@89.125.48.112:443?security=reality&encryption=none&pbk=2s4DLPlhc3evv3LN-qV-nXdjQtJ7jQ35i--PE8JeeG4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=retn.net#NetAccount ### 1772222376165
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.128.34.165:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#NetAccount ### 1772222376165
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.243.112.61:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#NetAccount ### 1772222376165
