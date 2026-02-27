@@ -305,3 +305,4 @@ vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@104.20.1.252:2052?path=%2F%3Fed&amp
 vless://ci49kfwjrc@104.21.17.104:8880?mode=auto&path=%2Fcompass%2Fcdn&security=&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp#%40FarazV2ray ### 1772188194042
 vless://ci49kfwjrc@172.67.175.118:8880?mode=auto&amp;path=%2Fcompass%2Fcdn&amp;security=&amp;encryption=none&amp;host=ci49kfwjrc-57129121185.hediiigate.com&amp;type=xhttp#%40FarazV2ray{} ### 1772188197539
 vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@104.20.1.252:80?path=%2F%3Fed&amp;security=none&amp;encryption=none&amp;host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&amp;type=ws#%40FarazV2ray{} ### 1772188201804
+vless://6bbd984c-b72f-43af-90ee-3a3fe566b8fb@f1.springpaatogh8.store:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%28%F0%9F%87%A9%F0%9F%87%AA%29%20%40flyv2ray ### 1772188207449
