@@ -318,3 +318,4 @@ vless://2df16b02-34a4-4063-ba5d-9be0d3e147c6@193.151.153.107:203?security=none&a
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.182.79:8388#%F0%9F%87%AD%F0%9F%87%B0HK-0283-NetFreedom0{} ### 1772229891840
 vless://a124ff5b-a430-46c1-89a8-92cec7450241@QonsJwnKqbOqMwoosbKqnkwJqnOqbHslibLqobai.texaboor.ir:2666?security=reality&encryption=none&pbk=HRFf_q28l4giD1SABGvxrORVVi8iAu5TkD1EF5yM9DM&headerType=none&fp=firefox&type=tcp&sni=icloud.com&sid=f121ea8b8d#ARGO_VPNN_58 ### 1772229902820
 vless://b083db1b-5649-4d5a-8e52-4743c5ae0bd5@193.151.140.161:2053?security=&amp;encryption=none&amp;host=myket.ir&amp;headerType=http&amp;type=tcp#ARGO_VPNN_59{} ### 1772229906253
+vless://a124ff5b-a430-46c1-89a8-92cec7450241@El4Bsz9SvtEg.hosted-in.p7d.ir:2053?path=%2FVopjRRsaqhgt&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=Dc4.iphone-shopp.ir&fp=firefox&type=ws&allowInsecure=0&sni=Dc4.iphone-shopp.ir#ARGO_VPNN_60 ### 1772229910913
