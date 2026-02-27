@@ -299,3 +299,4 @@ vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=none&
 vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40FarazV2ray{} ### 1772180122273
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?path=%2F64.181.218.67%3D443&amp;security=none&amp;encryption=none&amp;host=afrcloud22.mmv.kr&amp;type=ws#%40FarazV2ray{} ### 1772180128628
 vless://15a8a868-ddd3-4a8c-bf7a-bb81671bf157@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=takken.sorza.ir&type=ws&sni=digikala.sorza.ir#%40FarazV2ray ### 1772180133693
+vless://15a8a868-ddd3-4a8c-bf7a-bb81671bf157@f1.springpaatogh8.store:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=gamepc.sorza.ir&amp;type=ws&amp;sni=digikala.sorza.ir#%40FarazV2ray{} ### 1772180137193
