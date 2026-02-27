@@ -331,3 +331,4 @@ vless://eb0611a3-0196-0008-9ff0-3b4d6d01fb34@37.139.32.94:8443?flow=xtls-rprx-vi
 vless://9d2f6b98-9c07-48bb-aa22-b17cabba3624@217.16.27.96:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=09yujrRdcmxAqVF0CGtEwwov02Uc-8rdIO_pBj-DfE4&sid=a50ebec7fc3679ba&spx=%2F#%40v2rayconfigamir%205330 ### 1772222817142
 vless://e75d65c6-8a37-494e-8a56-ec9d028f70a9@37.139.32.136:4449?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=n7SozQLXoCxDya7vBJwS5ebj39r4KCUZrfsnBfcCLGs&sid=a2#%40v2rayconfigamir%204914 ### 1772222821292
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.160.208:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1772222837468
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.49.28:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1772222842914
