@@ -413,3 +413,4 @@ vless://c0197135-3415-45ad-992f-870f36d3c9b2@172.67.158.249:443?security=tls&amp
 vless://39e57b95-315d-4fca-84cc-7b0bf4e9ac15@193.151.152.235:6312?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#NetAccount</code> ### 1772273232098
 vless://39e57b95-315d-4fca-84cc-7b0bf4e9ac15@193.151.152.235:4086?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#NetAccount</code> ### 1772273232098
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe ### 1772274374088
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmM0ODRlZGNmMWJlNDNj@163.171.181.49:48852#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe{} ### 1772274378436
