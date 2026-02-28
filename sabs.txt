@@ -402,3 +402,4 @@ vless://82d7af64-8106-4ea1-9cf8-c399be66e308@beat.raynomusic.ir:8880?type=ws&amp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNGI3OGY1ZC1mNGVjLTRlYWUtOGY4My05ZTRlZDllMTYzMjY=@85.208.104.132:46602#NetAccount ### 1772294223370
 vless://062473c3-a5a4-5f10-c192-92ebdf83f59e@dns25.golden-ping.ir:41136?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#NetAccount ### 1772294223370
 vless://5a3691c4-01e8-4bf1-a88e-faf876138660@46.38.138.28:28131?encryption=none&security=none&type=tcp&headerType=none#NetAccount ### 1772294223370
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.154.130:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1772294434573
