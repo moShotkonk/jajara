@@ -392,3 +392,6 @@ vless://782b8b33-087b-446b-b4cf-1c0d87f1cf08@4qphdr11cwbdcy9o7q.lunargnome.ir:44
 vless://062473c3-a5a4-5f10-c192-92ebdf83f59e@dns25.golden-ping.ir:41136?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp&sni=1#NetAccount ### 1772290173755
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNGI3OGY1ZC1mNGVjLTRlYWUtOGY4My05ZTRlZDllMTYzMjY@85.208.104.132:46602#NetAccount ### 1772290253773
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDAwODRjNmU0NTAyYWI3@163.171.137.76:48436#NetAccount ### 1772290253773
+vless://06442da2-c71e-4f5d-b2f3-e327b3f515b5@cdntr202.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1095?security=none&type=tcp&headerType=http&path=%2F%3Fed%3D443&host=soft98.ir#NetAccount ### 1772290297525
+vless://06442da2-c71e-4f5d-b2f3-e327b3f515b5@cdntr222.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1095?security=none&type=tcp&headerType=http&path=%2F%3Fed%3D443&host=soft98.ir#NetAccount ### 1772290297525
+vless://06442da2-c71e-4f5d-b2f3-e327b3f515b5@cdntr222.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1087?security=none&type=tcp&headerType=http&path=%2F%3Fed%3D443&host=soft98.ir#NetAccount ### 1772290297525
