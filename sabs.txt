@@ -397,3 +397,6 @@ vless://7553f8fe-2b75-4864-8717-00634a9e2e27@maxb06.ava-shop.ir:2096?security=re
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@43.206.124.158:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=chatgpt.com&amp;sid=f5#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple{} ### 1772305751555
 vless://4f21615d-d8c1-466a-88b0-4a86ac3907cf@91.231.144.169:6556?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=speedtest.net#NetAccount</code> ### 1772306072477
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.26:23335?flow=xtls-rprx-vision&amp;encryption=none&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=icloud.com&amp;pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik#NetAccount</code> ### 1772306072477
+vless://bf923569-ff69-4638-b1d3-38e3348d9571@irm2.server11net.ir:1010?security=&encryption=none&headerType=http&type=tcp#NetAccount ### 1772306138463
+vless://bf923569-ff69-4638-b1d3-38e3348d9571@respina24.gdsrguydsrghj.ir:1010?security=&encryption=none&headerType=http&type=tcp#NetAccount ### 1772306138463
+vless://f740a3ca-4d39-4f17-b236-8837fb7cf8a3@vip-meli2.nightgemshop.com:443?security=none&encryption=none&host=alef.ir&headerType=http&type=tcp#NetAccount ### 1772306138463
