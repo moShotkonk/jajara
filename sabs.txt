@@ -390,3 +390,5 @@ vless://f50e0469-3e74-4583-96bc-b6baa355093d@104.20.25.32:8080?type=ws&amp;host=
 vless://4bef06d1-7535-4ba5-8446-bd6b94e6b150@gb1.wiziii.xyz:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#NetAccount ### 1772290173755
 vless://782b8b33-087b-446b-b4cf-1c0d87f1cf08@4qphdr11cwbdcy9o7q.lunargnome.ir:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=khodepi2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=khodepi2.global.ssl.fastly.net#NetAccount ### 1772290173755
 vless://062473c3-a5a4-5f10-c192-92ebdf83f59e@dns25.golden-ping.ir:41136?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp&sni=1#NetAccount ### 1772290173755
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNGI3OGY1ZC1mNGVjLTRlYWUtOGY4My05ZTRlZDllMTYzMjY@85.208.104.132:46602#NetAccount ### 1772290253773
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDAwODRjNmU0NTAyYWI3@163.171.137.76:48436#NetAccount ### 1772290253773
