@@ -365,3 +365,4 @@ vless://a5323cba-7ba7-4e10-87f5-a49fd2c4f4c0@172.64.152.23:2096?encryption=none&
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.210.64.17:443?security=tls&amp;sni=zdfdf6.azurewebsites.net&amp;type=ws&amp;path=%2F#@Hope_Net-join-us-on-Telegram{} ### 1772236989061
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.139.59:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1772236992742
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.62.231:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1772236996580
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.45:443?security=tls&amp;sni=jpd.ylks01.eu.org&amp;type=ws&amp;path=/blue#@Hope_Net-join-us-on-Telegram{} ### 1772237000121
