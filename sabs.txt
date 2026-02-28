@@ -398,3 +398,4 @@ vless://83e2dd06-7cbf-40d2-8eac-302030552943@dns5.golden-ping.ir:8443?security=n
 vless://06442da2-c71e-4f5d-b2f3-e327b3f515b5@cdnirpish234.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1087?security=none&amp;encryption=none&amp;host=soft98.ir&amp;headerType=http&amp;type=tcp#NetAccount</code> ### 1772298204452
 vless://ab065397-ac5e-46fc-9dab-296973f69704@tun.biostart.ir:10300?security=none&amp;encryption=none&amp;host=ir22.uploadboy.com&amp;headerType=http&amp;type=tcp#NetAccount</code> ### 1772298204452
 vless://06442da2-c71e-4f5d-b2f3-e327b3f515b5@cdnirtr16.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1095?security=none&amp;encryption=none&amp;host=soft98.ir&amp;headerType=http&amp;type=tcp#NetAccount</code> ### 1772298204452
+vless://91453cf9-57ea-4c51-91b6-2400d16f4589@185.146.173.82:80?security=none&type=ws&host=XFr1.SportNewShop.ir.&path=%2FSvnTeam%3Fed%3D2048#@Hope_Net-join-us-on-Telegram ### 1772298207623
