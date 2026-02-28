@@ -391,3 +391,5 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.168.143:443?security=tls&amp
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.157.249:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1772319784328
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.248.5:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram ### 1772319788271
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:8880?security=none&amp;type=ws&amp;host=JvRqBlAk11.iUbCiNsCkKsDnOi1.NeT&amp;path=%2F#@Hope_Net-join-us-on-Telegram{} ### 1772319792771
+vless://fb343efc-e80b-4112-9f80-3c35904bba9b@fan.x2net.top:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&fp=chrome&type=ws&sni=fan.x2net.top#NetAccount ### 1772320388114
+vless://a6d7c26a-7305-5e0d-8701-1dcfc4d49b2b@dl.salarcloud.ir:22548?security=&encryption=none&headerType=none&type=tcp#NeteAccount ### 1772320388114
