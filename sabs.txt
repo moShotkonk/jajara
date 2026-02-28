@@ -388,3 +388,4 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.61.128:80?type=ws&amp;host=k
 vless://c0564435-4115-4515-919d-9630cfcb334a@188.114.98.1:2096?security=tls&amp;sni=xn---qhanatyawi--d-46l653dkga9cvyxa5b70931e3mha.zedmodeon.xyz&amp;type=ws&amp;host=xn---qhanatyawi--d-46l653dkga9cvyxa5b70931e3mha.zedmodeon.xyz&amp;path=/ZEDMODEON-ZEDMODEON-ZEDMODEON&amp;fp=chrome&amp;alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram{} ### 1772305694145
 vless://c854ace9-1dc7-4fc4-b87b-6b00db3cc4ed@154.219.5.125:443?security=tls&amp;sni=fifth.pinocchio1.ir&amp;type=grpc&amp;fp=chrome&amp;alpn=http/1.1#@Hope_Net-join-us-on-Telegram{} ### 1772305698376
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.203.39:80?type=ws&amp;host=kr1.175852.xyz&amp;path=/abcde#@Hope_Net-join-us-on-Telegram{} ### 1772305703066
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.160.155:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram ### 1772305707690
