@@ -392,3 +392,4 @@ vless://d9e40483-30ae-4076-8c8d-8d380f46ea33@94.101.191.11:80?path=%2F&amp;secur
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.165.220:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1772323318886
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@190.93.246.199:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1772323322702
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.54.14:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1772323327273
+vless://8310247c-c709-42d1-8959-bb176d2064cb@104.17.147.22:2083?security=tls&amp;sni=all4.savagev2ray.site&amp;type=grpc&amp;serviceName=%40XvProxy%2C%40XvProxy%2C%40XvProxy%2C%40XvProxy#@Hope_Net-join-us-on-Telegram{} ### 1772323331297
