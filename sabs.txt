@@ -335,3 +335,4 @@ vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@c27.prodnsspeed10.ir:443?security=t
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.150.21:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1772344115647
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.105.243:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1772344119878
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.91.173:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1772344124459
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.106.249:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1772344128342
