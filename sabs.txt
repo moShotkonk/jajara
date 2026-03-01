@@ -337,3 +337,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#NetAccount</code> ### 1772357313427
 vless://1445513e-3933-475a-a917-85406cab3ccf@v2arm.topacp.store:2053?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#NetAccount</code> ### 1772358822370
 vless://2471c5fc-8a93-434b-8caf-177ff8849936@g2-de2-hz.a1mshop2.xyz:22560?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=aparat.com#NetAccount</code> ### 1772358822370
+vless://f533e37c-9da5-4955-a218-a7886e5719b6@172.66.213.38:443?security=tls&amp;sni=nl88.tradex2080.com&amp;type=ws&amp;host=nl88.tradex2080.com&amp;path=%2FpURR7fXWnkIMyATWmx5f6MblN&amp;fp=chrome&amp;alpn=http/1.1#@Hope_Net-join-us-on-Telegram{} ### 1772359426800
