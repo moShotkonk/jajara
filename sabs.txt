@@ -325,3 +325,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpad2V1WGF2am92dWh6dDFBRjBkNnF4@46.246.97.140:
 vless://d435363f-b221-428b-94d2-8d0db0113b60@104.24.55.23:443?path=ws&security=tls&encryption=none&host=fancy-disk-fbb6.tmpesterouglas.workers.dev&fp=chrome&type=ws&sni=fancy-disk-fbb6.tmpesterouglas.workers.dev#%outline_ir ### 1772339233437
 vless://17c4e377-ea15-07d0-98b2-3e348c9ff5d9@46.235.189.157:443?path=%2F%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=lk-cdn.deploy-assure.ru&amp;fp=chrome&amp;type=ws&amp;sni=lk-cdn.deploy-assure.ru#%outline_ir{} ### 1772339237631
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.99.78:80?type=ws&host=us3.rtacg.com&path=%2F#@Hope_Net-join-us-on-Telegram ### 1772339245929
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.90.70:80?security=none&amp;type=ws&amp;host=us3.rtacg.com&amp;path=/#@Hope_Net-join-us-on-Telegram{} ### 1772339249914
