@@ -1,4 +1,3 @@
-vless://0929623b-c920-4687-9077-38185714725a@213.165.58.87:12345?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#🔥{} ### 1772296079236
 vless://83e2dd06-7cbf-40d2-8eac-302030552943@dns5.golden-ping.ir:8443?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#NetAccount</code> ### 1772298204452
 vless://06442da2-c71e-4f5d-b2f3-e327b3f515b5@cdnirpish234.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1087?security=none&amp;encryption=none&amp;host=soft98.ir&amp;headerType=http&amp;type=tcp#NetAccount</code> ### 1772298204452
 vless://ab065397-ac5e-46fc-9dab-296973f69704@tun.biostart.ir:10300?security=none&amp;encryption=none&amp;host=ir22.uploadboy.com&amp;headerType=http&amp;type=tcp#NetAccount</code> ### 1772298204452
@@ -310,3 +309,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.209.40:80?security=none&type
 vless://635f1700-620b-4d17-ae66-f1bf5833bb4c@cdnro.p12p.ir:80?encryption=none&amp;type=xhttp&amp;headerType=none&amp;path=%2F%3Fed%3D2048&amp;host=kourosh-itekgroup.global.ssl.fastly.net&amp;mode=auto#%F0%9F%87%B7%F0%9F%87%B4%20Romania-CDN%20%28riitkar_100%29{} ### 1772403995573
 vless://635f1700-620b-4d17-ae66-f1bf5833bb4c@151.101.242.172:80?encryption=none&type=xhttp&headerType=none&path=%2FDL%3Fed%3D2096&host=kmkhom.global.ssl.fastly.net&mode=auto#%F0%9F%87%A9%F0%9F%87%AA%20Germany-CDN%20%28riitkar_100%29 ### 1772404000036
 vless://635f1700-620b-4d17-ae66-f1bf5833bb4c@151.101.204.204:80?encryption=none&amp;type=xhttp&amp;headerType=none&amp;path=%2F%3Fed%3D2048&amp;host=kmkh.global.ssl.fastly.net&amp;mode=auto#%F0%9F%87%BA%F0%9F%87%B8%20United%20States-CDN%20%28riitkar_100%29{} ### 1772404004330
+vless://8b266455-14f3-11f1-b55f-92000723b4ab@vipfi2.persianpinggame.com:9096?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#%40freevpn404%20melii%202%20%F0%9F%98%AD ### 1772404501776
