@@ -322,3 +322,5 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@192.200.160.89:443?security=tls&sni
 vless://f5ecae54-e502-4504-a5f6-018002dad489@81.12.80.72:8080?security=none&encryption=none&headerType=none&type=tcp#NetAccount ### 1772388878650
 vless://042bbe0e-c755-4b6b-8b75-707de798a790@185.215.229.66:2037?security=none&encryption=none&headerType=http&type=tcp#NetAccount ### 1772388878650
 vless://cc70e6e0-ab83-4e10-e685-116e9930b90d@sec.nuumbshoop.xyz:8080?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=sec.nuumbshoop.xyz#NetAccount ### 1772388878650
+vless://f5ecae54-e502-4504-a5f6-018002dad489@81.12.80.72:8080?security=none&amp;encryption=none&amp;host=PuLaVPN.Net&amp;headerType=none&amp;type=tcp#NetAccount</code> ### 1772390548111
+vless://1eb573db-365b-34f2-e5e1-43ced8643353@amin2.atlasz.ir:446?security=none&amp;encryption=none&amp;host=aparat.com&amp;headerType=http&amp;type=tcp#NetAccount</code> ### 1772390548111
