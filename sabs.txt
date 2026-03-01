@@ -327,3 +327,4 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.73.98:2053?security=tls&amp;
 vless://a63b6b63-464c-41b6-8f80-9a717db46f8c@fn2-ab-dev.cdnpark.net:310?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#NetAccount</code> ### 1772396135113
 vless://879b0d4e-c575-40fe-a14a-1b2723888b93@nl-2-tun.khabarkhori.space:8081?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#NetAccount</code> ### 1772396135113
 vless://6fc4c171-c2db-479b-e3f1-92bd566a1ee4@turin.mobileturin.com:11783?security=&encryption=none&headerType=&type=tcp#NetAccount ### 1772396233117
+vless://8db1cdac-dc81-46f5-82c8-27cba56a62b4@185.143.232.201:443?path=%2Fed&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=1.1.1.1.hitgram.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=1.1.1.1.hitgram.ir#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe{} ### 1772396902416
