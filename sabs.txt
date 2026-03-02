@@ -257,3 +257,4 @@ vmess://eyJhZGQiOiAiMTA0LjE2LjY3LjM4IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjog
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.224.83.164:443?path=%2F%3Fproxyip&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=kkd.ylks.link#@Hope_Net-join-us-on-Telegram{} ### 1772451011584
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.185:443?path=%2Ftg%40zdyz2&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=cfed.tgzdyz2.top#@Hope_Net-join-us-on-Telegram{} ### 1772451016532
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.26.2:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#@Hope_Net-join-us-on-Telegram ### 1772451020297
+vless://513cf941-140c-4ebb-bfbe-30c2775a1ea1@gb.mecolen.com:434/?type=tcp&amp;encryption=none&amp;security=reality&amp;pbk=Kpf2gHJXWlMjB6TFS1rh92tFtcaWgwl6ecOgUycIYFc&amp;fp=chrome&amp;sni=www.paycando.ir&amp;sid=42af4625&amp;spx=%2F#test-8k6lzqs{} ### 1772451077679
