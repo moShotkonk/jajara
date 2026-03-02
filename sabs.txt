@@ -258,3 +258,4 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6xTR18xfDEuMU1CL3MiLCJhZGQiOiI4Mi4yMS44MC4y
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.91:443?path=tg%40zdyz2&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=cfed.tgzdyz2.top#@Hope_Net-join-us-on-Telegram{} ### 1772439287628
 vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@86.38.214.51:443?security=tls&sni=fourth.pinocchio1.ir.&type=grpc&fp=firefox&alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram ### 1772439291907
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@140.99.233.156:2087?path=tg%40zdyz2&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=cfed.tgzdyz2.top#@Hope_Net-join-us-on-Telegram{} ### 1772439296046
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.164.192.16:443?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇩🇪 ### 1772439334562
