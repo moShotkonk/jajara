@@ -211,3 +211,4 @@ vless://83b8e95b-df6e-4a80-b897-273cd4524caf@81.12.33.100:7710?mode=gun&amp;secu
 vless://83b8e95b-df6e-4a80-b897-273cd4524caf@81.12.33.100:7710?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm#NetAccount</code> ### 1772473381773
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.123.255.18:443?path=%2F%3Fproxyip&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=hkd.ylks.link#@Hope_Net-join-us-on-Telegram{} ### 1772476357062
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.123.255.18:443?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=hkd.ylks.link#@Hope_Net-join-us-on-Telegram ### 1772476360412
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@168.100.6.1:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#@Hope_Net-join-us-on-Telegram ### 1772476364919
