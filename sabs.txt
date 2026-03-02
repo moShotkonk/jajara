@@ -210,3 +210,4 @@ vless://619489ed-a7d8-4024-8aaa-7a8172029ef4@185.146.173.95:2095?path=/&amp;secu
 vless://11e81251-ea65-48bc-bfd4-c4d38ef0f8cc@185.146.173.58:2095?path=/servernet&amp;security=none&amp;encryption=none&amp;host=dcc5.servernet.fun.&amp;type=ws#@Hope_Net-join-us-on-Telegram{} ### 1772492765710
 vless://26524cce-d514-4014-a426-365fb266a14d@162.159.44.73:443?&security=tls&fp=random&sni=cyuxj212pnq.chinat.indevs.in&type=ws&headerType=none&host=cyuxj212pnq.chinat.indevs.in&path=%2Fdanfeng#🇰🇷 ### 1772494785178
 vless://26524cce-d514-4014-a426-365fb266a14d@163.5.207.124:443?&amp;security=tls&amp;fp=random&amp;sni=_acme-challenge.443888.xyz&amp;type=ws&amp;headerType=none&amp;host=_acme-challenge.443888.xyz&amp;path=%2Fdanfeng#🇳🇱{} ### 1772494786987
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.65.60.61:443?encryption=none&amp;security=tls&amp;sni=sni.111000.indevs.in&amp;allowInsecure=1&amp;type=ws&amp;host=sni.111000.indevs.in&amp;path=/#🇨🇦{} ### 1772494792194
