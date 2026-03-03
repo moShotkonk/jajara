@@ -188,3 +188,4 @@ vless://Parsashonam-98@185.146.173.39:8080?path=/?ed=2560&amp;security=none&amp;
 ss://MWRlNDA3MjUtM2U2Yi00MmIxLTllM2UtMzMwYzg1MmQwNDllOg==@172.66.46.225:8443#@Hope_Net{} ### 1772519858704
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.204:443?path=%2Fblue&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=zdyd.kpcloud.eu.org#@Hope_Net-join-us-on-Telegram{} ### 1772519865279
 ss://YWVzLTI1Ni1nY206bktlRTJaRldWYUU0RHlqUg%3D%3D@154.38.176.7:80#%40proxymelimon ### 1772519878761
+vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?path=%2FgetWorkerUpdates&amp;security=&amp;encryption=none&amp;type=ws#%40proxymelimon{} ### 1772519886174
