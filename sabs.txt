@@ -75,3 +75,4 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encrypti
 vless://sGLzG6kUwBpZd73sW0nq@81.208.170.142:1500?security=reality&amp;encryption=none&amp;pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&amp;fp=chrome&amp;type=grpc&amp;sni=www.ebay.com&amp;sid=775eb6408888248e#%40v2rayconfigamir%201933{} ### 1772625939446
 vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&amp;security=reality&amp;sni=www.ebay.com&amp;fp=chrome&amp;pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&amp;sid=775eb6408888248e&amp;type=grpc&amp;mode=gun#%40v2rayconfigamir%208435{} ### 1772625943752
 vless://c16da53d-386c-4bc8-a1cb-d98d56b6c2e5@mcix.ircf.space:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=#%40v2rayconfigamir%201147 ### 1772625947570
+vless://eca9ff44-edfa-4071-cadb-6c4b51e776fc@mtnx.ircf.space:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=#%40v2rayconfigamir%206046 ### 1772625952421
