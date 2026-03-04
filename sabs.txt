@@ -87,3 +87,4 @@ vless://91f8b4d5-b9eb-4740-b560-df710cc3c5e2@pl1.heliyadak.ir:3228?security=none
 vless://1cf6792c-079e-44f9-a2ce-2c00feae74bf@2.144.6.9:14032?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#NetAccount</code> ### 1772643781062
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?encryption=none&amp;security=none&amp;type=grpc#%20{} ### 1772645527270
 vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.14.104:8880?encryption=none&amp;security=none&amp;type=grpc#%20{} ### 1772645531527
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?encryption=none&amp;security=none&amp;type=grpc#%20{} ### 1772645535984
