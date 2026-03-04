@@ -77,3 +77,4 @@ vless://96196fc5-67a7-400f-9b1a-e8f2e530e411@diddy.com:2086?security=none&amp;ty
 vless://96196fc5-67a7-400f-9b1a-e8f2e530e411@diddy.com:8080?security=none&amp;type=httpupgrade&amp;headerType=&amp;path=%2F%3Fed%3D2056&amp;host=net1t.abcdefiran.ir#%40TeleProxyTele{} ### 1772620078638
 vless://96196fc5-67a7-400f-9b1a-e8f2e530e411@diddy.com:8080?security=none&amp;type=httpupgrade&amp;headerType=&amp;path=%2F%3Fed%3D2056&amp;host=Net7v2.abcdefiran.ir#%40TeleProxyTele{} ### 1772620083116
 vless://96196fc5-67a7-400f-9b1a-e8f2e530e411@162.159.152.4:8080?security=none&type=httpupgrade&headerType=&path=%2F%3Fed%3D2056&host=de12.abcdefiran.ir#%40TeleProxyTele ### 1772620087914
+vless://96196fc5-67a7-400f-9b1a-e8f2e530e411@diddy.com:8080?security=none&amp;type=httpupgrade&amp;headerType=&amp;path=%2F%3Fed%3D2056&amp;host=tspaim.abcdefiran.ir#%40TeleProxyTele{} ### 1772620091698
