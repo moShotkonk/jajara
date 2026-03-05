@@ -165,3 +165,4 @@ trojan://humanity@www.gossipglove.com:443?path=%2Fassignment%3FTELEGRAM--KANAL--
 vless://16032366-a9b7-4e5b-af1e-19e6470681df@194.60.228.79:50325?security=&amp;encryption=none&amp;host=ikcosales.ir&amp;headerType=http&amp;type=tcp#NetAccount</code></blockquote> ### 1772733080327
 vless://07cd9dbe-21ac-4871-817d-c772687e4b7c@37.16.74.19:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ibm.com&fp=chrome&pbk=WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU&sid=4a5b6c7d&type=tcp&headerType=none#%20 ### 1772733411271
 vless://34ff275a-d2a4-40cf-9d47-3cd9791fcd11@151.101.1.194:80?mode=auto&path=%2FTignaliSWithYou&security=&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#user1486 ### 1772733434416
+vless://d9bddbc8-7d3a-498c-92b5-f19e61d9cc71@151.101.129.194:80?mode=auto&path=%2FTignaliSWithYou&security=&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#user1486 ### 1772733444212
