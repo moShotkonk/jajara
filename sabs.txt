@@ -174,4 +174,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.101.152.6:2919?encryption=none&
 vless://21348deb-2fb5-434b-8ac7-f074966cb387@185.36.228.212:37515?encryption=none&security=none&type=tcp&headerType=none#🔥 ### 1772710071879
 vless://77777777-6663-4ef2-b26b-ed2d70642678@172.64.145.202:2087?encryption=none&amp;security=tls&amp;sni=afxmsv51.fx02.ccwu.cc&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=afxmsv51.fx02.ccwu.cc&amp;path=%2F#🔥{} ### 1772710078045
 vless://24d75d1c-4745-4df6-80f9-4a0de7eb4b2f@65.109.221.209:49797?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#🔥{} ### 1772710080808
-vless://77777777-6663-4ef2-b26b-ed2d70642678@172.64.145.202:2087?encryption=none&amp;security=tls&amp;sni=afxmsv51.fx02.ccwu.cc&amp;insecure=1&amp;allowInsecure=1&amp;type=ws&amp;host=afxmsv51.fx02.ccwu.cc&amp;path=%2F#🔥{} ### 1772710091760
+vless://77777777-6663-4ef2-b26b-ed2d70642678@172.64.145.202:2087?encryption=none&security=tls&sni=afxmsv51.fx02.ccwu.cc&insecure=1&allowInsecure=1&type=ws&host=afxmsv51.fx02.ccwu.cc&path=%2F#🔥 ### 1772710092945
