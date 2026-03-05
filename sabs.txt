@@ -158,4 +158,4 @@ vmess://eyJhZGQiOiJ2aWN0b3J5LmRldm1hdHQuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoi
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?encryption=none&amp;security=none&amp;type=grpc#%20{} ### 1772738418388
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?encryption=none&security=tls&sni=ca.adobe-connect.top&alpn=http%2F1.1&fp=chrome&type=ws&host=ca.adobe-connect.top&path=%2F#%20 ### 1772738431335
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.44.211:2096?encryption=none&amp;security=tls&amp;sni=ca.adobe-connect.top&amp;alpn=channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&amp;fp=chrome&amp;type=ws&amp;host=ca.adobe-connect.top&amp;path=%2F#%20{} ### 1772738453340
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#%20{} ### 1772742482257
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#%20 ### 1772742483777
