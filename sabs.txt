@@ -56,3 +56,4 @@ vmess://eyJhZGQiOiIxNjcuMjM1LjI4LjI0MiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI2Yjdj
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11201#%40v2rayconfigamir%204518{} ### 1772798765539
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11204?note=@FreeOnlineVPN#%40v2rayconfigamir%208338 ### 1772798771196
 vless://a7444b2b-20fb-461f-9840-63e5c8c7d883@104.16.158.162:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=mute-violet-c674.poviy66273.workers.dev&amp;type=ws#%40filembad{} ### 1772813582128
+vless://a7444b2b-20fb-461f-9840-63e5c8c7d883@104.16.149.66:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=mute-violet-c674.poviy66273.workers.dev&amp;type=ws#%40filembad{} ### 1772813586270
