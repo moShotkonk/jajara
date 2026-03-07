@@ -54,3 +54,4 @@ vless://30de0562-9174-40d0-b71d-e123e6833405@45.15.170.222:8443?flow=xtls-rprx-v
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?security=none&encryption=none&type=ws&path=/vless/#%40v2rayconfigamir%204273 ### 1772870563405
 vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-Albania1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#%40v2rayconfigamir%207023 ### 1772870567559
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptemVNWUJKWXA0Qm83bkExcVlMdnY3UUc3M2lndEFBODVudDRwcjhBOW50eDJxaERmWWdSdGlKN2lIN1ZyY25lUUtObXR2cGJzdnZGS1BhVUFUWUVMaTE4aUg1NlR0cjQ@download.riferoser.icu:56594/?#%40v2rayconfigamir%208883 ### 1772870604226
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@45.196.239.87:443?encryption=none&amp;security=tls&amp;sni=tn1rr.qzz.io&amp;insecure=0&amp;allowInsecure=0&amp;type=ws&amp;host=tn1rr.qzz.io&amp;path=%2Fsg-lnd#%40v2rayconfigamir%206329{} ### 1772870610553
