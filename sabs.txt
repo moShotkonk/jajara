@@ -43,3 +43,5 @@ vless://ccac781d-1f3e-4e5b-99c2-d07d653b81e8@rk4no3.cdnhoo.top:80?encryption=non
 vless://c71a9084-637b-43d5-8d26-802677443b89@109.95.65.242:900?encryption=none&type=tcp&security=none#NetAccount ### 1772902094867
 vless://f2f17144-6b9a-494d-a1cd-dc146514a719@37.152.175.201:40001?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#NetAccount ### 1772902094867
 vless://4dd14167-ddce-49d1-8322-133e82c0cbfb@109.95.65.242:900?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#NetAccount</code> ### 1772905100553
+vless://c72511d7-1729-403d-92c5-7448533a369a@Platform.snapp.ir.green-gaming-company.ir:1011?security=none&encryption=none&host=s.cafebazaar.ir&headerType=http&type=tcp#NetAccount ### 1772905300624
+vless://4dd14167-ddce-49d1-8322-133e82c0cbfb@109.95.65.242:900?security=none&encryption=none&headerType=none&type=tcp#NetAccount ### 1772905300624
