@@ -25,3 +25,4 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@146.235.199.164:443?&security=tls&f
 vless://2ad80cff-5ef8-416a-a663-22c147264faa@chatgpt.com:443?path=/eyJqdW5rIjoiRnpna0hyZFRQRmNqIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&amp;security=tls&amp;alpn=http/1.1&amp;encryption=none&amp;insecure=0&amp;host=sonya-3nl.pages.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sonya-3nl.pages.dev#🇸🇬{} ### 1773055850037
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@142.171.192.103:443?&amp;security=tls&amp;fp=random&amp;alpn=http/1.1&amp;sni=snippet.fgfw.ye.gs&amp;type=ws&amp;headerType=none&amp;host=snippet.fgfw.ye.gs&amp;path=%2Fdanfeng#🇺🇸{} ### 1773055856176
 vless://c031d6c7-5132-4d81-8efc-3b13a947984e@81.88.25.20:59029?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🇩🇪{} ### 1773058133641
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#🇳🇱{} ### 1773058139524
