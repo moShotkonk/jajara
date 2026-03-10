@@ -48,3 +48,4 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk5ldEFjY291bnQiLA0KICAiYWRkIjogImNpcC4x
 vless://0a9c7ee2-dae8-4fbf-b9a1-1b77b0bf9044@151.101.65.194:80?mode=auto&path=%2FTignaliSWithYou&security=none&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#proxymelimon ### 1773121417287
 vless://3e0302d2-c45d-440e-b619-ba69faf185f6@USA-ComPany-AlphaOmegA-TeaM.AlphaOmegaVIP.IR:80?security=none&amp;encryption=none&amp;host=google.com.&amp;headerType=none&amp;type=tcp#proxymelimon{} ### 1773121421679
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0hhRnlENElwVzhXMkxD@102.37.237.190:443#proxymelimon{} ### 1773121425874
+vless://1eab4b77-893d-4182-a86a-a213ef23f3af@NL-ComPany-AlphaOmegA-TeaM.AlphaOmegaVIP.IR:80?security=none&amp;encryption=none&amp;host=play.google.com.&amp;headerType=none&amp;type=tcp#proxymelimon{} ### 1773121445209
