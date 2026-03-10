@@ -51,3 +51,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0hhRnlENElwVzhXMkxD@102.37.237.190:443#pro
 vless://1eab4b77-893d-4182-a86a-a213ef23f3af@NL-ComPany-AlphaOmegA-TeaM.AlphaOmegaVIP.IR:80?security=none&amp;encryption=none&amp;host=play.google.com.&amp;headerType=none&amp;type=tcp#proxymelimon{} ### 1773121445209
 vless://1eab4b77-893d-4182-a86a-a213ef23f3af@FI-ComPany-AlphaOmegA-TeaM.AlphaOmegaVIP.IR:80?security=none&amp;encryption=none&amp;host=www.google.com.&amp;headerType=none&amp;type=tcp#proxymelimon{} ### 1773121449325
 vless://1eab4b77-893d-4182-a86a-a213ef23f3af@UK-ComPany-AlphaOmegA-TeaM.AlphaOmegaVIP.IR:80?security=none&amp;encryption=none&amp;host=www.speedtest.net.&amp;headerType=none&amp;type=tcp#proxymelimon{} ### 1773121453704
+vless://1eab4b77-893d-4182-a86a-a213ef23f3af@DE-ComPany-AlphaOmegA-TeaM.AlphaOmegaVIP.IR:80?security=none&amp;encryption=none&amp;host=speedtest.net.&amp;headerType=none&amp;type=tcp#proxymelimon{} ### 1773121458225
