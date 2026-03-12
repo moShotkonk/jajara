@@ -43,3 +43,4 @@ vless://0b9d4217-e627-46b9-8342-fa5463bdbcde@sw.truetunnel.xyz:443?security=real
 vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@23.95.113.104:443?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#Maznet-Psiphon-4{} ### 1773304299176
 vless://a4b53348-294d-43be-8549-93055291de3f@46.225.61.97:8080?type=ws&amp;encryption=none&amp;path=%2Fws&amp;host=v.iampedi7.live&amp;security=none#iampedi-vless-cdn-8880-sym32ta4{} ### 1773304302973
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659?note=@FreeOnlineVPN#%40v2rayconfigamir%209676{} ### 1773317165604
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659?¬e=@FreeOnlineVPN#%40v2rayconfigamir%207259 ### 1773317170531
