@@ -60,3 +60,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSWmlySHpTcXl5YjM3RERJaVFlRExaVEpmdDVaUUdtVUN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#%F0%9F%87%A9%F0%9F%87%AA%7B%7D ### 1773341902730
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#%20%7B%7D ### 1773341902730
 vless://20d983ca-d7fa-4fc6-a3db-c6f7e56c4629@188.114.98.0:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=a4.maxriser.ir&fp=chrome&type=ws&allowInsecure=1&sni=a4.maxriser.ir#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple ### 1773344208025
+vless://9298fb7d-d257-4b52-b9ac-d1fb279e3032@wsss.beepn.info:2087?type=ws&encryption=none&path=%2Fpath&host=Ws2.beepn.info&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=Ws2.beepn.info#Ws-Other ### 1773346243674
