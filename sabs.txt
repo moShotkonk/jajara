@@ -1,5 +1,3 @@
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@23.95.113.104:443?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#Maznet-Psiphon-4{} ### 1773304299176
-vless://a4b53348-294d-43be-8549-93055291de3f@46.225.61.97:8080?type=ws&amp;encryption=none&amp;path=%2Fws&amp;host=v.iampedi7.live&amp;security=none#iampedi-vless-cdn-8880-sym32ta4{} ### 1773304302973
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659?note=@FreeOnlineVPN#%40v2rayconfigamir%209676{} ### 1773317165604
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659?#%40v2rayconfigamir%205248 ### 1773317176136
 vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@pq-BosniaandHerzegovina1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#%40v2rayconfigamir%209668 ### 1773317181733
@@ -41,3 +39,4 @@ vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@nlcdn7.suio.me:443?security=tls&enc
 vless://1218c022-dca8-49e5-b7d4-a04f3023db81@nr-01.opsvpnvless.ru:443?type=tcp&amp;security=reality&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;pbk=2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0&amp;sid=4e249e62&amp;sni=stats.vk-portal.net#%40v2rayconfigamir%209857{} ### 1773403673173
 vless://2c564cf2-2291-4c8a-ad02-d8db601c41f9@5.180.47.159:8443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;pbk=Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo&amp;security=reality&amp;sid=9edc548e1e284d84&amp;sni=google.com&amp;type=tcp#%40v2rayconfigamir%201726{} ### 1773403677140
 vless://1218c022-dca8-49e5-b7d4-a04f3023db81@89.185.81.169:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;pbk=2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0&amp;security=reality&amp;sid=4e249e62&amp;sni=stats.vk-portal.net&amp;type=tcp#%40v2rayconfigamir%207948{} ### 1773403687296
+vless://2c564cf2-2291-4c8a-ad02-d8db601c41f9@5.180.47.159:8443?security=reality&encryption=none&pbk=Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9edc548e1e284d84#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple ### 1773419275420
