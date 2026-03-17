@@ -27,3 +27,4 @@ vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@68.64.179.96:443?encryption=none&am
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppQ2ROUElmMTdpNjgyMXVtQjJoZ0lF@104.192.227.163:443/?outline=1&prefix=%16%03%01%00%C2%A8%01%01#🇺🇸 ### 1773762674947
 vless://19a1e5b1-6289-4fe6-9aad-be285510942d@av.nexconnx.com:8080?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=check-host.net#%20{} ### 1773776943593
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2Fhttp#%20{} ### 1773776956638
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%20{} ### 1773776960630
