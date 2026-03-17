@@ -23,3 +23,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#%20{} #
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#%20 ### 1773693638622
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkUDBveGp5Z0VXcUFEMFFKY3UzR1lo@216.105.168.18:443/?outline=1&amp;prefix=%16%03%01%00%C2%A8%01%01#🇺🇸{} ### 1773705942336
 vless://553faafb-9d5e-4986-a2ab-450ad9fc6a3f@83.228.219.69:8443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;security=reality&amp;sni=dropbox.com&amp;type=tcp#%40v2rayconfigamir%208757{} ### 1773705980955
+vless://553faafb-9d5e-4986-a2ab-450ad9fc6a3f@83.228.219.194:8443?flow=xtls-rprx-vision&amp;encryption=none&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=dropbox.com&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%40v2rayconfigamir%201851{} ### 1773705984065
