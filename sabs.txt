@@ -28,3 +28,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppQ2ROUElmMTdpNjgyMXVtQjJoZ0lF@104.192.227.16
 vless://19a1e5b1-6289-4fe6-9aad-be285510942d@av.nexconnx.com:8080?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=check-host.net#%20{} ### 1773776943593
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2Fhttp#%20{} ### 1773776956638
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%20{} ### 1773776960630
+vless://d706bf16-124a-417b-aaa0-0d6d5efd58fd@38.60.212.251:29059?security=reality&amp;encryption=none&amp;pbk=V_eMkcHXf237wGyfggMHHRvQqw51rW1UJPEIw_T2IE4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mensura.cdn-apple.com&amp;sid=6ba85179e30d4fc2#🇯🇵{} ### 1773789152564
