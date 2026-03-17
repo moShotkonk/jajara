@@ -30,3 +30,4 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&a
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%20{} ### 1773776960630
 vless://d706bf16-124a-417b-aaa0-0d6d5efd58fd@38.60.212.251:29059?security=reality&amp;encryption=none&amp;pbk=V_eMkcHXf237wGyfggMHHRvQqw51rW1UJPEIw_T2IE4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mensura.cdn-apple.com&amp;sid=6ba85179e30d4fc2#🇯🇵{} ### 1773789152564
 vless://26524cce-d514-4014-a426-365fb266a14d@57.129.63.64:8443?&amp;security=tls&amp;fp=random&amp;sni=cyuxj212pnq.chinat.indevs.in&amp;type=ws&amp;headerType=none&amp;host=cyuxj212pnq.chinat.indevs.in&amp;path=%2Fdanfeng#🇩🇪{} ### 1773789156603
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#🇧🇬{} ### 1773789161820
