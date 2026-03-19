@@ -30,3 +30,4 @@ vless://6dfbef3b-f718-4053-806f-c9657e2fd943@us.jljd.xyz:11225?security=reality&
 ss://YWVzLTI1Ni1nY206bktlRTJaRldWYUU0RHlqUg%3D%3D@154.38.176.7:80#%40v2rayconfigamir%203023{} ### 1773878755378
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@104.207.157.238:8443?security=tls&type=ws&path=%2Fdanfeng&host=chinam.sylu.net&alpn=http%2F1.1&sni=chinam.sylu.net&fp=random#%40v2rayconfigamir%208027 ### 1773878759944
 vless://6ca2c654-53b3-4ac1-a2ef-c4b4ee88727a@45.136.128.175:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=kzcdn1.suio.me#%40v2rayconfigamir%204349{} ### 1773878764096
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@69.169.111.44:443?&amp;security=tls&amp;fp=random&amp;alpn=http/1.1&amp;sni=snippet.fgfw.ccwu.cc&amp;type=ws&amp;headerType=none&amp;host=snippet.fgfw.ccwu.cc&amp;path=%2Fdanfeng#%40v2rayconfigamir%202995{} ### 1773878768153
